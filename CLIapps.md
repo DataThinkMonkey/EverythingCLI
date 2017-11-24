@@ -1,53 +1,32 @@
----
-title: CLIapps
----
+# Command Line Desktop Apps
 
-<div id="container">
 
-<div id="sidebar">
+**Objective:** This is my effort to show that anything on the Desktop can be
+done in a console.  It is meant to be as comprehensive as possible. Please
+submit pull requests or submit an issue for any changes. The list of GUI apps
+is not meant to be complete, but only serve a reference when looking for a
+possible replacement by the CLI app. 
 
-</div>
 
-<div id="main">
+## Command Line Desktop Applications Alternatives 
 
-<div id="logo">
 
-[Jared@Linux:\~\$](#)\
-\
-\
-This is my effort to give back to the Linux community. Focusing mostly
-on the Command Line Interface (CLI) and Desktop CLI applications. 
+### Categories
 
-</div>
 
-<div id="text">
-
-Command Line Desktop Applications Alternatives {#command-line-desktop-applications-alternatives align="center"}
-==============================================
-
-   My effort to show that anything on the Desktop can be done in a
-console.\
-\
-   This is a work in progress.\
-   [\
-]{style="text-decoration: underline;"}\
-### Categories\
-
-\
-[Office](#Office_)|[Grapics](#Graphics)|[Internet](#Internet)| [Social
+[Office](#Office)|[Grapics](#Graphics)|[Internet](#Internet)| [Social
 Networking](#Social_Networking)| [Organization](#Organization)|
 [Multimedia](#Multimedia)| [File Converters](#File_Converters)|
-[Games](#Games)\
+[Games](#Games)
 [Development](#Development)| [Utilities](#Utilities)| [File
 Management](#File_Management)| [Desktop Tools](#Desktop_Tools)|
 [Administration](#Administration)| [Educational](#Educational)\
 [Hobby/Specialty](#HobbySpecialty)| [Business/Finance
 Specialty](#Business_Specialty)
 
-[]{#Office_}Office
-------------------
+### [#Office]Office
 
-\
+
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
 +-----------------------+-----------------------+-----------------------+
