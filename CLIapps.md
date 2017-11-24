@@ -14,7 +14,7 @@ possible replacement by the CLI app.
 ### Categories
 
 
-[Office](#Office) | [Grapics](#Graphics) | [Internet](#Internet) | [Social
+[Office](###office) | [Grapics](#Graphics) | [Internet](#Internet) | [Social
 Networking](#Social_Networking) | [Organization](#Organization) |
 [Multimedia](#Multimedia) | [File Converters](#File_Converters) |
 [Games](#Games) | 
@@ -24,7 +24,7 @@ Management](#File_Management) | [Desktop Tools](#Desktop_Tools) |
 [Hobby/Specialty](#HobbySpecialty) | [Business/Finance
 Specialty](#Business_Specialty)
 
-[#Office] Office
+### Office
 
 
 +-----------------------+-----------------------+-----------------------+
