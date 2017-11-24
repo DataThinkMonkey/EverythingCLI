@@ -1,4 +1,4 @@
-# Command Line Desktop Apps
+# Command Line Desktop Applications Alternatives 
 
 
 **Objective:** This is my effort to show that anything on the Desktop can be
@@ -8,21 +8,20 @@ is not meant to be complete, but only serve a reference when looking for a
 possible replacement by the CLI app. 
 
 
-## Command Line Desktop Applications Alternatives 
 
 
-### Categories
+# Categories
 
 
-[Office](#office) | [Grapics](#Graphics) | [Internet](#Internet) | [Social
-Networking](#Social_Networking) | [Organization](#Organization) |
-[Multimedia](#Multimedia) | [File Converters](#File_Converters) |
-[Games](#Games) | 
-[Development](#Development) | [Utilities](#Utilities) | [File
-Management](#File_Management) | [Desktop Tools](#Desktop_Tools) |
-[Administration](#Administration) | [Educational](#Educational)
-[Hobby/Specialty](#HobbySpecialty) | [Business/Finance
-Specialty](#Business_Specialty)
+[Office](#office) | [Grapics](#graphics) | [Internet](#internet) | [Social
+Networking](#social_Networking) | [Organization](#organization) |
+[Multimedia](#multimedia) | [File Converters](#file_Converters) |
+[Games](#games) | 
+[Development](#development) | [Utilities](#utilities) | [File
+Management](#file_Management) | [Desktop Tools](#desktop_Tools) |
+[Administration](#administration) | [Educational](#educational)
+[Hobby/Specialty](#hobbySpecialty) | [Business/Finance
+Specialty](#business_Specialty)
 
 # Office
 
@@ -216,9 +215,7 @@ Specialty](#Business_Specialty)
 |                       |                       | -   more              |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Graphics}Graphics
----------------------
+# Graphics
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -313,9 +310,7 @@ Specialty](#Business_Specialty)
 |                       |                       | l)                    |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Internet}Internet
----------------------
+# Internet
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -673,11 +668,8 @@ Specialty](#Business_Specialty)
 |                       |                       | all.htm#dws)\         |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Social_Networking}Social Networking
----------------------------------------
+# Social_Networking
 
-\
 +-----------------------+-----------------------+-----------------------+
 | Application           | GUI Applications      | CLI Applications      |
 +-----------------------+-----------------------+-----------------------+
@@ -782,9 +774,7 @@ Specialty](#Business_Specialty)
 |                       |                       | forge.net/)           |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Organization}Organization
------------------------------
+# Organization
 
 +-----------------------+-----------------------+-----------------------+
 | Application           | GUI Applications      | CLI Applications      |
@@ -936,9 +926,7 @@ Specialty](#Business_Specialty)
 |                       |                       | )                     |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Multimedia}Multimedia
--------------------------
+# Multimedia
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -1271,9 +1259,7 @@ Specialty](#Business_Specialty)
 | Audio File Conversion | -   audacity          | -   aften             |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#File_Converters}File Converters
------------------------------------
+# File_Converters
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -1400,9 +1386,7 @@ Specialty](#Business_Specialty)
 |                       |                       | P7yPmh5bGK8/epub2pdf) |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Games}Games
----------------
+# Games
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -1620,9 +1604,7 @@ Specialty](#Business_Specialty)
 |                       |                       | et/)                  |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Development}Development
----------------------------
+# Development
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -1727,9 +1709,7 @@ Specialty](#Business_Specialty)
 |                       |                       | sourceforge.net/)     |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Utilities}Utilities
------------------------
+# Utilities
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -1911,9 +1891,7 @@ Specialty](#Business_Specialty)
 |                       |                       | l/dehtml/)\           |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#File_Management}File Management
------------------------------------
+# File_Management
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -2017,8 +1995,7 @@ Specialty](#Business_Specialty)
 |                       |                       |     filenames)        |
 +-----------------------+-----------------------+-----------------------+
 
-[]{#Desktop_Tools}Desktop Tools
--------------------------------
+# Desktop_Tools
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -2096,8 +2073,7 @@ Specialty](#Business_Specialty)
 |                       |                       | rash-cli/)            |
 +-----------------------+-----------------------+-----------------------+
 
-[]{#Administration}Administration
----------------------------------
+# Administration
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -2203,9 +2179,7 @@ Specialty](#Business_Specialty)
 |                       |                       | indimagedupes/)       |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Educational}Educational
----------------------------
+# Educational
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -2277,9 +2251,7 @@ Specialty](#Business_Specialty)
 | Language              | \                     | \                     |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#HobbySpecialty}Hobby/Specialty
-----------------------------------
+# HobbySpecialty
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -2334,9 +2306,8 @@ Specialty](#Business_Specialty)
 |                       |                       | .shtml)               |
 +-----------------------+-----------------------+-----------------------+
 
-\
-[]{#Business_Specialty}Business/Finance Specialty
--------------------------------------------------
+
+# Business_Specialty
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -2402,55 +2373,15 @@ Specialty](#Business_Specialty)
 |                       |                       | 1)                    |
 +-----------------------+-----------------------+-----------------------+
 
-\
-### [Todo]{style="text-decoration: underline;"}
+Todo
 
 -   add url links to all CLI applications
--   Convert site to database Possibly (RonR) or Wiki (so others can
-    edit)
 -   Include links to tutorials, How-to's or other instruction
 -   Improve page look to be more aesthetically pleasing
 -   Continue to update applications
 
-    \
-   I am constantly seeking recommendations for additions to this list or
-any other suggestions.\
-   Please email suggestions to [jared (at) jaredandcoralee (dot)
-com]{style="font-weight: bold;"}.\
-\
-### Contributions
+I am constantly seeking recommendations for additions to this list or
+any other suggestions.
 
--      Urukrama - recommended several applications which have been added
-    to the list
--      Christopher - recommended edbrowse accessibility tool
--      Antonio - recommended ecasound audio mixing
--      phrakture - recommended wicd-curses network manager
--      Bart - recommended bti twitter/identi.ca client
--      Jonas - recommended hpodder podcast catcher
--     [ Jans](http://www.kubieziel.de) - recommended AUCTex Emacs Latex
--      [Haiko](http://www.ostream.org) - recommended Mercurial version
-    control, python interpreter as a calculator, mathlab\
--      Xoan - recommended podget podcast catcher
--      [Laura](http://www.distasis.com/cpp/osrclist.htm) - recommended
-    several applications
--      [Patric](http://bhaak.dyndns.org/) - recommended vilistextum and
-    Bastet
--      [Surly](http://surlyteabag.blogspot.com) - recommended open tax
-    solver, surfraw and octave
--      [Adrian](http://adrian.fita.ro) - recommended too many to list
--      [Uriel](http://uriel.cat-v.org) (author of [Snake
-    Steak](http://repo.cat-v.org/snake_steak)) - recommended too many to
-    list, most from [Plan 9 from user space](http://plan9.us)\
--   Jonathon - recommeded [audio
-    burn](http://www.thecodefactory.org/audio_burn/) and
-    [rubyripper](http://code.google.com/p/rubyripper/)
+Please submit a pull request for changes or and issue for corrections.
 
-</div>
-
-</div>
-
-<div id="footer">
-
-</div>
-
-</div>
