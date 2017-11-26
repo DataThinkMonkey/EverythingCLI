@@ -4,7 +4,7 @@
 **Objective:** This is my effort to show that anything on the Desktop can be
 done in a console.  It is meant to be as comprehensive as possible. Please
 submit pull requests or submit an issue for any changes. The list of GUI apps
-is not meant to be complete, but only serve a reference when looking for a
+is not meant to be complete, but only serve as a reference when looking for a
 possible replacement by the CLI app. 
 
 
@@ -13,207 +13,205 @@ possible replacement by the CLI app.
 # Categories
 
 
-[Office](#office) | [Grapics](#graphics) | [Internet](#internet) | [Social
-Networking](#social_Networking) | [Organization](#organization) |
-[Multimedia](#multimedia) | [File Converters](#file_Converters) |
+[Office](#office) | [Graphics](#graphics) | [Internet](#internet) | [Social
+Media](#social-media) | [Organization](#organization) |
+[Multimedia](#multimedia) | [File Converters](#file-converters) |
 [Games](#games) | 
 [Development](#development) | [Utilities](#utilities) | [File
-Management](#file_Management) | [Desktop Tools](#desktop_Tools) |
-[Administration](#administration) | [Educational](#educational)
-[Hobby/Specialty](#hobbySpecialty) | [Business/Finance
-Specialty](#business_Specialty)
+Management](#file-management) | [Desktop Tools](#desktop-tools) |
+[Administration](#administration) | [Educational](#educational) |
+[Hobby/Specialty](#hobby-specialty) | [Business] (#business) | 
 
 # Office
 
 
-+-----------------------+-----------------------+-----------------------+
-| Applications          | GUI Applications      | CLI Applications      |
-+-----------------------+-----------------------+-----------------------+
-| Word Processor        | -   OpenOffice.org    | -   [AUCTex](http://w |
-|                       |     Writer            | ww.gnu.org/software/a |
-|                       | -   Abiword           | uctex/)               |
-|                       | -   kword             |     (Emacs latex)     |
-|                       |                       | -   [Enpi](http://enp |
-|                       |                       | iscript.blogspot.com/ |
-|                       |                       | )                     |
-|                       |                       |     (LaTex frontend)  |
-|                       |                       | -   [LaTeX(vim-latexs |
-|                       |                       | uite)](http://vim-lat |
-|                       |                       | ex.sourceforge.net/)  |
-|                       |                       | -   [MS Word          |
-|                       |                       |     5.5](http://downl |
-|                       |                       | oad.microsoft.com/dow |
-|                       |                       | nload/word97win/Wd55_ |
-|                       |                       | be/97/WIN98/EN-US/Wd5 |
-|                       |                       | 5_ben.exe)/WP         |
-|                       |                       |     6.1 (With DOS     |
-|                       |                       |     [Emuator](#Emulat |
-|                       |                       | ors))                 |
-|                       |                       | -   [Troff](http://ma |
-|                       |                       | n.cat-v.org/p9p/1/tro |
-|                       |                       | ff)\                  |
-|                       |                       | -   [Wordgrinder](htt |
-|                       |                       | p://wordgrinder.sourc |
-|                       |                       | eforge.net/)          |
-+-----------------------+-----------------------+-----------------------+
-| Spreadsheet           | -   OpenOffice.org    | -   [oleo](http://www |
-|                       |     Calc              | .gnu.org/software/ole |
-|                       | -   gnumeric          | o/)                   |
-|                       | -   Kspread           | -   [sc](http://www.e |
-|                       |                       | conomics.utoronto.ca/ |
-|                       |                       | jfloyd/stats/minmansc |
-|                       |                       | .pdf)                 |
-|                       |                       | -   slsc              |
-|                       |                       | -   [teapot](http://w |
-|                       |                       | ww.moria.de/%7Emichae |
-|                       |                       | l/teapot/)            |
-+-----------------------+-----------------------+-----------------------+
-| Presentation          | -   OpenOffice.org    | -   [beamer](http://e |
-|                       |     Presentation      | n.wikipedia.org/wiki/ |
-|                       | -   kpresent          | Beamer_%28LaTeX%29)   |
-|                       |                       | -   [tpp](http://www. |
-|                       |                       | ngolde.de/tpp.html)   |
-|                       |                       | -   [xsw](http://code |
-|                       |                       | .google.com/p/xsw/)   |
-+-----------------------+-----------------------+-----------------------+
-| PDF Viewer            | -   xpdf              | -   fbgs (fbi)        |
-|                       | -   Adobe Acrobat     | -   [green](http://fr |
-|                       |     Reader            | eshmeat.net/projects/ |
-|                       | -   kpdf              | green-2#release_30367 |
-|                       |                       | 6)                    |
-+-----------------------+-----------------------+-----------------------+
-| MS XML Formats (2007) | -   OpenOffice.org    | [\[See File           |
-|                       |                       | Converters\]](#File_C |
-|                       |                       | onverters)            |
-+-----------------------+-----------------------+-----------------------+
-| MS Office Formats     | -   OpenOffice.org    | [\[See File           |
-| (pre-2007)            | -   Abiword (doc)     | Converters\]](#File_C |
-|                       |                       | onverters)            |
-|                       |                       | -   [antiword](http:/ |
-|                       |                       | /en.wikipedia.org/wik |
-|                       |                       | i/Antiword)           |
-|                       |                       |     (.doc)            |
-+-----------------------+-----------------------+-----------------------+
-| WordPerfect Formats   | -   kword (.wpd)      | [\[See File           |
-|                       |                       | Converters\]](#File_C |
-|                       |                       | onverters)            |
-+-----------------------+-----------------------+-----------------------+
-| OpenOffice.org        | -   OpenOffice.org    | [\[See File           |
-| Formats               |                       | Converters\]](#File_C |
-|                       |                       | onverters)\           |
-|                       |                       | -   [o3read](http://s |
-|                       |                       | iag.nu/o3read/)       |
-+-----------------------+-----------------------+-----------------------+
-| Abword Formats        | -   Abiword           | -   [Abiword](http:// |
-|                       |                       | opensource.weblogsinc |
-|                       |                       | .com/2005/06/29/use-a |
-|                       |                       | biword-to-convert-fil |
-|                       |                       | etypes-on-the-command |
-|                       |                       | -line/)               |
-+-----------------------+-----------------------+-----------------------+
-| Desktop Publishing    | -   Scribus           | -   [AUCTex](http://w |
-|                       |                       | ww.gnu.org/software/a |
-|                       |                       | uctex/)               |
-|                       |                       |     (Emacs latex)     |
-|                       |                       | -   [LaTeX            |
-|                       |                       |     (vim-latexsuite)] |
-|                       |                       | (http://vim-latex.sou |
-|                       |                       | rceforge.net/)        |
-+-----------------------+-----------------------+-----------------------+
-| Mailing Labels        | \                     | -   [Label            |
-|                       |                       |     Nation](http://ww |
-|                       |                       | w.red-bean.com/labeln |
-|                       |                       | ation/)               |
-+-----------------------+-----------------------+-----------------------+
-| Dictionary            | -   kdict             | -   [Dict](http://lin |
-|                       |                       | ux.die.net/man/3/dict |
-|                       |                       | )                     |
-|                       |                       | -   [edict](http://ww |
-|                       |                       | w.linux.com/feature/1 |
-|                       |                       | 13750)                |
-|                       |                       | -   [edictionary](htt |
-|                       |                       | p://edictionary.sourc |
-|                       |                       | eforge.net/)          |
-|                       |                       | -   [icant](http://ww |
-|                       |                       | w.turf.org/department |
-|                       |                       | s/publishing/incant/) |
-|                       |                       | -   [sdcv](http://sdc |
-|                       |                       | v.sourceforge.net/)   |
-+-----------------------+-----------------------+-----------------------+
-| Thesaurus             | -   kthesaurus        | -   [aiksaurus](http: |
-|                       | -   gaiksaurus        | //aiksaurus.sourcefor |
-|                       |                       | ge.net/)              |
-|                       |                       | -   [sdcv](http://sdc |
-|                       |                       | v.sourceforge.net/)   |
-|                       |                       | -   [thes.sh](http:// |
-|                       |                       | www.linuxhowtos.org/T |
-|                       |                       | ips%20and%20Tricks/cm |
-|                       |                       | dline_thesaurus.htm)  |
-+-----------------------+-----------------------+-----------------------+
-| Spell Checker         | \                     | -   espell            |
-|                       |                       | -   ispell            |
-|                       |                       | -   [look](http://lin |
-|                       |                       | ux.about.com/library/ |
-|                       |                       | cmd/blcmdl1_look.htm) |
-|                       |                       | -   aspell            |
-+-----------------------+-----------------------+-----------------------+
-| Gammar Checker        | -   Kaptain           | -   [grac](http://gra |
-|                       |                       | c.sourceforge.net/)   |
-+-----------------------+-----------------------+-----------------------+
-| PDF Creator           | -   Scribus           | [\[See Document       |
-|                       | -   OpenOffice.org    | converters\]](#File_C |
-|                       |                       | onverters)            |
-+-----------------------+-----------------------+-----------------------+
-| PDF Editor            | -   Scribus           | -   [Coherent PDF     |
-|                       |                       |     tools](http://www |
-|                       |                       | .coherentpdf.com/)    |
-|                       |                       | -   [JoinPDF](http:// |
-|                       |                       | www.iis.ee.ic.ac.uk/% |
-|                       |                       | 7Eg.briscoe/ICL/JoinP |
-|                       |                       | DF.html)              |
-|                       |                       | -   [PDFMap](http://w |
-|                       |                       | ww.librelogiciel.com/ |
-|                       |                       | software/PDFMap/actio |
-|                       |                       | n_Presentation)       |
-|                       |                       | -   [psselect](http:/ |
-|                       |                       | /www.knackered.org/an |
-|                       |                       | gus/psutils/psselect. |
-|                       |                       | html)                 |
-|                       |                       | -   [pdfsam](http://f |
-|                       |                       | eedproxy.google.com/~ |
-|                       |                       | r/freshmeat/feeds/fm- |
-|                       |                       | releases-global/~3/xL |
-|                       |                       | CwJwFVpK8/pdfsam)     |
-+-----------------------+-----------------------+-----------------------+
-| Fonts                 | \                     | -   [figlet](http://i |
-|                       |                       | anchai.50megs.com/fig |
-|                       |                       | let.html)             |
-|                       |                       | -   [fonter](http://f |
-|                       |                       | reshmeat.net/projects |
-|                       |                       | /fonter/)             |
-+-----------------------+-----------------------+-----------------------+
-| Text Manipulation     | \                     | -   awk               |
-|                       |                       | -   [cut](http://www. |
-|                       |                       | computerhope.com/unix |
-|                       |                       | /ucut.htm)            |
-|                       |                       | -   gsar              |
-|                       |                       | -   [paste](http://li |
-|                       |                       | nux.about.com/library |
-|                       |                       | /cmd/blcmdl_paste.htm |
-|                       |                       | )                     |
-|                       |                       | -   sed               |
-|                       |                       | -   [tr](http://en.wi |
-|                       |                       | kipedia.org/wiki/Tr_% |
-|                       |                       | 28Unix%29)            |
-+-----------------------+-----------------------+-----------------------+
-| Text Viewers          | \                     | -   [also see Text    |
-|                       |                       |     Editors](http://d |
-|                       |                       | av-text.sourceforge.n |
-|                       |                       | et/)                  |
-|                       |                       | -   cat               |
-|                       |                       | -   less              |
-|                       |                       | -   more              |
-+-----------------------+-----------------------+-----------------------+
+ Applications          | GUI Applications      | CLI Applications      |
+-----------------------+-----------------------+-----------------------+
+ Word Processor         -   OpenOffice.org     - [AUCTex](http://www.gnu.org/software/auctex/) 
+ 			-   Abiword
+                            Writer                                    
+                        -   kword              -   Emacs latex     
+                                               -   [Enpi](http://enpiscript.blogspot.com/) 
+                                               
+                                                                    
+                                                   LaTex frontend  
+                                               -   [LaTeX](vim-latexs 
+                                               uite)](http://vim-lat 
+                                               ex.sourceforge.net/)  
+                                               -   [MS Word          
+                                                   5.5](http://downl 
+                                               oad.microsoft.com/dow 
+                                               nload/word97win/Wd55_ 
+                                               be/97/WIN98/EN-US/Wd5 
+                                               5_ben.exe)/WP         
+                                                   6.1 (With DOS     
+                                                   [Emuator](#Emulat 
+                                               ors))                 
+                                               -   [Troff](http://ma 
+                                               n.cat-v.org/p9p/1/tro 
+                                               ff)\                  
+                                               -   [Wordgrinder](htt 
+                                               p://wordgrinder.sourc 
+                                               eforge.net/)          
+---------------------------------------------------------------------
+ Spreadsheet            -   OpenOffice.org     -   [oleo](http://www 
+                            Calc               .gnu.org/software/ole 
+                        -   gnumeric           o/)                   
+                        -   Kspread            -   [sc](http://www.e 
+                                               conomics.utoronto.ca/ 
+                                               jfloyd/stats/minmansc 
+                                               .pdf)                 
+                                               -   slsc              
+                                               -   [teapot](http://w 
+                                               ww.moria.de/%7Emichae 
+                                               l/teapot/)            
+---------------------------------------------------------------------
+ Presentation           -   OpenOffice.org     -   [beamer](http://e 
+                            Presentation       n.wikipedia.org/wiki/ 
+                        -   kpresent           Beamer_%28LaTeX%29)   
+                                               -   [tpp](http://www. 
+                                               ngolde.de/tpp.html)   
+                                               -   [xsw](http://code 
+                                               .google.com/p/xsw/)   
+---------------------------------------------------------------------
+ PDF Viewer             -   xpdf               -   fbgs (fbi)        
+                        -   Adobe Acrobat      -   [green](http://fr 
+                            Reader             eshmeat.net/projects/ 
+                        -   kpdf               green-2#release_30367 
+                                               6)                    
+---------------------------------------------------------------------
+ MS XML Formats (2007)  -   OpenOffice.org     [\[See File           
+                                               Converters\]](#File_C 
+                                               onverters)            
+---------------------------------------------------------------------
+ MS Office Formats      -   OpenOffice.org     [\[See File           
+ (pre-2007)             -   Abiword (doc)      Converters\]](#File_C 
+                                               onverters)            
+                                               -   [antiword](http:/ 
+                                               /en.wikipedia.org/wik 
+                                               i/Antiword)           
+                                                   (.doc)            
+---------------------------------------------------------------------
+ WordPerfect Formats    -   kword (.wpd)       [\[See File           
+                                               Converters\]](#File_C 
+                                               onverters)            
+---------------------------------------------------------------------
+ OpenOffice.org         -   OpenOffice.org     [\[See File           
+ Formats                                       Converters\]](#File_C 
+                                               onverters)\           
+                                               -   [o3read](http://s 
+                                               iag.nu/o3read/)       
+---------------------------------------------------------------------
+ Abword Formats         -   Abiword            -   [Abiword](http:// 
+                                               opensource.weblogsinc 
+                                               .com/2005/06/29/use-a 
+                                               biword-to-convert-fil 
+                                               etypes-on-the-command 
+                                               -line/)               
+---------------------------------------------------------------------
+ Desktop Publishing     -   Scribus            -   [AUCTex](http://w 
+                                               ww.gnu.org/software/a 
+                                               uctex/)               
+                                                   (Emacs latex)     
+                                               -   [LaTeX            
+                                                   (vim-latexsuite)] 
+                                               (http://vim-latex.sou 
+                                               rceforge.net/)        
+---------------------------------------------------------------------
+ Mailing Labels         \                      -   [Label            
+                                                   Nation](http://ww 
+                                               w.red-bean.com/labeln 
+                                               ation/)               
+---------------------------------------------------------------------
+ Dictionary             -   kdict              -   [Dict](http://lin 
+                                               ux.die.net/man/3/dict 
+                                               )                     
+                                               -   [edict](http://ww 
+                                               w.linux.com/feature/1 
+                                               13750)                
+                                               -   [edictionary](htt 
+                                               p://edictionary.sourc 
+                                               eforge.net/)          
+                                               -   [icant](http://ww 
+                                               w.turf.org/department 
+                                               s/publishing/incant/) 
+                                               -   [sdcv](http://sdc 
+                                               v.sourceforge.net/)   
+---------------------------------------------------------------------
+ Thesaurus              -   kthesaurus         -   [aiksaurus](http: 
+                        -   gaiksaurus         //aiksaurus.sourcefor 
+                                               ge.net/)              
+                                               -   [sdcv](http://sdc 
+                                               v.sourceforge.net/)   
+                                               -   [thes.sh](http:// 
+                                               www.linuxhowtos.org/T 
+                                               ips%20and%20Tricks/cm 
+                                               dline_thesaurus.htm)  
+---------------------------------------------------------------------
+ Spell Checker          \                      -   espell            
+                                               -   ispell            
+                                               -   [look](http://lin 
+                                               ux.about.com/library/ 
+                                               cmd/blcmdl1_look.htm) 
+                                               -   aspell            
+---------------------------------------------------------------------
+ Gammar Checker         -   Kaptain            -   [grac](http://gra 
+                                               c.sourceforge.net/)   
+---------------------------------------------------------------------
+ PDF Creator            -   Scribus            [\[See Document       
+                        -   OpenOffice.org     converters\]](#File_C 
+                                               onverters)            
+---------------------------------------------------------------------
+ PDF Editor             -   Scribus            -   [Coherent PDF     
+                                                   tools](http://www 
+                                               .coherentpdf.com/)    
+                                               -   [JoinPDF](http:// 
+                                               www.iis.ee.ic.ac.uk/% 
+                                               7Eg.briscoe/ICL/JoinP 
+                                               DF.html)              
+                                               -   [PDFMap](http://w 
+                                               ww.librelogiciel.com/ 
+                                               software/PDFMap/actio 
+                                               n_Presentation)       
+                                               -   [psselect](http:/ 
+                                               /www.knackered.org/an 
+                                               gus/psutils/psselect. 
+                                               html)                 
+                                               -   [pdfsam](http://f 
+                                               eedproxy.google.com/~ 
+                                               r/freshmeat/feeds/fm- 
+                                               releases-global/~3/xL 
+                                               CwJwFVpK8/pdfsam)     
+---------------------------------------------------------------------
+ Fonts                  \                      -   [figlet](http://i 
+                                               anchai.50megs.com/fig 
+                                               let.html)             
+                                               -   [fonter](http://f 
+                                               reshmeat.net/projects 
+                                               /fonter/)             
+---------------------------------------------------------------------
+ Text Manipulation      \                      -   awk               
+                                               -   [cut](http://www. 
+                                               computerhope.com/unix 
+                                               /ucut.htm)            
+                                               -   gsar              
+                                               -   [paste](http://li 
+                                               nux.about.com/library 
+                                               /cmd/blcmdl_paste.htm 
+                                               )                     
+                                               -   sed               
+                                               -   [tr](http://en.wi 
+                                               kipedia.org/wiki/Tr_% 
+                                               28Unix%29)            
+---------------------------------------------------------------------
+ Text Viewers           \                      -   [also see Text    
+                                                   Editors](http://d 
+                                               av-text.sourceforge.n 
+                                               et/)                  
+                                               -   cat               
+                                               -   less              
+                                               -   more              
+---------------------------------------------------------------------
 
 # Graphics
 
@@ -668,7 +666,7 @@ Specialty](#business_Specialty)
 |                       |                       | all.htm#dws)\         |
 +-----------------------+-----------------------+-----------------------+
 
-# Social_Networking
+# Social Media
 
 +-----------------------+-----------------------+-----------------------+
 | Application           | GUI Applications      | CLI Applications      |
@@ -1259,7 +1257,7 @@ Specialty](#business_Specialty)
 | Audio File Conversion | -   audacity          | -   aften             |
 +-----------------------+-----------------------+-----------------------+
 
-# File_Converters
+# File Converters
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -1891,7 +1889,7 @@ Specialty](#business_Specialty)
 |                       |                       | l/dehtml/)\           |
 +-----------------------+-----------------------+-----------------------+
 
-# File_Management
+# File Management
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -1995,7 +1993,7 @@ Specialty](#business_Specialty)
 |                       |                       |     filenames)        |
 +-----------------------+-----------------------+-----------------------+
 
-# Desktop_Tools
+# Desktop Tools
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -2251,7 +2249,7 @@ Specialty](#business_Specialty)
 | Language              | \                     | \                     |
 +-----------------------+-----------------------+-----------------------+
 
-# HobbySpecialty
+# Hobby Specialty
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
@@ -2307,7 +2305,7 @@ Specialty](#business_Specialty)
 +-----------------------+-----------------------+-----------------------+
 
 
-# Business_Specialty
+# Business Specialty
 
 +-----------------------+-----------------------+-----------------------+
 | Applications          | GUI Applications      | CLI Applications      |
