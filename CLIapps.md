@@ -31,7 +31,7 @@ possible replacement by the CLI app.
 
 GUI
 
-  * OpenOffice.org Writer
+  * LibreOffice Writer
   * Abiword
   * kword
 
@@ -49,7 +49,7 @@ CLI
 
 GUI
 
-  * OpenOffice.org Calc
+  * LibreOffice Calc
   * gnumeric
   * Kspread
 
@@ -65,7 +65,7 @@ CLI
 
 GUI
 
-  * OpenOffice.org Presentation
+  * LibreOffice Presentation
   * kpresent
 
 CLI
@@ -93,7 +93,7 @@ CLI
 
 GUI
 
-  * OpenOffice.org
+  * LibreOffice
 
 CLI
 
@@ -103,7 +103,7 @@ CLI
 
 GUI
 
-  * OpenOffice.org
+  * LibreOffice
   * Abiword (doc)
 
 CLI
@@ -122,11 +122,11 @@ CLI
 
   * [See File Converters]  
 
-### OpenOffice.org Formats
+### LibreOffice Formats
 
 GUI
 
-  * OpenOffice.org
+  * LibreOffice
 
 CLI
 
@@ -220,7 +220,7 @@ CLI
 GUI
 
   * Scribus
-  * OpenOffice.org
+  * LibreOffice
 
 CLI
 
@@ -285,7 +285,7 @@ CLI
 
 GUI
 
-  * OpenOffice.org Draw
+  * LibreOffice Draw
 
 CLI
 
@@ -1420,7 +1420,7 @@ formats)
 
 GUI
 
-  * OpenOffice.org
+  * LibreOffice
 
 CLI
 
@@ -1443,7 +1443,7 @@ CLI
 
 GUI
 
-  * OpenOffice.org writer
+  * LibreOffice writer
 
 CLI
 
