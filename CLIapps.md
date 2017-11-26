@@ -23,7 +23,7 @@ possible replacement by the CLI app.
 13. [Administration](#administration) 
 14. [Educational](#educational)
 15. [Hobby/Specialty](#hobby-specialty) 
-16. [Business and Finance] (#business-and-finance)  
+16. [Business and Finance](#business-and-finance)  
 
 ## Office
 
