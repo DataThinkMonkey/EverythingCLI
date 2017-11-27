@@ -1,6 +1,6 @@
 # Menu
 
-1. [Office](Office.md)\n
+[Office](Office.md)
 [Word Processor](Office.md#word-processor) 
 [Spreadsheet](Office.md#spreadsheet)
 [Presentation](Office.md#presentation)
