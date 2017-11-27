@@ -1,7 +1,9 @@
 # Menu
 
-[Office](Office.md)
-[Word Processor](Office.md#word-processor) 
+## [Office](Office.md)
+
+[Word Processor](Office.md#word-processor)
+
 [Spreadsheet](Office.md#spreadsheet)
 [Presentation](Office.md#presentation)
 [MS XML Formats (2007+)](Office.md)
