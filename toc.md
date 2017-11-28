@@ -46,15 +46,15 @@
 
 ## [Desktop Tools](DesktopTools.md)
 
-[Desktop Management](DesktopTools.md#desktop-management) | [Desktop Customization](DesktopTools.md#desktop-customization) | [Screen Saver/Desktop Apps](DesktopTools.md#screen-saver/desktop apps) | [Audio Clock](DesktopTools.md#audio-clock) | [Mouse](DesktopTools.md#mouse) | [Screen Capture ](DesktopTools.md#screen-capture) | [Shells Terminals ](DesktopTools.md#shells-terminals) | [Trashcan](DesktopTools.md#trashcan) 
+[Desktop Management](DesktopTools.md#desktop-management) | [Desktop Customization](DesktopTools.md#desktop-customization) | [Screen Saver](DesktopTools.md#screen-saver) | [Audio Clock](DesktopTools.md#audio-clock) | [Mouse](DesktopTools.md#mouse) | [Screen Capture ](DesktopTools.md#screen-capture) | [Shells Terminals ](DesktopTools.md#shells-terminals) | [Trashcan](DesktopTools.md#trashcan) 
 
 ## [Administration](Administration.md)
 
-[Printing](Administration.md#printing) | [Backup and Archieving](Administration.md#backup-and archieving) | [Partition Formatting](Administration.md#partition-formatting) | [Package Management](Administration.md#package-management) | [Package Lookup](Administration.md#package-lookup) | [Firewalls](Administration.md#firewalls) | [Service Management](Administration.md#service-management) | [Process Management](Administration.md#process-management) | [Network Administration](Administration.md#network-administration) | [Data Recovery](Administration.md#data-recovery) | [System Clean up](Administration.md#system-clean-up)
+[Printing](Administration.md#printing) | [Backup and Archieving](Administration.md#backup-and-archieving) | [Partition Formatting](Administration.md#partition-formatting) | [Package Management](Administration.md#package-management) | [Package Lookup](Administration.md#package-lookup) | [Firewalls](Administration.md#firewalls) | [Service Management](Administration.md#service-management) | [Process Management](Administration.md#process-management) | [Network Administration](Administration.md#network-administration) | [Data Recovery](Administration.md#data-recovery) | [System Clean up](Administration.md#system-clean-up)
 
 ## [Educational](Education.md)
 
-[Statistics](Education.md#statistics) | [Mathematical](Education.md#mathematical) | [Astronomy](Education.md#astronomy) | [Typing Tutor](Education.md#typing tutor) | [Biology and Chemistry](Education.md#biology-and-chemistry) | [Physics](Education.md#physics) | [Geography](Education.md#geography) | [Children](Education.md#children) | [Bibliography](Education.md#bibliography) | [Vocabulary](Education.md#vocabulary) | [Language](Education.md#language)
+[Statistics](Education.md#statistics) | [Mathematical](Education.md#mathematical) | [Astronomy](Education.md#astronomy) | [Typing Tutor](Education.md#typing-tutor) | [Biology and Chemistry](Education.md#biology-and-chemistry) | [Physics](Education.md#physics) | [Geography](Education.md#geography) | [Children](Education.md#children) | [Bibliography](Education.md#bibliography) | [Vocabulary](Education.md#vocabulary) | [Language](Education.md#language)
 
 ## [Hobby](Hobby.md)
 
