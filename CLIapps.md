@@ -1,30 +1,3 @@
-# Command Line Desktop Applications Alternatives 
-
-**Objective:** This is my effort to show that anything on the Desktop can be
-done in a console.  It is meant to be as comprehensive as possible. Please
-submit pull requests or submit an issue for any changes. The list of GUI apps
-is not meant to be complete, but only serve as a reference when looking for a
-possible replacement by the CLI app. 
-
-# Categories
-
-1. [Office](#office) 
-2. [Graphics](#graphics) 
-3. [Internet](#internet) 
-4. [Social Media](#social-media) 
-5. [Organization](#organization)
-6. [Multimedia](#multimedia) 
-7. [File Converters](#file-converters)
-8. [Games](#games)
-9. [Development](#development) 
-10. [Utilities](#utilities) 
-11. [File Management](#file-management) 
-12. [Desktop Tools](#desktop-tools)
-13. [Administration](#administration) 
-14. [Educational](#educational)
-15. [Hobby/Specialty](#hobby-specialty) 
-16. [Business and Finance](#business-and-finance)  
-
 ## Office
 
 ### Word Processor 
@@ -75,31 +48,7 @@ CLI
   * [xsw](http://code.google.com/p/xsw/)
 
   
-### PDF Viewer 
-
-GUI
-
-  * xpdf
-  * Adobe Acrobat Reader
-  * kpdf
-
-CLI
-
-  * fbgs (fbi)
-  * [green](http://freshmeat.net/projects/green-2#release_303676)
-
-  
-### MS XML Formats (2007+) 
-
-GUI
-
-  * LibreOffice
-
-CLI
-
-  * [See File Converters]  
-
-### MS Office Formats (pre-2007) 
+### Document Viewers 
 
 GUI
 
@@ -111,38 +60,6 @@ CLI
   * [See File Converters]
   * [antiword](http://en.wikipedia.org/wiki/Antiword) (.doc)
 
-  
-### WordPerfect Formats 
-
-GUI
- 
-  * kword (.wpd)
-
-CLI
-
-  * [See File Converters]  
-
-### LibreOffice Formats
-
-GUI
-
-  * LibreOffice
-
-CLI
-
-  * [See File Converters]  
-  * [o3read](http://siag.nu/o3read/)
-
-### Abiword Formats 
-
-GUI
-
-  * Abiword
-
-CLI
-
-  * [Abiword](http://opensource.weblogsinc.com/2005/06/29/use-abiword-to-convert-filetypes-on-the-command-line/)
-  
 ### Desktop Publishing 
 
 GUI
@@ -213,6 +130,19 @@ GUI
 CLI
 
   * [grac](http://grac.sourceforge.net/)
+
+### PDF Viewer 
+
+GUI
+
+  * xpdf
+  * Adobe Acrobat Reader
+  * kpdf
+
+CLI
+
+  * fbgs (fbi)
+  * [green](http://freshmeat.net/projects/green-2#release_303676)
 
   
 ### PDF Creator 
@@ -1414,9 +1344,68 @@ CLI
 
 ## File Converters
 
-Any Openoffice.org Convertion  
-(see [unoconv site](http://dag.wieers.com/home-made/unoconv/) for list of
-formats) 
+### Document Format Converters  
+
+GUI
+
+  * LibreOffice
+  * Abiword
+
+CLI
+
+  * [Pandoc](https://pandoc.org/)
+  * [unoconv (i.e. unoconv -f pdf $1)](http://dag.wieers.com/home-made/unoconv/)
+  * [pyodconverter](http://www.artofsolving.com/opensource/pyodconverter)
+  * [jodconverter](http://www.artofsolving.com/opensource/jodconverter)
+  * [odtwriter](http://docutils.sourceforge.net/)
+  * [docx2txt](http://sourceforge.net/projects/docx2txt/)
+  * [antiword](http://en.wikipedia.org/wiki/Antiword) (-p option for pdf)
+  * [catdoc](http://vitus.wagner.pp.ru/software/catdoc/) (txt)
+  * [wv](http://wvware.sourceforge.net/)
+  * [abiword Command Line](http://opensource.weblogsinc.com/2005/06/29/use-abiword-to-convert-filetypes-on-the-command-line/)
+  * 
+  
+### Other Formats Converters
+
+GUI
+
+
+CLI
+
+  * [o3read](http://siag.nu/o3read/) (o3totxt module)
+  * [html2text](http://search.cpan.org/%7Eawrigley/html2text-0.003/html2text.pl)
+  * [Vilitextum](http://bhaak.dyndns.org/vilistextum/)
+  * [chm2pdf](http://code.google.com/p/chm2pdf/)
+  * [rst2pdf](http://code.google.com/p/rst2pdf/)  
+  * [cbr2pdf script](http://pixatintes.freeprohost.com/?page_id=319)
+
+### PDF Converters 
+
+GUI
+
+CLI
+
+  * [pdftops](http://www.linuxcommand.org/man_pages/pdftops1.html)
+  * [ps2ascii](http://gd.tuwien.ac.at/linuxcommand.org/man_pages/ps2ascii1.html)
+  * [ps2pdf](http://www.ps2pdf.com/)
+  * [epub2pdf](http://feedproxy.google.com/~r/freshmeat/feeds/fm-releases-global/~3/P7yPmh5bGK8/epub2pdf)
+  
+### Spreadsheet Format Converters 
+
+GUI
+
+  * LibreOffice
+  * Gnumeric
+  * Google Sheets
+
+CLI
+
+  * [tosheets](https://github.com/kren1/tosheets)
+  * [xlhtml](http://freshmeat.net/projects/xlhtml/)
+  * [xls2cvs](http://vitus.wagner.pp.ru/software/catdoc/)
+  * [ssconvert](http://linux.die.net/man/1/ssconvert)
+
+### Presentation Format Converters
 
 GUI
 
@@ -1424,140 +1413,8 @@ GUI
 
 CLI
 
-Use to view or send a document in any OOo supported format
+  * [catppt](http://vitus.wagner.pp.ru/software/catdoc/)
 
-  * [unoconv (i.e. unoconv -f pdf $1)](http://dag.wieers.com/home-made/unoconv/)
-  * [pyodconverter](http://www.artofsolving.com/opensource/pyodconverter)
-  * [jodconverter](http://www.artofsolving.com/opensource/jodconverter)
-
-  
-### Convert .txt to .doc/.odt
-
-GUI
-
-CLI
-
-  * docutils ([odtwriter](http://www.linuxbeacon.com/doku.php/articles:odfwriter))
-
-### Convert .odt to .txt
-
-GUI
-
-  * LibreOffice writer
-
-CLI
-
-  * [odtwriter](http://www.rexx.com/%7Edkuhlman/odtwriter.html)
-  * [o3read](http://siag.nu/o3read/) (o3totxt module)
-
-### Convert .sxw to .html
-
-GUI
-
-CLI
-
-  * [o3read](http://siag.nu/o3read/) (o3tohtml module)
-
-  
-### Convert .pdf to .ps/.txt
-
-GUI
-
-CLI|
-
-  * [pdftops](http://www.linuxcommand.org/man_pages/pdftops1.html)
-  * [ps2ascii](http://gd.tuwien.ac.at/linuxcommand.org/man_pages/ps2ascii1.html)
-  * [ps2pdf](http://www.ps2pdf.com/)
-
-  
-### Convert .xls to other 
-
-GUI
-
-CLI
-
-  * [xlhtml (.html (Charts beta), .csv, tab delimited, xml)](http://freshmeat.net/projects/xlhtml/)
-  * [catdoc](http://vitus.wagner.pp.ru/software/catdoc/) (xls2cvs)
-  * gnumeric ([ssconvert](http://linux.die.net/man/1/ssconvert))
-
-  
-### Convert HTML to .txt
-
-GUI
-
-CLI
-
-  * [html2text](http://search.cpan.org/%7Eawrigley/html2text-0.003/html2text.pl)
-  * [Vilitextum](http://bhaak.dyndns.org/vilistextum/)
-
-### Convert .docx to .txt 
-
-GUI
-
-CLI
-
-  * [docx2txt](http://sourceforge.net/projects/docx2txt/)
-  
-### Convert .doc to other 
-
-GUI
-
-CLI
-
-  * [antiword](http://en.wikipedia.org/wiki/Antiword) (-p option for pdf)
-  * [catdoc](http://vitus.wagner.pp.ru/software/catdoc/) (txt)
-  * [wv (.html, Latex, DVI, .pdf, .txt, .abw, .wml, .mime)](http://wvware.sourceforge.net/)
-
-### Convert .ppt to .txt
-
-GUI
-
-CLI
-
-  * [catdoc](http://vitus.wagner.pp.ru/software/catdoc/) (catppt)
-
-### Convert .chm to .pdf
-
-GUI
-
-CLI
-
-  * [chm2pdf](http://code.google.com/p/chm2pdf/)
-  
-### Convert any Abiword compatible file (abw, rtf, txt, utf8, html, latex, pdf,
-pdb, odt,  kwd, eml, xml) |
-
-GUI
-
-  * Abiword
-
-CLI
-
-  * [abiword (i.e. abiword $1 --to=file.ext)](http://opensource.weblogsinc.com/2005/06/29/use-abiword-to-convert-filetypes-on-the-command-line/)
-
-### Convert .rst to .pdf  
-
-GUI
-CLI
-
-  * [rst2pdf](http://code.google.com/p/rst2pdf/)  
-
-### Convert .cbr/cbz (comic book) to .pdf
-
-GUI
-
-CLI
-
-  * [cbr2pdf script](http://pixatintes.freeprohost.com/?page_id=319)
-
-  
-### Convert epub(ebook) to .pdf
-
-GUI
-
-CLI
-
-  * [epub2pdf](http://feedproxy.google.com/~r/freshmeat/feeds/fm-releases-global/~3/P7yPmh5bGK8/epub2pdf)
   
 ## Games
 
@@ -2641,16 +2498,3 @@ GUI
 CLI
 
   * [gumnut](http://freshmeat.net/projects/gumnut#release_301731)
-
-### Todo
-
-  * Create TOC with links to all sub-headings.
-  * Clean up categories
-  * Have at least one significant GUI app for each task.
-  * Remove/replace abandoned or legacy apps.
-  * Validate all link work.
-  * add url links to all CLI applications
-  * Include links to tutorials, How-to's or other instruction
-  * Improve page look to be more aesthetically pleasing
-  * Continue to update applications
-
