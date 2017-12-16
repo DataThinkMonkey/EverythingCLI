@@ -12,6 +12,21 @@ CLI
   * [ledger](http://wiki.github.com/jwiegley/ledger)
   * SQL Ledger
 
+### Invoicing
+
+GUI
+
+  * [Invoicely](https://invoicely.com/)
+
+CLI
+
+  * [Invoicer](https://github.com/t0mk/invoicer)
+  * [Invoicer-cli](https://github.com/bmullan91/invoicer-cli)
+  * [clinvoice](https://github.com/bartman/clinvoice)
+  * [Invoice Manger](https://github.com/jmurrayufo/InvoiceCLI)
+  * [Contract CLI Generator](https://github.com/edi9999/contract-cli-generator)
+  * [autofakture](https://github.com/krzyzak/autofaktura)
+
 ### Bitcoin
 
 GUI
