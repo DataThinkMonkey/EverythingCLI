@@ -158,9 +158,17 @@ GUI
 
   * mplayer
   * vlc
+  * Pandora
+  * Spotify
+  * Tidal
 
 CLI
 
+  * [Tidal CLI Client](https://github.com/okonek/tidal-cli-client)
+  * [Spotify CLI Linux](https://github.com/pwittchen/spotify-cli-linux)
+  * [Spotctl](https://github.com/jingweno/spotctl)
+  * [Pytify](https://github.com/bjarneo/Pytify)
+  * [Pianobar](https://6xq.net/pianobar/)
   * [fIcy](http://ficy.sourceforge.net/)
   * [vlc](http://www.videolan.org/doc/play-howto/en/ch04.html)
   * [mplayer](http://www.mplayerhq.hu/DOCS/HTML/en/commandline.html)

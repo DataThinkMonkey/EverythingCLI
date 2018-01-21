@@ -14,11 +14,29 @@ for a possible replacement by the CLI app.
 [Menu](toc.md)
 
 ## Updates
-Dec 16, 2017
+2018-01-21
+Added Pandora, Spotify and Tidal to Multimedia > Streaming Audio
+Added the following CLI applications:
+
+* Tidal CLI Client  
+* Spotify CLI Linux
+* Spotctl
+* Pytify
+* Pianobar
+
+2017-12-16
 Added Invoicing Section to Business
-Added the following:
+Added the following CLI applications:
 
+* Invoicer
+* Invoicer-cli
+* clinvoice
+* Invoice Manger
+* Contract CLI Generator
+* autofakture
 
+2017-11-24
+Converted website to markdown for github.
 
 ## Branches
 
