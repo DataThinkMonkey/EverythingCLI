@@ -389,9 +389,10 @@ CLI
 ### Informational  
 
 GUI
-
+  * Reddit
 CLI
 
+  * [rtv](https://github.com/jaebradley/rotten_tomatoes_cli) (Reddit)
   * [DWS (distrowatch statistics)](http://smxi.org/site/install.htm#dws)  
 
 

@@ -14,18 +14,38 @@ for a possible replacement by the CLI app.
 [Menu](toc.md)
 
 ## Updates
+2018-01-23
+
+Added 
+
+* Shooting game Piu Piu SH to Games.
+* Rotten Tomatoes CLI to Multimedia.
+* Open-Paperless (scan and index) to Office.
+* rtv (reddit) to Internet.
+* tosheets (Google Sheets) to Office.
+* nba-go (NBA Game Live) to Hobbies.
+* Geeknotes (Evernote) to Office. 
+
+---
+
 2018-01-21
+
 Added Pandora, Spotify and Tidal to Multimedia > Streaming Audio
+
 Added the following CLI applications:
 
-* Tidal CLI Client  
-* Spotify CLI Linux
-* Spotctl
-* Pytify
-* Pianobar
+* Tidal CLI Client  (Tidal)
+* Spotify CLI Linux (Spotify)
+* Spotctl (Spotify)
+* Pytify (Spotify)
+* Pianobar (Pandora)
+
+---
 
 2017-12-16
+
 Added Invoicing Section to Business
+
 Added the following CLI applications:
 
 * Invoicer
@@ -35,7 +55,10 @@ Added the following CLI applications:
 * Contract CLI Generator
 * autofakture
 
+---
+
 2017-11-24
+
 Converted website to markdown for github.
 
 ## Branches

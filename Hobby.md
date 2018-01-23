@@ -95,3 +95,13 @@ GUI
 CLI
 
   * [aes2501-wy](http://freeunix.dyndns.org:8088/site2/acpitool.shtml)
+
+### Sports
+
+GUI
+
+* nba.com
+
+CLI
+
+* [NBA Go](https://github.com/xxhomey19/nba-go) (Live NBA Play by Play)

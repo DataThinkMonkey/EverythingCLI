@@ -14,7 +14,7 @@ CLI
   * [slashem](http://slashem.sourceforge.net/)
   * [crawl](http://www.penguin-soft.com/penguin/man/6/crawl.html)
 
-Puzzle
+### Puzzle
 
 GUI
 
@@ -36,13 +36,14 @@ GUI
 
 CLI
 
-  * [moon-buggy](http://seehuhn.de/pages/moon-buggy)
-  * [ninvaders](http://ninvaders.sourceforge.net/)
-  * [micro snake](http://freshmeat.net/projects/micro-snake#release_302912)
+  * [Piu Piu SH](https://github.com/vaniacer/piu-piu-SH) (2D Side Scroll Shooter)
+  * [moon-buggy](http://seehuhn.de/pages/moon-buggy) (2D Scroll Driving)
+  * [ninvaders](http://ninvaders.sourceforge.net/) (Space Invaders)
+  * [micro snake](http://freshmeat.net/projects/micro-snake#release_302912) (Snake)
   * [myman](http://linux.softpedia.com/get/GAMES-ENTERTAINMENT/Arcade/MyMan-20397.shtml) (pac-man)
   * [overkill](http://www.penguin-soft.com/penguin/man/6/overkill.html)
   * [pacman](http://doctormike.googlepages.com/pacman.html)
-  * worm ([BSD-games](http://wiki.linuxquestions.org/wiki/BSD_games))
+  * worm ([BSD-games](http://wiki.linuxquestions.org/wiki/BSD_games)) (Screen Saver)
   
 ### RPG 
 

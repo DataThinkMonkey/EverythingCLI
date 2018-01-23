@@ -25,9 +25,11 @@ GUI
   * LibreOffice Calc
   * gnumeric
   * Kspread
+  * Google Sheets
 
 CLI
 
+  * [ToSheets](https://github.com/kren1/tosheets) (Google Sheets)
   * [oleo](http://www.gnu.org/software/oleo/)
   * [sc](http://www.economics.utoronto.ca/jfloyd/stats/minmansc.pdf)
   * slsc
@@ -209,3 +211,25 @@ CLI
   * less
   * more
 
+### Scanning 
+
+GUI
+
+* Simple Scan
+* Vuescan
+
+CLI
+
+* scanimage
+* [Open-Paperless](https://github.com/zhoubear/open-paperless) (Scan, index, archive)
+
+### Note Taking
+
+GUI
+
+* EverNote
+* One Note
+
+CLI
+
+* [GeekNote](https://github.com/zhoubear/open-paperless) (EverNote)

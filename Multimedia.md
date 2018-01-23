@@ -225,13 +225,14 @@ CLI
 
   * [gnupod](http://www.gnu.org/software/gnupod/)
 
-### TV Show Guide
+### Movie and TV Research Guide
 
 GUI  
 
 CLI
 
-  * [episoder](http://episoder.sourceforge.net/)
+  * [episoder](http://episoder.sourceforge.net/) (TV Episodes)
+  * [Rotten Tomatoes CLI](https://github.com/jaebradley/rotten_tomatoes_cli) 
 
   
 ### Video Streaming 
@@ -309,7 +310,7 @@ CLI
   * [mybashburn](http://mybashburn.sourceforge.net/)
   * [simpleburner](http://sirmacik.azalayah.net/simpleburner/)
 
-Audio File Tagging
+### Audio File Tagging
 
 GUI
 
@@ -319,7 +320,7 @@ CLI
   * [id3ed](http://users.dakotacom.net/%7Edonut/programs/id3ed.html)
   * [id3tool](http://nekohako.xware.cx/id3tool/)
 
-DVD Authoring 
+### DVD Authoring 
 
 GUI
 
