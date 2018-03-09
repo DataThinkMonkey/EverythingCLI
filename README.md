@@ -14,6 +14,15 @@ for a possible replacement by the CLI app.
 [Menu](toc.md)
 
 ## Updates
+
+2018-03-09
+
+Added
+
+* MapSCII to Education.
+
+---
+
 2018-01-23
 
 Added 

@@ -62,8 +62,12 @@ CLI
 
 GUI
 
+  * Google Earth
+
 CLI
-  
+ 
+  * [MapSCII](https://github.com/rastapasta/mapscii)
+
 ### Children 
 
 GUI
