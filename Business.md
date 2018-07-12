@@ -9,7 +9,7 @@ CLI
   * [brinance](http://locoburger.org/prog/brinance/brinance-4.html)
   * chkbk
   * [clacct](http://clacct.sourceforge.net/)
-  * [ledger](http://wiki.github.com/jwiegley/ledger)
+  * [ledger](https://ledger-cli.org)
   * SQL Ledger
 
 ### Invoicing
@@ -39,7 +39,7 @@ GUI
 
 CLI
 
-  * [mbank-cli](http://code.google.com/p/mbank-cli/)
+  * [mbank-cli](https://code.google.com/archive/p/mbank-cli)
 
 ### Tax 
 
@@ -59,7 +59,7 @@ CLI
 
   * bc
   * mathomatic
-  * [python interpreter](http://www.python.org/)  
+  * [python interpreter](https://www.python.org/)  
   * [wcalc](http://w-calc.sourceforge.net/)
   
 ### Inventory Tracking 
@@ -74,7 +74,7 @@ GUI
 
 CLI
 
-  * [MsCmdLineUtils](http://www.geocities.com/mimansoor/MsCmdLineUtils.html)
+  * [ticker.sh](https://github.com/pstadler/ticker.sh)
   * quote
   
 ### Currency Conversion
@@ -105,8 +105,8 @@ GUI
 
 CLI
 
-  * [asterisk](http://en.wikipedia.org/wiki/Asterisk_%28PBX%29)
-  * [callweaver](http://www.callweaver.org/wiki/CallWeaver)
+  * [asterisk](https://en.wikipedia.org/wiki/Asterisk_%28PBX%29)
+  * [callweaver](http://voip-info.org/callweaver/)
 
 ### Proposal Management
 
@@ -114,4 +114,4 @@ GUI
 
 CLI
 
-  * [gumnut](http://freshmeat.net/projects/gumnut#release_301731)
+  * [gumnut](http://freshmeat.sourceforge.net/projects/gumnut)

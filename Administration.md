@@ -21,15 +21,15 @@ CLI
 
   * [Areca](http://www.areca-backup.org/index.php)
   * [backup-manager](http://www.backup-manager.org/)
-  * [ccollect](http://www.nico.schottelius.org/software/ccollect/)  
+  * [ccollect](https://www.nico.schottelius.org/software/ccollect/)  
   * jar
-  * [lbackup](http://feedproxy.google.com/~r/freshmeat/feeds/fm-releases-global/~3/cqdSxBXQy8w/lbackup)
+  * [lbackup](http://www.lbackup.org/)
   * rdist
-  * [rdup](http://miek.nl/projects/rdup/)
+  * [rdup](https://github.com/miekg/rdup)
   * rsync
   * tar
   * [vbackup](http://man.cat-v.org/p9p/8/vbackup)
-  * [venti](http://doc.cat-v.org/plan_9/4th_edition/papers/venti)  
+  * [venti](http://doc.cat-v.org/plan_9/4th_edition/papers/venti/)
   * zip
   * zoo
   
@@ -76,7 +76,7 @@ GUI
 
 CLI
 
-  * [flex-fw](http://code.google.com/p/flex-fw/)
+  * [flex-fw](http://flex-fw.net/)
   * iptables
   * ufw
 
@@ -97,7 +97,7 @@ CLI
 
   * [cpulimit](http://cpulimit.sourceforge.net/)
   * ionice
-  * [nice](http://en.wikipedia.org/wiki/Nice_%28Unix%29)
+  * [nice](https://en.wikipedia.org/wiki/Nice_%28Unix%29)
   
 ### Network Administration
 
@@ -117,7 +117,7 @@ GUI
 CLI
 
   * [foremost](http://foremost.sourceforge.net/)
-  * [photorec](http://www.cgsecurity.org/wiki/PhotoRec)
+  * [photorec](https://www.cgsecurity.org/wiki/PhotoRec)
   * [safecopy](http://safecopy.sourceforge.net/)
 
 ### System Clean up
@@ -127,7 +127,7 @@ GUI
 CLI
 
   * [cleanlinks](http://www.xfree86.org/4.8.0/cleanlinks.1.html)
-  * [fdupes](http://netdial.caribe.net/%7Eadrian2/programs/fdupes.html) (finds duplicates)
+  * [fdupes](http://premium.caribe.net/~adrian2/programs/fdupes.html) (finds duplicates)
   * [findimagedupes](http://www.jhnc.org/findimagedupes/)
 
 

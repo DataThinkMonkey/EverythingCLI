@@ -16,9 +16,9 @@ CLI
   * [byobu](https://launchpad.net/byobu)
   * screen
   * dvtm
-  * [tmux](http://tmux.sourceforge.net/)
+  * [tmux](https://github.com/tmux/tmux)
   * twin
-  * [vwm](http://freshmeat.net/projects/vwm/)
+  * [vwm](http://vwm.sourceforge.net)
   
 ### Desktop Customization
 
@@ -41,8 +41,8 @@ GUI
 
 CLI
 
-  * [asciiquarium](http://www.robobunny.com/projects/asciiquarium/html/)
-  * [caca-utils](http://linux.die.net/man/1/cacafire) (cacafire, cacademo)
+  * [asciiquarium](https://robobunny.com/projects/asciiquarium/html/)
+  * [caca-utils](https://linux.die.net/man/1/cacafire) (cacafire, cacademo)
   * cmatrix
   * rain (bsdgames)
   * worm (bsdgames)
@@ -57,8 +57,8 @@ GUI
 CLI
 
   * [binclock](http://www.ngolde.de/binclock.html) (binary clock)
-  * [clockywock](http://soomka.com/)
-  * [tty-clock](http://github.com/xorg62/tty-clock/tree/master)
+  * [clockywock](https://soomka.com/)
+  * [tty-clock](https://github.com/xorg62/tty-clock/tree/master)
   
 ### Audio Clock
 
@@ -83,7 +83,7 @@ GUI
 
 CLI
 
-  * [byzanz](http://linux.die.net/man/1/byzanz-record)
+  * [byzanz](https://linux.die.net/man/1/byzanz-record)
   * [FBgrab](http://icculus.org/%7Echunky/ut/aaut/)
   * scrot
   
@@ -102,8 +102,7 @@ CLI
   * [fish](http://fishshell.org)
   * ksh
   * pdksh
-  * [pysh](http://www.aspyct.org/doku.php?id=pysh)
-  * [rc](http://rc.cat-v.org)  
+  * [rc](http://doc.cat-v.org/plan_9/4th_edition/papers/rc)
   * sh
   * tcsh
   
@@ -116,6 +115,6 @@ GUI
 
 CLI
 
-  * [trash-cli](http://code.google.com/p/trash-cli/)
+  * [trash-cli](https://github.com/andreafrancia/trash-cli)
   
 

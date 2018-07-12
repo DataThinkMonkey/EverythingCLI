@@ -15,15 +15,14 @@ GUI
 
 CLI
 
-  * [e](http://www.softnet.tuc.gr/%7Eapdim/projects/e/)
   * [gnuplot](http://www.gnuplot.info/)
   * [ised](http://ised.sourceforge.net/)
-  * [matlab](http://www.mathworks.com/products/matlab/) (-nojvm option)
-  * [mathomatic](http://mathomatic.org/math/) (Algebra)
+  * [matlab](https://www.mathworks.com/products/matlab/) (-nojvm option)
+  * [mathomatic](http://mathomatic.orgserve.de/math/) (Algebra)
   * [maxima (Algebra)](http://maxima.sourceforge.net/)
   * [num-util](http://suso.suso.org/programs/num-utils/)
   * [octave](http://www.gnu.org/software/octave/) (GNU Mathlab clone)
-  * [Trip](http://www.imcce.fr/Equipes/ASD/trip/trip.php) (Algebra - celestial mechanics)
+  * [Trip](https://www.imcce.fr/Equipes/ASD/trip/) (Algebra - celestial mechanics)
 
 ### Astronomy
 
@@ -33,6 +32,7 @@ CLI
 
   * Starchart
   * [SunriseSunset](http://wiki.tetrasys-design.net/SunriseSunset)
+  * [[see SAL site]](http://www.sai.msu.su/sal/)
   
 ### Typing Tutor 
 
@@ -46,17 +46,19 @@ CLI
 
 GUI 
 
-  * [[see SAL site]](http://sal.jyu.fi/Z/2/index.shtml)  
+  * [[see SAL site]](http://www.sai.msu.su/sal/)
 
 CLI
 
-  * [amap-align](http://bio.math.berkeley.edu/amap/)
+  * [[see SAL site]](http://www.sai.msu.su/sal/)
   
 ### Physics
 
 GUI
 
 CLI
+
+  * [[see SAL site]](http://www.sai.msu.su/sal/)
   
 ### Geography 
 
@@ -80,7 +82,7 @@ GUI
 
 CLI
 
-  * [sixpack](http://sourceforge.net/projects/sixpack/)
+  * several Bib Tex implementations.
   
 ### Vocabulary
 

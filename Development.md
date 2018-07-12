@@ -22,7 +22,7 @@ GUI
 CLI
 
   * [aee](http://dav-text.sourceforge.net/)
-  * [Diakonos](http://purepistos.net/diakonos/)
+  * [Diakonos](http://diakonos.pist0s.ca/)
   * [ed](http://dav-text.sourceforge.net/)
   * [emacs](http://dav-text.sourceforge.net/)
   * [fe](http://www.moria.de/%7Emichael/fe/) (emacs key binding, folding)
@@ -56,9 +56,9 @@ GUI
 CLI
 
   * [gplplus](http://gqlplus.sourceforge.net/) (Oracle client)
-  * [mySQL](http://www.mysql.com/)
-  * [PostgreSQL](http://www.postgresql.org/)
-  * [SQLite](http://www.sqlite.org/)
+  * [mySQL](https://www.mysql.com/)
+  * [PostgreSQL](https://www.postgresql.org/)
+  * [SQLite](https://www.sqlite.org/index.html)
   * [SQL Query Generator](http://stuff-mart.tripod.com/sqg/index.html)
 
   
@@ -68,10 +68,10 @@ GUI
 
 CLI
 
-  * [bzr](http://bazaar-vcs.org/)
+  * [bzr](http://bazaar.canonical.com/en/)
   * [CVS](http://www.nongnu.org/cvs/)
-  * [git](http://git-scm.com/)
-  * [Mercurial](http://www.selenic.com/mercurial/wiki/)
+  * [git](https://git-scm.com/)
+  * [Mercurial](https://www.mercurial-scm.org/wiki/)
   * [subversion](http://subversion.tigris.org/)
   
 ### Freshmeat
@@ -90,7 +90,7 @@ GUI
 CLI
 
   * [album](http://marginalhacks.com/Hacks/album/)
-  * [jpgind](http://www6.atpages.jp/petterik/jpgind/jpgind.html#About)
+  * [jpgind](https://directory.fsf.org/wiki/Jpgind)
 
 ### XML Handling 
 
@@ -99,4 +99,4 @@ GUI
 CLI
 
   * [xmlstar](http://xmlstar.sourceforge.net/)
-  * [xsh](http://xsh.sourceforge.net/)
+  * [xsh](https://xsh.sourceforge.io/)

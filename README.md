@@ -15,6 +15,22 @@ for a possible replacement by the CLI app.
 
 ## Updates
 
+2018-07-11
+
+Added
+
+* ticker.sh (Real-time Stock ticker) to Business. 
+* Reference [SAL](http://sai.msu.su/sal/) site in Education.md for CLI apps for Astronomy, Biology and Chemistry, Physics. The SAL website has a large reference of Scientific applications that run on Linux. This reference will need to be eventually hashed out due to its volume and may even warrant creating it's own section on this list, possibly Science.md. Adding this as the to-do task.
+* Referenced Bib Tex for Bibliography. There seems to be several ways to implement. Requires more research, but applies a reference for those needing this type of tool. Adding to to-do list.
+
+Removed
+
+* mscmdlineutils from Business.md - project no longer active. 
+* pysh from Shells - Project no longer active.
+* e form Education.md/Mathmatical - Unable to find project.
+* amap form Education/Biology and Chemistry. - Unable to find project.
+* sixpack from Education/Bibliography. Project seem out of date.
+
 2018-03-09
 
 Added
@@ -80,6 +96,8 @@ Converted website to markdown for github.
 # Todo
 
   * A lot of clean up and re-organization.
+  * Review [SAL website](http://sai.msu.su/sal/) and apps from that site to this project. Possibly create new Science.md category.
+  * Research implementation of Bib Tex for bibliography and add to Education.md.
   * Have at least one significant GUI app for each task.
   * Remove/replace abandoned or legacy apps.
   * Validate all link work.
