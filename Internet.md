@@ -30,6 +30,7 @@ GUI
 
 CLI
 
+  * [browsh](https://brow.sh)(Supports HTML 5 video, images, JS, WEbGL, etc)
   * [elinks](http://elinks.or.cz/)
   * [gopher](http://linux.about.com/cs/linux101/g/gopher.htm)
   * [links](http://www.jikos.cz/%7Emikulas/links/)
@@ -338,6 +339,8 @@ GUI
 
 CLI
 
+  * [yt2mp3](https://github.com/tterb/yt2mp3) (Downloads and converts Youtube music videos to mp3)
+  * [ytmdl](https://github.com/deepjyoti30/ytmdl) (Youtube music downloader)
   * [aria2](http://aria2.sourceforge.net/)
   * [axel](http://axel.alioth.debian.org/) (accelerates downloading)
   * curl

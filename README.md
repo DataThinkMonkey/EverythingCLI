@@ -11,25 +11,36 @@ Please submit pull requests or submit an issue for any changes. The list of GUI
 apps is not meant to be complete, but only serve as a reference when looking
 for a possible replacement by the CLI app. 
 
-[Menu](toc.md)
+[Menu](menu.md)
 
 ## Updates
+
+2018-07-16
+
+Added
+
+* browsh (Cool modern text browser supports HTML 5 video, JS and WebGL) to Internet/Web Browser.
+* ytmdl and yt2mp3 which downloads music videos from youtube and converts them to mp3 to Internet/Downloading
+
+---
 
 2018-07-11
 
 Added
 
 * ticker.sh (Real-time Stock ticker) to Business. 
-* Reference [SAL](http://sai.msu.su/sal/) site in Education.md for CLI apps for Astronomy, Biology and Chemistry, Physics. The SAL website has a large reference of Scientific applications that run on Linux. This reference will need to be eventually hashed out due to its volume and may even warrant creating it's own section on this list, possibly Science.md. Adding this as the to-do task.
+* Reference [SAL](http://sai.msu.su/sal/) site in Education.md for CLI apps for Astronomy, Biology and Chemistry, Physics. The SAL website has a large reference of Scientific applications that run on Linux. This reference will need to be eventually hashed out due to its volume and may even warrant creating it's own section on this list, possibly Science.md. Adding this to to-do task.
 * Referenced Bib Tex for Bibliography. There seems to be several ways to implement. Requires more research, but applies a reference for those needing this type of tool. Adding to to-do list.
 
 Removed
 
 * mscmdlineutils from Business.md - project no longer active. 
 * pysh from Shells - Project no longer active.
-* e form Education.md/Mathmatical - Unable to find project.
+* e from Education.md/Mathmatical - Unable to find project.
 * amap form Education/Biology and Chemistry. - Unable to find project.
-* sixpack from Education/Bibliography. Project seem out of date.
+* sixpack from Education/Bibliography. Project seems out of date.
+
+---
 
 2018-03-09
 
