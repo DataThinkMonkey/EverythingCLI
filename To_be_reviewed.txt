@@ -1,0 +1,2592 @@
+List of apps that need to be: 1) verified that project page is still available (there is a link to the application and it can be run on a relatively modern system) and 2) categorize project.  
+
+"https://inconsolation.wordpress.com/2013/06/09/0verkill-thirteen-years-after/"  - 0verkill: Thirteen years after
+
+"https://inconsolation.wordpress.com/2014/05/15/2048-c-and-everything-in-between/"  - 2048.c: And everything in between
+
+"https://inconsolation.wordpress.com/2013/02/06/2a-quick-and-simple-archiver/"  - 2a: Quick and simple archiver
+
+"https://inconsolation.wordpress.com/2014/10/06/asciiportal-ascii-sector-and-dwarf-fortress-text-only-so-to-speak/"  - ASCIIPortal, Ascii Sector and Dwarf Fortress: Text-only, so to speak
+
+"https://inconsolation.wordpress.com/2013/08/28/advanced-copy-sorely-needed-for-a-long-time/"  - Advanced Copy: Sorely needed, for a long time
+
+"https://inconsolation.wordpress.com/2013/09/01/audiopreview-despite-your-best-objections-cool/"  - AudioPreview: Despite your best objections, cool
+
+"https://inconsolation.wordpress.com/2014/08/01/bonus-a-dozen-remainders/"  - Bonus: A dozen remainders
+
+"https://inconsolation.wordpress.com/2014/10/02/bonus-a-dozen-more-remainders-3/"  - Bonus: A dozen more remainders 
+
+"https://inconsolation.wordpress.com/2014/08/20/bonus-a-dozen-more-remainders/"  - Bonus: A dozen more remainders
+
+"https://inconsolation.wordpress.com/2014/09/05/bonus-a-dozen-more-remainders-2/"  - Bonus: A dozen more remainders
+
+"https://inconsolation.wordpress.com/2014/10/13/bonus-a-dozen-more-remainders-4/"  - Bonus: A dozen more remainders
+
+"https://inconsolation.wordpress.com/2014/11/03/bonus-a-dozen-more-remainders-5/"  - Bonus: A dozen more remainders
+
+"https://inconsolation.wordpress.com/2014/11/21/bonus-a-dozen-more-remainders-6/"  - Bonus: A dozen more remainders
+
+"https://inconsolation.wordpress.com/2015/02/03/bonus-a-dozen-more-remainders-7/"  - Bonus: A dozen more remainders
+
+"https://inconsolation.wordpress.com/2015/03/04/bonus-a-dozen-more-remainders-8/"  - Bonus: A dozen more remainders
+
+"https://inconsolation.wordpress.com/2014/09/24/bonus-a-massive-missive-of-omission/"  - Bonus: A massive missive of omission
+
+"https://inconsolation.wordpress.com/2013/09/03/bonus-tying-up-loose-ends/"  - Bonus: Tying up loose ends
+
+"https://inconsolation.wordpress.com/2013/09/13/bonus-whats-left-of-the-bs/"  - Bonus: What’s left of the Bs
+
+"https://inconsolation.wordpress.com/2013/10/05/bonus-closing-out-the-cs/"  - Bonus: Closing the Cs, and a confession
+
+"https://inconsolation.wordpress.com/2013/10/17/bonus-and-so-d-goes/"  - Bonus: And so D goes
+
+"https://inconsolation.wordpress.com/2013/10/31/bonus-e-was-for-easy/"  - Bonus: E was for easy
+
+"https://inconsolation.wordpress.com/2013/11/11/bonus-f-is-for-finished/"  - Bonus: F is for finished
+
+"https://inconsolation.wordpress.com/2013/11/18/bonus-g-is-for-gone/"  - Bonus: G is for gone
+
+"https://inconsolation.wordpress.com/2013/11/27/bonus-h-is-for-has-been/"  - Bonus: H is for has-been
+
+"https://inconsolation.wordpress.com/2013/12/10/bonus-i-is-for-implemented/"  - Bonus: I is for implemented
+
+"https://inconsolation.wordpress.com/2013/12/13/bonus-j-is-for-just-finished/"  - Bonus: J is for just finished
+
+"https://inconsolation.wordpress.com/2013/12/16/bonus-k-is-for-kiboshed/"  - Bonus: K is for kiboshed
+
+"https://inconsolation.wordpress.com/2013/12/27/bonus-l-is-for-last-words/"  - Bonus: L is for last words
+
+"https://inconsolation.wordpress.com/2014/01/28/bonus-m-is-for-mopped-up/"  - Bonus: M is for mopped up
+
+"https://inconsolation.wordpress.com/2014/02/13/bonus-n-is-for-no-more/"  - Bonus: N is for no more
+
+"https://inconsolation.wordpress.com/2014/02/19/bonus-o-is-for-over-and-out/"  - Bonus: O is for over and out
+
+"https://inconsolation.wordpress.com/2014/03/22/bonus-p-is-for-pushing-up-daisies/"  - Bonus: P is for pushing up daisies
+
+"https://inconsolation.wordpress.com/2014/03/26/bonus-q-is-for-quietus/"  - Bonus: Q is for quietus
+
+"https://inconsolation.wordpress.com/2014/04/14/bonus-r-is-for-released/"  - Bonus: R is for released
+
+"https://inconsolation.wordpress.com/2014/05/14/bonus-s-is-for-squashed/"  - Bonus: S is for squashed
+
+"https://inconsolation.wordpress.com/2014/06/13/bonus-t-is-for-terminated/"  - Bonus: T is for terminated
+
+"https://inconsolation.wordpress.com/2014/06/17/bonus-u-is-for-used-up/"  - Bonus: U is for used up
+
+"https://inconsolation.wordpress.com/2014/06/22/bonus-v-is-for-vanquished/"  - Bonus: V is for vanquished
+
+"https://inconsolation.wordpress.com/2014/07/03/bonus-w-is-for-washed-up/"  - Bonus: W is for washed up
+
+"https://inconsolation.wordpress.com/2014/07/06/bonus-x-is-for-extinct/"  - Bonus: X is for extinct
+
+"https://inconsolation.wordpress.com/2014/07/11/bonus-z-is-for-zapped/"  - Bonus: Z is for zapped
+
+"https://inconsolation.wordpress.com/2014/10/26/bonus-a-score-of-games-after-a-score-of-games/"  - Bonus: A score of games after a score of games
+
+"https://inconsolation.wordpress.com/2014/12/09/bonus-a-score-of-games-after-a-score-of-games-2/"  - Bonus: A score of games after a score of games
+
+"https://inconsolation.wordpress.com/2015/04/02/bonus-a-low-score-of-games-after-a-score-of-games/"  - Bonus: A low score of games after a score of games
+
+"https://inconsolation.wordpress.com/2015/01/07/bonus-a-short-score-of-games/"  - Bonus: A short score of games
+
+"https://inconsolation.wordpress.com/2014/12/20/bonus-from-the-deepest-depths-of-debian/"  - Bonus: From the deepest depths of Debian
+
+"https://inconsolation.wordpress.com/2014/12/25/bonus-more-from-the-deepest-depths-of-debian/"  - Bonus: More from the deepest depths of Debian
+
+"https://inconsolation.wordpress.com/2014/12/28/bonus-more-from-the-deepest-depths-of-debian-2/"  - Bonus: More from the deepest depths of Debian
+
+"https://inconsolation.wordpress.com/2014/12/31/bonus-more-from-the-deepest-depths-of-debian-3/"  - Bonus: More from the deepest depths of Debian
+
+"https://inconsolation.wordpress.com/2013/03/15/bonus-back-up-in-your-braincurses-with-the-resurrection/"  - Bonus: Back up in your BrainCurses with the resurrection
+
+"https://inconsolation.wordpress.com/2013/10/09/bonus-d-is-for-debian/"  - Bonus: D is for Debian
+
+"https://inconsolation.wordpress.com/2014/09/07/bonus-fbff-fbpad-and-fbpdf-too/"  - Bonus: fbff, fbpad … and fbpdf too
+
+"https://inconsolation.wordpress.com/2013/07/20/bonus-missing-presumed-having-a-good-time/"  - Bonus: Missing … presumed having a good time
+
+"https://inconsolation.wordpress.com/2013/04/28/bonus-more-dead-soldiers/"  - Bonus: More dead soldiers
+
+"https://inconsolation.wordpress.com/2013/03/16/bonus-slmenu-and-some-seriously-wicked-console-wizardry/"  - Bonus: slmenu, and some seriously wicked console wizardry
+
+"https://inconsolation.wordpress.com/2013/12/30/bonus-solving-the-line-mystery/"  - Bonus: Solving the line mystery
+
+"https://inconsolation.wordpress.com/2013/10/31/bonus-the-framebuffer-is-your-friend/"  - Bonus: The framebuffer is your friend
+
+"https://inconsolation.wordpress.com/2013/03/09/bonus-the-honored-dead/"  - Bonus: The honored dead
+
+"https://inconsolation.wordpress.com/2013/07/30/bonus-the-sounds-of-silence/"  - Bonus: The sounds of silence
+
+"https://inconsolation.wordpress.com/2013/01/24/bonus-twin-bigger-and-better-than-ever/"  - Bonus: twin, bigger and better than ever
+
+"https://inconsolation.wordpress.com/2013/06/07/cavez-of-phear-flashbacks-to-the-80s/"  - CAVEZ of PHEAR: Flashbacks to the 80s
+
+"https://inconsolation.wordpress.com/2013/09/28/coherent-pdf-tools-pdf-power-at-the-cli/"  - Coherent PDF Tools: PDF power at the CLI
+
+"https://inconsolation.wordpress.com/2013/11/29/correction-a-tale-of-two-hunts/"  - Correction: A tale of two hunts
+
+"https://inconsolation.wordpress.com/2015/03/24/frozen-depths-clear-cold-perfection/"  - Frozen Depths: Clear, cold perfection
+
+"https://inconsolation.wordpress.com/2013/06/11/liberal-crime-squad-too-much-to-tell/"  - Liberal Crime Squad: Too much to tell
+
+"https://inconsolation.wordpress.com/2014/01/25/microsoft-word-5-5-and-wordperfect-5-1-say-what/"  - Microsoft Word 5.5 and WordPerfect 5.1: Say what?!
+
+"https://inconsolation.wordpress.com/2014/01/05/midnight-commander-the-industry-standard/"  - Midnight Commander: The industry standard
+
+"https://inconsolation.wordpress.com/2014/12/07/mutant-aliens-we-gotta-get-out-of-this-place/"  - Mutant Aliens!: We gotta get out of this place
+
+"https://inconsolation.wordpress.com/2014/02/07/networkmanager-i-have-been-mistaken/"  - NetworkManager: I have been mistaken
+
+"https://inconsolation.wordpress.com/2015/04/01/neverwinter-mmorpg-mania-in-text-only/"  - Neverwinter: MMORPG mania, in text only
+
+"https://inconsolation.wordpress.com/2013/02/09/nopriv-py-a-clever-e-mail-backup/"  - NoPriv.py: A clever e-mail backup
+
+"https://inconsolation.wordpress.com/2013/03/01/open-cubic-player-so-much-awesome-all-at-once/"  - Open Cubic Player: So much awesome all at once
+
+"https://inconsolation.wordpress.com/2014/11/28/prime-cyberroguelike-part-2/"  - PRIME: Cyberroguelike, part 2
+
+"https://inconsolation.wordpress.com/2014/10/23/starlanes-a-refreshing-economic-endeavour/"  - Starlanes: A refreshing economic endeavour
+
+"https://inconsolation.wordpress.com/2014/12/05/trog-one-small-keypress-forward-for-ascii-kind/"  - TROG: One small keypress forward for ASCII-kind
+
+"https://inconsolation.wordpress.com/2014/12/01/tetrinet-the-natural-evolution-of-things/"  - TetriNET: The natural evolution of things
+
+"https://inconsolation.wordpress.com/2014/08/15/the-command-line-murders-no-its-not-an-application/"  - The Command Line Murders: No, it’s not an application
+
+"https://inconsolation.wordpress.com/2014/11/26/tomenet-out-of-the-console-and-onto-the-internet/"  - TomeNET: Out of the console and onto the Internet
+
+"https://inconsolation.wordpress.com/2014/10/28/wifiscanner-wonderfully-geeky/"  - WiFiScanner: Wonderfully geeky
+
+"https://inconsolation.wordpress.com/2014/01/01/xaos-off-to-a-good-start/"  - XaoS: Off to a good start
+
+"https://inconsolation.wordpress.com/2015/02/08/you-only-live-once-but-you-share-many-lives/"  - You Only Live Once: But you share many lives
+
+"https://inconsolation.wordpress.com/2013/06/17/zork-i-the-classic-having-aged-somewhat/"  - Zork I: The classic, having aged somewhat
+
+"https://inconsolation.wordpress.com/2014/12/04/aa3d-i-know-theres-a-pony-in-there-somewhere/"  - aa3d: I know there’s a pony in there somewhere
+
+"https://inconsolation.wordpress.com/2013/02/22/aafire-you-knew-this-was-coming/"  - aafire: You knew this was coming
+
+"https://inconsolation.wordpress.com/2014/07/26/aajm-conspiracy-theories-abound/"  - aajm: Conspiracy theories abound
+
+"https://inconsolation.wordpress.com/2013/04/02/abcde-as-simple-as-that/"  - abcde: As simple as that
+
+"https://inconsolation.wordpress.com/2013/08/29/abcm2ps-and-abcmidi-coolness-i-didnt-know-existed/"  - abcm2ps and abcmidi: Coolness I didn’t know existed
+
+"https://inconsolation.wordpress.com/2013/04/09/abook-a-simple-and-lovely-address-book/"  - abook: A simple and lovely address book
+
+"https://inconsolation.wordpress.com/2014/08/31/ack-a-grep-for-programmers/"  - ack: A grep for programmers
+
+"https://inconsolation.wordpress.com/2014/08/11/acoc-more-filter-based-colorizing-for-the-terminal/"  - acoc: More filter-based colorizing for the terminal
+
+"https://inconsolation.wordpress.com/2013/05/10/acpitool-information-please/"  - acpitool: Information, please
+
+"https://inconsolation.wordpress.com/2013/05/30/acripper-does-its-job-in-a-manner-of-speaking/"  - acripper: Does its job, in a manner of speaking
+
+"https://inconsolation.wordpress.com/2013/02/12/adcd-your-basic-cd-player/"  - adcd: Your basic CD player
+
+"https://inconsolation.wordpress.com/2014/10/17/adom-adding-another-dimension/"  - adom: Adding another dimension
+
+"https://inconsolation.wordpress.com/2013/08/06/adresownik-a-crash-course-in-polish/"  - adresownik: A crash course in Polish
+
+"https://inconsolation.wordpress.com/2013/06/15/adventure-you-have-to-start-at-the-beginning/"  - adventure: You have to start at the beginning
+
+"https://inconsolation.wordpress.com/2013/08/30/aee-something-for-everyone/"  - aee: Something for everyone
+
+"https://inconsolation.wordpress.com/2014/11/14/aewan-for-the-klimt-of-the-console/"  - aewan: For the Klimt of the console
+
+"https://inconsolation.wordpress.com/2014/08/20/ahorcapy-heir-apparent-to-the-hangman-legacy/"  - ahorcapy: Heir-apparent to the hangman legacy
+
+"https://inconsolation.wordpress.com/2013/06/02/aide-security-through-meticulous-checking/"  - aide: Security through meticulous checking
+
+"https://inconsolation.wordpress.com/2013/08/18/aiksaurus-continuing-the-a-theme/"  - aiksaurus: Continuing the “A” theme
+
+"https://inconsolation.wordpress.com/2013/06/04/aircrack-ng-opening-networks-opening-minds/"  - aircrack-ng: Opening networks, opening minds
+
+"https://inconsolation.wordpress.com/2013/03/19/album-pictures-in-a-show/"  - album: Pictures in a show
+
+"https://inconsolation.wordpress.com/2014/12/07/alienwave-the-fast-and-the-furious/"  - alienwave: The fast and the furious
+
+"https://inconsolation.wordpress.com/2015/04/14/alot-with-notmuch-help-involved-and-little-more/"  - alot: With notmuch help involved, and little more
+
+"https://inconsolation.wordpress.com/2013/08/16/alpine-not-the-best-not-the-worst/"  - alpine: Not the best, not the worst
+
+"https://inconsolation.wordpress.com/2014/08/31/alsaequal-not-omitted-by-any-means/"  - alsaequal: Not omitted, by any means
+
+"https://inconsolation.wordpress.com/2013/08/17/alsamixer-the-interface-we-all-know-and-love/"  - alsamixer: The interface we all know and love
+
+"https://inconsolation.wordpress.com/2013/08/31/amulecmd-peer-to-peer-at-the-console/"  - amulecmd: Peer-to-peer at the console
+
+"https://inconsolation.wordpress.com/2013/09/03/an-youre-a-cheat-admit-it/"  - an: You’re a cheat, admit it
+
+"https://inconsolation.wordpress.com/2015/03/09/anagram-and-multi-are-you-game/"  - anagram and multi: Are you game?
+
+"https://inconsolation.wordpress.com/2015/03/06/andatool-searching-forever-and-ever/"  - andatool: Searching forever and ever
+
+"https://inconsolation.wordpress.com/2014/10/18/angband-polishing-the-classic-format/"  - angband: Polishing the classic format
+
+"https://inconsolation.wordpress.com/2014/07/20/ansiweather-one-line-weather-report-with-frills/"  - ansiweather: One-line weather report, with frills
+
+"https://inconsolation.wordpress.com/2013/08/19/antiword-you-cant-deny-it-works/"  - antiword: You can’t deny it works
+
+"https://inconsolation.wordpress.com/2013/04/22/aoeui-and-sometimes-why/"  - aoeui: And sometimes … why?
+
+"https://inconsolation.wordpress.com/2014/12/03/aop-two-points-worth-bragging-about/"  - aop: Two points worth bragging about
+
+"https://inconsolation.wordpress.com/2013/08/20/apg-pronounced-ay-pee-jee/"  - apg: Pronounced, “ay-pee-jee”
+
+"https://inconsolation.wordpress.com/2014/09/19/aphex-the-tiny-hex-editor/"  - aphex: The tiny hex editor
+
+"https://inconsolation.wordpress.com/2013/08/21/apropos-whats-appropriate-at-the-time/"  - apropos: What’s appropriate, at the time
+
+"https://inconsolation.wordpress.com/2013/08/27/aptitude-one-just-for-the-swirlies/"  - aptitude: One just for the swirlies
+
+"https://inconsolation.wordpress.com/2014/09/10/archey3-and-alsi-what-all-the-cool-kids-are-doing/"  - archey3 and alsi: What all the cool kids are doing
+
+"https://inconsolation.wordpress.com/2013/04/08/archmage-prettifying-chm-files/"  - archmage: Prettifying chm files
+
+"https://inconsolation.wordpress.com/2013/08/22/aria-the-perfect-downloading-tool/"  - aria: The perfect downloading tool
+
+"https://inconsolation.wordpress.com/2013/09/02/arithmetic-exactly-what-it-says/"  - arithmetic: Exactly what it says
+
+"https://inconsolation.wordpress.com/2014/10/21/arkanoid-sed-sedtris-and-sokoban-sed-sed-tacular/"  - arkanoid.sed, sedtris and sokoban.sed: sed-tacular
+
+"https://inconsolation.wordpress.com/2014/12/08/arkurses-harder-better-faster-stronger/"  - arkurses: Harder, better, faster, stronger
+
+"https://inconsolation.wordpress.com/2013/01/13/ascii-invaders-chaos-at-the-console/"  - ascii-invaders: Chaos at the console
+
+"https://inconsolation.wordpress.com/2015/02/14/ascii-quick-and-dirty-info/"  - ascii: Quick and dirty info
+
+"https://inconsolation.wordpress.com/2014/07/25/asciijump-all-but-the-bitter-cold/"  - asciijump: All but the bitter cold
+
+"https://inconsolation.wordpress.com/2014/08/29/asciiplanes-akin-to-battleship-but-with-a-few-issues/"  - asciiplanes: Akin to Battleship, but with a few issues
+
+"https://inconsolation.wordpress.com/2013/03/27/asciiquarium-cheaper-and-cleaner-than-the-real-thing/"  - asciiquarium: Cheaper and cleaner than the real thing
+
+"https://inconsolation.wordpress.com/2013/05/14/aspell-a-spellchecker-at-the-console/"  - aspell: A spellchecker at the console
+
+"https://inconsolation.wordpress.com/2013/08/23/atc-white-knuckle-ascii-drama/"  - atc: White-knuckle ascii drama
+
+"https://inconsolation.wordpress.com/2013/08/24/atool-a-tool-for-archives/"  - atool: A tool for archives
+
+"https://inconsolation.wordpress.com/2013/02/20/atop-a-better-top/"  - atop: A better top
+
+"https://inconsolation.wordpress.com/2015/04/07/atto-pushing-the-limits-of-practicality/"  - atto: Pushing the limits of practicality
+
+"https://inconsolation.wordpress.com/2013/04/24/audiotag-tagging-music-files-in-its-purest-form/"  - audiotag: Tagging music files, in its purest form
+
+"https://inconsolation.wordpress.com/2013/03/26/audtty-music-remotely/"  - audtty: Music, remotely
+
+"https://inconsolation.wordpress.com/2013/06/10/aumix-another-happy-error/"  - aumix: Another happy error
+
+"https://inconsolation.wordpress.com/2014/11/26/avanor-a-return-to-the-roguelike-genre/"  - avanor: A return to the roguelike genre
+
+"https://inconsolation.wordpress.com/2013/08/25/avidemux-and-handbrake-video-sans-video/"  - avidemux and handbrake: Video, sans video
+
+"https://inconsolation.wordpress.com/2014/07/17/aview-let-me-draw-you-a-picture/"  - aview: Let me draw you a picture
+
+"https://inconsolation.wordpress.com/2013/08/26/awk-not-so-much-an-application-as-a-language/"  - awk: Not so much an application, as a language
+
+"https://inconsolation.wordpress.com/2013/05/12/axel-the-downloader-you-already-know/"  - axel: The downloader you already know
+
+"https://inconsolation.wordpress.com/2014/12/15/aylet-a-spectrum-of-sounds/"  - aylet: Sounds across the Spectrum
+
+"https://inconsolation.wordpress.com/2013/09/04/backgammon-a-better-teacher-this-time/"  - backgammon: A better teacher this time
+
+"https://inconsolation.wordpress.com/2014/08/11/baker-a-blogging-backend-for-console-minded-people/"  - baker: A blogging backend for console-minded people
+
+"https://inconsolation.wordpress.com/2014/10/18/banihstypos-not-a-typo/"  - banihstypos: Not a typo
+
+"https://inconsolation.wordpress.com/2014/09/11/banner-figlet-on-a-diet/"  - banner: figlet on a diet
+
+"https://inconsolation.wordpress.com/2013/09/05/barnowl-a-fullscreen-monochrome-im-client/"  - barnowl: A fullscreen, monochrome IM client
+
+"https://inconsolation.wordpress.com/2014/09/20/basename-what-i-had-in-mind/"  - basename: What I had in mind
+
+"https://inconsolation.wordpress.com/2013/09/07/bashburn-circular-reasoning/"  - bashburn: Circular reasoning
+
+"https://inconsolation.wordpress.com/2014/10/30/bashmarks-the-simple-solution/"  - bashmarks: The simple solution
+
+"https://inconsolation.wordpress.com/2015/02/26/bashmount-another-seemingly-roundabout-solution/"  - bashmount: Another seemingly roundabout solution
+
+"https://inconsolation.wordpress.com/2014/12/21/bashtagger-joining-the-coalition-party/"  - bashtagger: Joining the coalition party
+
+"https://inconsolation.wordpress.com/2013/09/04/bastet-just-as-infuriating-as-ever/"  - bastet: Just as infuriating as ever
+
+<a hrtps://inconsolation.wordpress.com/2013/09/05/battlestar-the-text-adventure-of-35-years-ago/"  - battlestar: The text adventure of 35 years ago
+
+"https://inconsolation.wordpress.com/2014/07/19/bb-not-so-much-a-game-and-not-so-much-an-application/"  - bb: Not so much a game, and not so much an application
+
+"https://inconsolation.wordpress.com/2014/08/21/bbdb-and-charrington-or-is-it-charrington-and-bbdb/"  - bbdb (and charrington): Or is it charrington (and bbdb) … ?
+
+"https://inconsolation.wordpress.com/2013/09/08/bc-power-at-your-fingertips/"  - bc: Power at your fingertips
+
+"https://inconsolation.wordpress.com/2015/03/12/beasts-crush-crumble-or-be-chomped/"  - beasts: Crush, crumble or be chomped
+
+"https://inconsolation.wordpress.com/2014/08/07/beav-the-binary-editor-and-viewer/"  - beav: The binary editor and viewer
+
+"https://inconsolation.wordpress.com/2013/02/19/beeswax-sadly-no-progress/"  - beeswax: Sadly, no progress
+
+"https://inconsolation.wordpress.com/2013/07/22/beets-not-the-veggie-kind/"  - beets: Not the veggie kind
+
+"https://inconsolation.wordpress.com/2014/07/22/betty-anti-aliasing/"  - betty: Anti-aliasing
+
+"https://inconsolation.wordpress.com/2013/09/06/bew-a-primitive-if-not-effective-webcrawler/"  - bew: A primitive, if not effective, webcrawler
+
+"https://inconsolation.wordpress.com/2014/12/18/bibcursed-light-and-speedy-reference-management/"  - bibcursed: Light and speedy reference management
+
+"https://inconsolation.wordpress.com/2013/04/03/biew-or-is-it-beye/"  - biew: Or is it beye?
+
+"https://inconsolation.wordpress.com/2014/09/27/binary-clock-welcome-to-the-geek-club/"  - binary-clock: Welcome to the geek club
+
+"https://inconsolation.wordpress.com/2013/09/07/binclock-just-a-piece-of-something-bigger/"  - binclock: Just a piece of something bigger
+
+"https://inconsolation.wordpress.com/2013/09/09/bing-i-was-better-off-not-knowing/"  - bing: I was better off not knowing
+
+"https://inconsolation.wordpress.com/2014/12/08/bingo-occasionally-i-wonder-why/"  - bingo: Occasionally, I wonder why
+
+"https://inconsolation.wordpress.com/2013/09/09/bion-short-and-sweet/"  - bion: Short and sweet
+
+"https://inconsolation.wordpress.com/2013/09/10/bitchx-chat-with-sass/"  - bitchx: Chat with sass
+
+"https://inconsolation.wordpress.com/2013/04/10/bitflu-a-tiny-torrent-daemon/"  - bitflu: A tiny torrent daemon
+
+"https://inconsolation.wordpress.com/2013/06/26/bitlbee-im-irc-imirc/"  - bitlbee: IM + IRC = IMIRC?
+
+"https://inconsolation.wordpress.com/2014/11/16/bitpocket-your-in-house-drop-box/"  - bitpocket: Your in-house drop box
+
+"https://inconsolation.wordpress.com/2013/09/10/bittorrent-and-bittornado-the-original-and-its-mimic/"  - bittorrent and bittornado: The original and its mimic
+
+"https://inconsolation.wordpress.com/2015/01/27/blessed-contrib-a-well-earned-clamor/"  - blessed-contrib: A well-earned clamor
+
+"https://inconsolation.wordpress.com/2014/07/20/bm-a-console-bookmark-ma/"  - bm: A console bookmark manager
+
+"https://inconsolation.wordpress.com/2014/09/11/bmon-hey-ridley/"  - bmon: Hey Ridley. …
+
+"https://inconsolation.wordpress.com/2015/04/10/boa-run-a-server-from-anywhere/"  - boa: Run a server from anywhere
+
+"https://inconsolation.wordpress.com/2013/04/11/boggle-reaching-back-to-a-classic/"  - boggle: Reaching back to a classic
+
+"https://inconsolation.wordpress.com/2013/09/11/boinctui-a-proper-text-based-user-interface/"  - boinctui: A proper text-based user interface
+
+"https://inconsolation.wordpress.com/2013/02/05/boxinfo-pl-what-it-shows/"  - boxinfo.pl: What it shows
+
+"https://inconsolation.wordpress.com/2014/12/11/bpm-tools-music-and-stuff/"  - bpm-tools: Music and … stuff
+
+"https://inconsolation.wordpress.com/2013/09/11/brinance-simple-command-line-accounting/"  - brinance: Simple command-line accounting
+
+"https://inconsolation.wordpress.com/2014/10/10/bropages-its-like-man-bro/"  - bropages: It’s like man, bro
+
+"https://inconsolation.wordpress.com/2014/08/13/bs-no-more-pens-and-paper/"  - bs: No more pens and paper
+
+"https://inconsolation.wordpress.com/2013/09/12/bsod-exactly-what-i-was-expecting/"  - bsod: Exactly what I was expecting
+
+"https://inconsolation.wordpress.com/2015/01/04/btag-action-interaction/"  - btag: Action-interaction
+
+"https://inconsolation.wordpress.com/2013/09/12/bti-i-can-give-you-no-guidance/"  - bti: I can give you no guidance
+
+"https://inconsolation.wordpress.com/2013/09/13/btpd-strictly-a-daemon/"  - btpd: Strictly a daemon
+
+"https://inconsolation.wordpress.com/2014/10/11/burn-cd-in-spite-of-its-age-quite-useful/"  - burn-cd: In spite of its age, quite useful
+
+"https://inconsolation.wordpress.com/2013/09/08/burn-an-aptly-named-script/"  - burn: An aptly named script
+
+"https://inconsolation.wordpress.com/2013/02/16/bviplus-a-vi-ish-hex-editor/"  - bviplus: A vi-ish hex editor
+
+"https://inconsolation.wordpress.com/2013/09/06/bwm-ng-flexible-smart-and-pretty/"  - bwm-ng: Flexible, smart and pretty
+
+"https://inconsolation.wordpress.com/2013/09/13/byobu-now-with-even-more-tmux/"  - byobu: Now with even more tmux
+
+"https://inconsolation.wordpress.com/2015/02/20/c-calcc-and-calccmd-three-small-calculators/"  - c, calcc and calccmd: Three small calculators
+
+"https://inconsolation.wordpress.com/2013/03/25/caca-tools-for-greater-things/"  - caca: Tools for greater things
+
+"https://inconsolation.wordpress.com/2013/09/14/cadubi-once-more-because-its-worth-it/"  - cadubi: Once more, because it’s worth it
+
+"https://inconsolation.wordpress.com/2014/07/31/caesar-julius-would-be-proud/"  - caesar: Julius would be proud
+
+"https://inconsolation.wordpress.com/2013/03/03/cal-hiding-in-plain-view/"  - cal: Hiding in plain view
+
+"https://inconsolation.wordpress.com/2013/09/15/calc-you-knew-this-was-coming/"  - calc: You knew this was coming
+
+"https://inconsolation.wordpress.com/07/16/calcurse-simple-is-best-usually/"  - calcurse: Simple is best … usually
+
+"https://inconsolation.wordpress.com/2014/12/24/cam-and-cam-one-for-the-eyes-one-for-the-ears/"  - cam and cam: One for the eyes, one for the ears
+
+"https://inconsolation.wordpress.com/2013/05/18/camp-an-audio-player-with-real-style/"  - camp: An audio player with real style
+
+"https://inconsolation.wordpress.com/2013/09/17/camshot-you-didnt-think-it-was-possible/"  - camshot: You didn’t think it was possible
+
+"https://inconsolation.wordpress.com/2013/09/15/canfield-the-solitaire-derivative/"  - canfield: The solitaire derivative
+
+"https://inconsolation.wordpress.com/2013/07/19/canto-a-practical-newsreader/"  - canto: A practical newsreader
+
+"https://inconsolation.wordpress.com/2013/09/28/castlots-dice-at-the-touch-of-a-key/"  - castlots: Dice at the touch of a key
+
+"https://inconsolation.wordpress.com/2013/09/17/cat-no-not-the-feline/"  - cat: No, not the feline
+
+"https://inconsolation.wordpress.com/2013/06/05/cataclysm-the-zombie-apocalypse-starts-now/"  - cataclysm: The zombie apocalypse starts now
+
+"https://inconsolation.wordpress.com/2013/09/16/catdoc-another-conversion-option/"  - catdoc: Another conversion option
+
+"https://inconsolation.wordpress.com/2014/10/15/cavewall-for-the-kahlo-of-the-console/"  - cavewall: For the Kahlo of the console
+
+"https://inconsolation.wordpress.com/2014/07/30/cbm-a-color-bandwidth-meter/"  - cbm: A color bandwidth meter
+
+"https://inconsolation.wordpress.com/2014/12/09/cboard-i-can-quit-my-whining-now/"  - cboard: I can quit my whining now
+
+"https://inconsolation.wordpress.com/2013/04/12/ccal-a-calendar-with-a-different-view/"  - ccal: A calendar with a different view
+
+"https://inconsolation.wordpress.com/2014/08/01/cclive-and-clive-so-thats-what-quvi-was-for/"  - cclive (and clive): So that’s what quvi was for
+
+"https://inconsolation.wordpress.com/2013/05/26/cclock-exactly-what-its-name-implies/"  - cclock: Exactly what its name implies
+
+"https://inconsolation.wordpress.com/2013/09/14/ccrypt-simple-encryption-simplified/"  - ccrypt: Simple encryption, simplified
+
+"https://inconsolation.wordpress.com/2013/09/18/ccx2-you-thought-audio-players-were-done/"  - ccx2: You thought audio players were done
+
+"https://inconsolation.wordpress.com/2013/09/19/ccze-colorize-your-logs-as-an-added-step/"  - ccze: Colorize your logs, as an added step
+
+"https://inconsolation.wordpress.com/2014/11/11/cdargs-changing-directories-quickly-and-visually/"  - cdargs: Changing directories, quickly and visually
+
+"https://inconsolation.wordpress.com/2013/05/01/cdcd-another-in-a-long-list-of-clever-cd-player-names/"  - cdcd: With a name like that …
+
+"https://inconsolation.wordpress.com/2013/09/16/cdf-useful-colorful-but-headstrong/"  - cdf: Useful, colorful … but headstrong
+
+"https://inconsolation.wordpress.com/2014/07/30/cdm-xdm-gdm-kdm-cdm/"  - cdm: xdm, gdm, kdm … cdm!
+
+"https://inconsola.wordpress.com/2013/09/21/cdparanoia-nothing-to-fear/"  - cdparanoia: Nothing to fear
+
+"https://inconsolation.wordpress.com/2013/09/24/cdrtools-cdrkit-and-cdrskin-untying-the-knot/"  - cdrtools, cdrkit and cdrskin: Untying the knot
+
+"https://inconsolation.wordpress.com/2013/09/19/cdtool-more-than-just-a-tool-really/"  - cdtool: More than just a tool, really
+
+"https://inconsolation.wordpress.com/2013/09/23/cdw-a-proper-console-application/"  - cdw: A proper console application
+
+"https://inconsolation.wordpress.com/2013/09/20/centerim-a-long-standing-favorite/"  - centerim: A long-standing favorite
+
+"https://inconsolation.wordpress.com/2014/07/15/cfdisk-somehow-overlooked/"  - cfdisk: Somehow overlooked
+
+"https://inconsolation.wordpress.com/2014/11/04/cfind-a-search-tool-built-on-a-search-tool/"  - cfind: A search tool built on a search tool
+
+"https://inconsolation.wordpress.com/2013/09/18/cgames-three-in-one-fun/"  - cgames: Three-in-one fun
+
+"https://inconsolation.wordpress.com/2013/09/20/charm-as-luck-would-have-it/"  - charm: As luck would have it
+
+"https://inconsolation.wordpress.com/2014/07/31/cheat-cheat-cheats-and-cheat-so-many-cheaters/"  - cheat, cheat, cheats and cheat: So many cheaters
+
+"https://inconsolation.wordpress.com/2014/10/04/checkmp3-does-exactly-that/"  - checkmp3: Does exactly that
+
+"https://inconsolation.wordpress.com/2013/09/21/chkbk-simpler-than-some-others/"  - chkbk: Simpler than some others
+
+"https://inconsolation.wordpress.com/2015/03/19/chroma-every-color-every-direction/"  - chroma: Every color, every direction
+
+"https://inconsolation.wordpress.com/2014/12/11/citadel-so-many-things-to-explore/"  - citadel: So many things to explore
+
+"https://inconsolation.wordpress.com/2013/03/18/cjots-books-pages-notes-and-probably-more/"  - cjots: Books, pages, notes and probably more
+
+"https://inconsolation.wordpress.com/2015/03/29/ckhet-i-have-no-idea-what-im-doing/"  - ckhet: I have no idea what I’m doing
+
+"https://inconsolation.wordpress.com/2013/09/25/clacct-multiple-user-multiple-account-finances/"  - clacct: Multiple user, multiple account finances
+
+"https://inconsolation.wordpress.com/2013/09/24/clamav-the-seat-belt-without-the-car/"  - clamav: The seat belt, without the car
+
+"https://inconsolation.wordpress.com/2013/05/24/clcal-low-maintenance-calendar-display/"  - clcal: Low-maintenance calendar display
+
+"https://inconsolation.wordpress.com/2013/09/22/cleanlinks-use-with-caution/"  - cleanlinks: Use with caution
+
+"https://inconsolation.wordpress.com/2013/07/20/clex-simplified-file-management/"  - clex: Simplified file management
+
+"https://inconsolation.wordpress.com/2013/09/25/climm-a-teeny-tiny-message-client/"  - climm: A teeny tiny message client
+
+"https://inconsolation.wordpress.com/2014/10/17/clines-connect-five/"  - clines: Connect … five?
+
+"https://inconsolation.wordpress.com/2013/08/14/clipf-cryptic-but-powerful/"  - clipf: Cryptic, but pa><br>
+
+"https://inconsolation.wordpress.com/2014/10/13/clist-what-happens-to-a-dream-deferred/"  - clist: What happens to a dream deferred?
+
+"https://inconsolation.wordpress.com/2014/07/27/cliwiki-needing-attention/"  - cliwiki: Needing attention
+
+"https://inconsolation.wordpress.com/2014/07/29/cloc-clock-your-code/"  - cloc: Clock your code
+
+"https://inconsolation.wordpress.com/2015/03/05/clockwork-easier-to-fudge/"  - clockwork: Easier to fudge
+
+"https://inconsolation.wordpress.com/2013/09/22/clockywock-good-colors-good-times/"  - clockywock: Good colors, good times
+
+"https://inconsolation.wordpress.com/2014/08/03/clog-custom-color-for-logs/"  - clog: Custom color for logs
+
+"https://inconsolation.wordpress.com/2013/01/24/cloudruby-a-tool-of-a-different-color/"  - cloudruby: A tool of a different color
+
+"https://inconsolation.wordpress.com/2013/07/26/clxmms-useful-at-a-distance-i-suppose/"  - clxmms: Useful at a distance, I suppose
+
+"https://inconsolation.wordpress.com/2013/09/23/cmatrix-none-the-worse-for-wear/"  - cmatrix: None the worse for wear
+
+"https://inconsolation.wordpress.com/2013/09/26/cmdftp-about-as-simple-as-it-gets/"  - cmdftp: About as simple as it gets
+
+"https://inconsolation.wordpress.com/2013/07/24/cmus-lightweight-elegance/"  - cmus: Lightweight elegance
+
+"https://inconsolation.wordpress.com/2014/08/02/co-the-command-organizer/"  - co: The command organizer
+
+"https://inconsolation.wordpress.com/2013/09/27/codemetre-counting-out-the-lines/"  - codemetre: Counting out the lines
+
+"https://inconsolation.wordpress.com/2014/08/01/codespell-prevents-embarrassing-code/"  - codespell: Prevents embarrassing code
+
+"https://inconsolation.wordpress.com/2014/07/15/collectl-system-details-in-detail/"  - collectl: System details, in detail
+
+"https://inconsolation.wordpress.com/2015/03/02/color-invaders-sh-a-script-and-a-site/"  - color-invaders.sh: A script! and a site!
+
+"https://inconsolation.wordpress.com/2014/07/28/colordiff-a-difference-in-color/"  - colordiff: A difference in color
+
+"https://inconsolation.wordpress.com/2014/08/03/colorex-i-might-as-well-include-them-all/"  - colorex: I might as well include them all
+
+"https://inconsolation.wordpress.com/2015/04/04/colormake-does-what-youd-expect/"  - colormake: Does what you’d expect
+
+"https://inconsolation.wordpress.com/2014/07/18/colorwrapper-quite-obviously-the-author-had-me-in-mind/"  - colorwrapper: Quite obviously, the author had me in mind
+
+"https://inconsolation.wordpress.com/2015/03/11/colour-yahtzee-your-craving-can-now-be-satisfied/"  - colour-yahtzee: Your craving can now be satisfied
+
+"https://inconsolation.wordpress.com/2014/08/02/colour-something-to-build-on-to/"  - colour: Something to build on to
+
+"https://inconsolation.wordpress.com/2013/09/27/colout-colorize-on-a-whim/"  - colout: Colorize on a whim
+
+"https://inconsolation.wordpress.com/2014/07/29/column-with-oddly-satisfying-results/" target="_blan: With oddly satisfying results
+
+"https://inconsolation.wordpress.com/2013/09/29/comm-the-right-tool-at-the-right-time/"  - comm: The right tool at the right time
+
+"https://inconsolation.wordpress.com/2014/11/17/commacd-just-so-long-as-you-know-where-youre-going/"  - commacd: Just so long as you know where you’re going
+
+"https://inconsolation.wordpress.com/2013/09/30/concalc-a-much-simpler-calculator/"  - concalc: A much simpler calculator
+
+"https://inconsolation.wordpress.com/2013/06/24/conconky-a-conky-for-your-console/"  - conconky: A conky for your console
+
+"https://inconsolation.wordpress.com/2013/04/06/cone-an-option-for-e-mail/"  - cone: An option for e-mail
+
+"https://inconsolation.wordpress.com/2015/02/11/connman-and-connman-ncurses-pros-and-cons/"  - connman and connman-ncurses: Pros and cons
+
+"https://inconsolation.wordpress.com/2014/10/19/conquest-much-time-spent-not-much-to-show/"  - conquest: Much time spent, not much to show
+
+"https://inconsolation.wordpress.com/2014/10/14/consolecandy-worth-the-effort/"  - consolecandy: Worth the effort?
+
+"https://inconsolation.wordpress.com/2014/12/17/conspy-take-command-of-your-command-line/"  - conspy: Take command of your command line
+
+"https://inconsolation.wordpress.com/2013/04/21/cortex-in-a-very-similar-vein/"  - cortex: In a very similar vein
+
+"https://inconsolation.wordpress.com/2013/09/29/cowsay-and-fortune-because-i-promised/"  - cowsay (and fortune): Because I promised
+
+"https://inconsolation.wordpress.com/2015/03/07/cp437-turning-frogs-into-handsome-princes-since-2013/"  - cp437: Turning frogs into handsome princes, since 2013
+
+"https://inconsolation.wordpress.com/2013/09/26/cpat-the-solitaire-collection-for-the-console/"  - cpat: The solitaire collection for the console
+
+"https://inconsolation.wordpress.com/2013/07/24/cplay-the-gold-standard/"  - cplay: The gold standard
+
+"https://inconsolation.wordpress.com/2014/09/05/cpubars-more-processors-equals-more-fun/"  - cpubars: More processors equals more fun
+
+"https://inconsolation.wordpress.com/2013/09/30/cpulimit-you-figure-out-why/"  - cpulimit: You figure out why
+
+"https://inconsolation.wordpress.com/2014/11/23/crafty-still-no-relief-in-sight/"  - crafty: Still no relief in sight
+
+"https://inconsolation.wordpress.com/2013/03/14/crawl-still-the-king-of-the-heap/"  - crawl: Still the king of the heap
+
+"https://inconsolation.wordpress.com/2014/10/05/create_ap-something-to-brighten-your-day/"  - create_ap: Something to brighten your day
+
+"https://inconsolation.wordpress.com/2013/10/01/cribbage-with-help-for-the-newcomers/"  - cribbage: With help for the newcomers
+
+"https://inconsolation.wordpress.com/2013/10/02/crip-picking-up-what-others-leave-out/"  - crip: Picking up what others leave out
+
+"https://inconsolation.wordpress.com/2013/10/01/cron-the-chronological-daemon/"  - cron: The chronological daemon
+
+"https://inconsolation.wordpress.com/2014/11/23/cryptoslam-puzzles-and-the-tool-to-sol  - cryptoslam: Puzzles, and the tool to solve them
+
+"https://inconsolation.wordpress.com/2014/10/25/cryptrover-get-out-quick/"  - cryptrover: Get out, quick
+
+"https://inconsolation.wordpress.com/2014/12/18/cscope-the-code-navigator/"  - cscope: The code navigator
+
+"https://inconsolation.wordpress.com/2013/10/02/csplit-split-but-with-a-little-more-control/"  - csplit: split, but with a little more control
+
+"https://inconsolation.wordpress.com/2014/10/08/csstidy-tidy-and-neat/"  - csstidy: Tidy and neat
+
+"https://inconsolation.wordpress.com/2014/08/09/csv2xls-back-to-the-harmless-and-mundane/"  - csv2xls: Back to the harmless and mundane
+
+"https://inconsolation.wordpress.com/2013/10/04/csvkit-lots-of-little-tools-in-a-pack/"  - csvkit: Lots of little tools, in a pack
+
+"https://inconsolation.wordpress.com/2013/01/29/ctodo-see-what-you-have-to-do/"  - ctodo: See what you have to do
+
+"https://inconsolation.wordpress.com/2013/04/13/ctorrent-less-a-daemon-more-an-app/"  - ctorrent: Less a daemon, more an app
+
+"https://inconsolation.wordpress.com/2014/11/22/ctris-and-seatris-a-homophonic-puzzle-pair/"  - ctris and seatris: A homophonic puzzle pair
+
+"https://inconsolation.wordpress.com/2013/10/04/curl-your-tool-for-accessing-the-great-beyond/"  - curl: Your tool for accessing the great beyond
+
+"https://inconsolation.wordpress.com/2013/10/05/curlpaste-not-serious-but-not-a-gimmick/"  - curlpaste: Not serious, but not a gimmick
+
+"https://inconsolation.wordpress.com/2015/03/25/cursedmate-right-ingredients-but-not-yet-perfect/"  - cursedmate: Right ingredients, but not yet perfect
+
+"https://inconsolation.wordpress.com/2014/09/05/curseofwar-to-the-delight-of-text-based-rts-fans/"  - curseofwar: To the delight of text-based RTS fans
+
+"https://inconsolation.wordpress.com/2014/11/27/curses-of-the-undead-your-3d-zombie-apocalypse-in-ascii/"  - curses-of-the-undead: Your 3D zombie apocalypse in ASCII
+
+"https://inconsolation.wordpress.com/2014/07/16/cursetag-so-close-and-yet-so-far/"  - cursetag: So close, and yet so far
+
+"https://inconsolation.wordpress.com/2013/01/09/cursetheweather-exactly-that/"  - cursetheweather: Exactly that
+
+"https://inconsolation.wordpress.com/2014/11/12/cuse-for-this-i-shall-recuse-myself/"  - cuse: For this, I shall recuse myself
+
+"https://inconsolation.wordpress.com/2013/10/03/cut-exactly-what-it-says/"  - cut: Exactly what it says
+
+"https://inconsolation.wordpress.com/2013/10/03/cutmp3-more-than-it-appears/"  - cutmp3: More than it appears
+
+"https://inconsolation.wordpress.com/2014/08/15/cv-the-coreutils-viewer/"  - cv: The coreutils viewer
+
+"https://inconsolation.wordpress.com/2013/07/29/cvlc-surprise-of-the-week/"  - cvlc: Surprise of the week
+
+"https://inconsolation.wordpress.com/2014/12/19/cwcp-learn-to-walk-before-you-run/"  - cwcp: Learn to walk before you run
+
+"https://inconsolation.wordpress.com/2013/10/05/cwp-not-the-feline-but-with-progress/"  - cwp: Notine, but with progress
+
+"https://inconsolation.wordpress.com/2014/09/09/dab-those-dots-and-boxes-from-your-childhood/"  - dab: Those dots and boxes from your childhood
+
+"https://inconsolation.wordpress.com/2013/10/06/dagger-a-quick-run-over-covered-ground/"  - dagger: A quick run over covered ground
+
+"https://inconsolation.wordpress.com/2013/10/07/dailystrips-gasping-for-air/"  - dailystrips: Gasping for air
+
+"https://inconsolation.wordpress.com/2014/12/17/dares-qui-audet-adipiscitur/"  - dares: Qui audet adipiscitur
+
+"https://inconsolation.wordpress.com/2014/08/30/darkstat-making-an-exception-again/"  - darkstat: Making an exception again
+
+"https://inconsolation.wordpress.com/2014/10/02/datamash-statistical-tools-for-raw-numerical-data/"  - datamash: Statistical tools for raw numerical data
+
+"https://inconsolation.wordpress.com/2013/10/17/date-the-possibilities-are-endless/"  - date: The possibilities are endless
+
+"https://inconsolation.wordpress.com/2013/10/06/dateutils-making-everything-better/"  - dateutils: Making everything better
+
+"https://inconsolation.wordpress.com/2013/02/11/dav-old-text-editors-never-die/"  - dav: Old text editors never die
+
+"https://inconsolation.wordpress.com/2014/12/15/dbar-and-cpubar-progress-for-the-people/"  - dbar and cpubar: Progress for the people
+
+"https://inconsolation.wordpress.com/2013/05/05/dcd-ill-give-you-three-guesses/"  - dcd: I’ll give you three guesses …
+
+"https://inconsolation.wordpress.com/2013/10/13/dd-df-and-du-pop-quiz/"  - dd, df and du: Pop quiz
+
+"https://inconsolation.wordpress.com/2015/04/12/ddir-echoes-of-tree/"  - ddir: Echoes of tree
+
+"https://inconsolation.wordpress.com/2013/10/14/ddrescue-no-relation-to-the-aforementioned-dd/"  - ddrescue: No relation to the aforementioned dd
+
+"https://inconsolation.wordpress.com/2013/10/09/deb2targz-crossing-the-streams/"  - deb2targz: Crossing the streams
+
+"https://inconsolation.wordpress.com/2013/07/17/dehtml-another-scraping-tool/"  - dehtml: Another scraping tool
+
+"https://inconsolation.wordpress.com/2013/04/28/deluge-console-all-the-flavor-half-the-fat/"  - deluge-console: All the flavor, half the fat
+
+"https://inconsolation.wordpress.com/2013/04/15/despotify-again-no-guidance-for-you/"  - despotify: Again, no guidance for you
+
+"https://inconsolation.wordpress.com/2013/06/12/detox-cleanup-crew/"  - detox: Cleanup crew
+
+"https://inconsolation.wordpress.com/2013/05/03/devtodo-much-to-do-about-something/"  - devtodo: Much to do, about something
+
+"https://inconsolation.wordpress.com/2013/03/23/dex-does-a-lot-with-a-little/"  - dex: Does a lot with a little
+
+"https://inconsolation.wordpress.com/2014/10/09/dfc-the-way-it-should-be-done/"  - dfc: The way it should be done
+
+"https://inconsolation.wordpress.com/2013/10/11/dhcping-maybe-the-simplest-yet/"  - dhcping: Maybe the simplest yet
+
+"https://inconsolation.wordpress.com/2014/11/09/dhex-a-hex-editor-with-a-diff-erence/" taank">dhex: A hex editor with a diff … erence
+
+"https://inconsolation.wordpress.com/2013/10/08/diakonos-a-very-friendly-text-editor/"  - diakonos: A very friendly text editor
+
+"https://inconsolation.wordpress.com/2013/08/12/diary-almost-functional/"  - diary: Almost functional
+
+"https://inconsolation.wordpress.com/2013/10/12/dict-another-great-tool-for-writers/"  - dict: Another great tool for writers
+
+"https://inconsolation.wordpress.com/2014/09/17/diction-the-words-you-choose-and-why/"  - diction: The words you choose and why
+
+"https://inconsolation.wordpress.com/2013/10/17/diff-tools-to-show-you-whats-changed/"  - diff: Tools to show you what’s changed
+
+"https://inconsolation.wordpress.com/2013/10/07/diffh-make-your-diff-easier-to-see/"  - diffh: Make your diff easier to see
+
+"https://inconsolation.wordpress.com/2014/09/23/dirname-that-slash-mark-filter-you-always-wanted/"  - dirname: That slash-mark filter you always wanted
+
+"https://inconsolation.wordpress.com/2013/10/11/dirsplit-a-hidden-hero/"  - dirsplit: A hidden hero
+
+"https://inconsolation.wordpress.com/2013/10/08/discus-this-is-how-its-supposed-to-work/"  - discus: This is how it’s supposed to work
+
+"https://inconsolation.wordpress.com/2013/10/10/diskmoose-an-example-to-the-contrary/"  - diskmoose: An example to the contrary
+
+"https://inconsolation.wordpress.com/2013/08/11/dmesg-an-old-new-cool-tool/"  - dmesg: An old, new, cool tool
+
+"https://inconsolation.wordpress.com/2013/10/16/dmidecode-due-diligence/"  - dmidecode: Due diligence
+
+"https://inconsolation.wordpress.com/2013/08/03/dmpc-a-client-for-a-client-for-a-daemon/"  - dmpc: A client for a client for a daemon
+
+"https://inconsolation.wordpress.com/2013/08/05/dnstop-a-little-prodding-and-bingo/"  - dnstop: A little prodding, and bingo!
+
+"https://inconsolation.wordpress.com/2013/01/16/dnstracer-a-trail-for-the-terminal/"  - dnstracer: A trail for the terminal
+
+"https://inconsolation.wordpress.com/2013/10/10/docx2txt-the-file-converter-youve-been-waiting-for/"  - docx2txt: The file converter you’ve been waiting for
+
+"https://inconsolation.wordpress.com/2015/03/23/dominoes-and-more-a-pocket-games-collection/"  - dominoes and more: A pocket games collection
+
+"https://inconsolation.wordpress.com/2013/05/28/doneyet-a-middle-ground-task-manager/"  - doneyet: A middle-ground task manager
+
+"https://inconsolation.wordpress.com/2013/04/29/doodle-a-desktop-search-tool-of-sorts/"  - doodle: A “desktop” search tool … of sorts
+
+"https://inconsolation.wordpress.com/2014/10/16/dopewars-the-classic-in-all-its-sinful-glory/"  - dopewars: The classic, in all its sinful glory
+
+"https://inconsolation.wordpress.com/2014/12/30/dosage-get-yours-daily/"  - dosage: Get yours daily
+
+"https://inconsolation.wordpress.com/2013/10/16/doscan-oddly-enough-i-get-nothing/"  - doscan: Oddly enough, I get nothing
+
+"https://inconsolation.wordpress.com/2014/07/14/dotbot-a-dotfiles-bootstrapper/" target="_blant: A (dot)files (bo)o(t)strapper
+
+"https://inconsolation.wordpress.com/2014/12/23/dothost-and-lddot-looking-good-feeling-fine/"  - dothost and lddot: Looking good, feeling fine
+
+"https://inconsolation.wordpress.com/2013/08/01/draai-a-wrapper-for-a-client-for-a-daemon/"  - draai: A wrapper for a client for a daemon
+
+"https://inconsolation.wordpress.com/2014/10/31/dradio-not-to-be-blamed/"  - dradio: Not to be blamed
+
+"https://inconsolation.wordpress.com/2015/02/19/driftnet-dutifully-duplicating/"  - driftnet: Dutifully duplicating
+
+"https://inconsolation.wordpress.com/2013/01/18/dstat-raw-data-in-many-flavors/"  - dstat: Raw data, in many flavors
+
+"https://inconsolation.wordpress.com/2013/10/15/dtach-beauty-in-sparsity/"  - dtach: Beauty in sparsity
+
+"https://inconsolation.wordpress.com/2013/10/13/dtrx-an-extractor-with-an-impressive-repertoire/"  - dtrx: An extractor with an impressive repertoire
+
+"https://inconsolation.wordpress.com/2015/02/08/duelcommander-a-framework-at-best/"  - duelcommander: A framework, at best
+
+"https://inconsolation.wordpress.com/2014/11/17/duhdraw-for-the-van-gogh-of-the-vc/"  - duhdraw: For the Van Gogh of the vc
+
+"https://inconsolation.wordpress.com/2013/10/15/dvdauthor-also-available-to-you/"  - dvdauthor: Also available to you
+
+"https://inconsolation.wordpress.com/2014/12/27/dvorak7min-the-path-to-enlightenment/"  - dvorak7min: The path to enlightenment
+
+"https://inconsolation.wordpress.com/2013/10/14/dvtm-sharp-clean-and-quick/"  - dvtm: Sharp, clean and quick
+
+"https://inconsolation.wordpress.com/2013/10/09/dws-i-know-theyre-bogus-but-still/"  - dws: I know they’re bogus, but still …
+
+"https://inconsolation.wordpress.com/2013/10/12/dxcc-exhausting-my-quota-of-exclamation-points/"  - dxcc: Exhausting my quota of exclamation points!
+
+"https://inconsolation.wordpress.com/2013/04/25/e3-still-my-ultralightweight-champion/"  - e3: Still my ultralightweight champion
+
+"https://inconsolation.wordpress.com/2014/08/18/e-like-a-diamond-bullet/"  - e: Like a diamond bullet
+
+"https://inconsolation.wordpress.com/2013/05/27/ecasound-looks-quite-powerful/"  - ecasound: Looks quite powerful
+
+"https://inconsolation.wordpress.com/2015/01/02/echat-serverless-chatter/"  - echat: Serverless chatter
+
+"https://inconsolation.wordpress.com/2014/09/24/echo-and-an-inescapable-fragment-of-history/"  - echo: And an inescapable fragment of history
+
+"https://inconsolation.wordpress.com/2013/10/18/echoping-another-gray-area/"  - echoping: Another gray area
+
+"https://inconsolation.wordpress.com/2013/10/18/ed-the-much-maligned-text-editor/"  - ed: The much maligned text editor
+
+"https://inconsolation.wordpress.com/2013/10/22/edbrowse-be-afraid-be-very-afraid/"  - edbrowse: Be afraid. Be very afraid
+
+"https://inconsolation.wordpress.com/2013/10/19/efax-could-possibly-be-functional/"  - efax: Could possibly be functional
+
+"https://inconsolation.wordpress.com/2013/10/24/ekg-the-original-and-its-revision/"  - ekg and ekg2: The original and its revision
+
+"https://inconsolation.wordpress.com/2013/10/25/ekgping-fun-with-practical-application/"  - ekgping: Fun, with practical application
+
+"https://inconsolation.wordpress.com/2013/10/19/elinks-the-browser-we-both-probably-know/"  - elinks: The browser we both probably know
+
+"https://inconsolation.wordpress.com/2013/10/26/elmer-pasting-into-the-world-beyond/"  - elmer: Pasting into the world beyond
+
+"https://inconsolation.wordpress.com/2013/10/20/elvis-has-entered-the-building/"  - elvis: Has entered the building
+
+"https://inconsolation.wordpress.com/2013/10/20/emacs-brace-for-impact/"  - emacs: Brace for impact
+
+"https://inconsolation.wordpress.com/2015/02/05/emms-your-one-stop-text-editor-music-player-and-operating-system/"  - emms: Your one-stop text editor, music player and operating system
+
+"https://inconsolation.wordpress.com/2013/06/23/empire-another-personal-favorite/"  - empire: Another personal favorite
+
+"https://inconsolation.wordpress.com/2014/11/25/empire-the-self-proclaimed-pinnacle-of-strategy-games/"  - empire: The self-proclaimed pinnacle of strategy games
+
+"https://inconsolation.wordpress.com/2015/03/13/encircled-wow-just-wow/"  - encircled: Wow, just wow. …
+
+"https://inconsolation.wordpress.com/2013/10/27/enpi-making-the-jump-to-the-graphical/"  - enpi: Making the jump to the graphical
+
+"https://inconsolation.wordpress.com/2013/10/21/entr-watching-while-you-work/"  - entr: Watching while you work
+
+"https://inconsolation.wordpress.com/2013/10/24/epic4-and-epic5-different-yet-the-same/"  - epic4 and epic5: Different, yet the same
+
+"https://inconsolation.wordpress.com/2013/10/26/episoder-only-if-youre-serious-about-tv/"  - episoder: Only if you’re serious about TV
+
+"https://inconsolation.wordpress.com/2014/08/18/epub-sh-me-and-anders-and-esko/"  - epub.sh: Me and Anders and Esko
+
+"https://inconsolation.wordpress.com/2013/10/28/epub2pdf-proof-of-the-viability-of-java-based-applications/"  - epub2pdf: Proof of the viability of Java-based applications
+
+"https://inconsolation.wordpress.com/2013/10/30/erc-depends-on-what-you-already-use/"  - erc: Depends on what you already use
+
+"https://inconsolation.wordpress.com/2013/10/25/espeak-and-fortune-one-from-days-past/"  - espeak (and fortune): One from days past
+
+"https://inconsolation.wordpress.com/2013/01/19/ethstats-more-raw-data-for-the-taking/"  - ethstats: More raw data, for the taking
+
+"https://inconsolation.wordpress.com/2013/10/27/ethstatus-pay-close-attention-to-spelling/"  - ethstatus: Pay close attention to spelling
+
+"https://inconsolation.wordpress.com/2013/10/29/ethtool-what-doesnt-it-do/"  - ethtool: What doesn’t it do?
+
+"https://inconsolation.wordpress.com/2013/03/20/etm-a-calendar-in-two-varieties/"  - etm: A calendar in two varieties
+
+"https://inconsolation.wordpress.com/2013/10/30/ettercap-use-this-power-for-good-or-evil/"  - ettercap: Use this poood … or evil
+
+"https://inconsolation.wordpress.com/2013/10/22/eval-tells-the-shell-what-to-do/"  - eval: Tells the shell what to do
+
+"https://inconsolation.wordpress.com/2013/04/26/exiftool-one-small-gimmick/"  - exiftool: One small gimmick
+
+"https://inconsolation.wordpress.com/2013/10/21/expand-giving-you-more-spaces/"  - expand: Giving you more spaces
+
+"https://inconsolation.wordpress.com/2013/10/23/extraf-not-a-network-monitor/"  - extraf: Not a network monitor
+
+"https://inconsolation.wordpress.com/2013/10/29/extundelete-when-the-time-comes-remember-it/"  - extundelete: When the time comes, remember it
+
+"https://inconsolation.wordpress.com/2013/10/28/eyed3-a-cli-music-tag-editor-plus/"  - eyeD3: A CLI music tag editor, plus
+
+"https://inconsolation.wordpress.com/2013/03/17/ficy-streaming-at-the-console/"  - fIcy: Streaming at the console
+
+"https://inconsolation.wordpress.com/2014/08/14/factor-simple-tools-are-fun/"  - factor: Simple tools are fun
+
+"https://inconsolation.wordpress.com/2013/11/05/false-try-not-to-be-so-negative/"  - false: Try not to be so negative
+
+"https://inconsolation.wordpress.com/2013/11/02/fasd-no-doubt-critical-for-some/"  - fasd: No doubt critical, for some
+
+"https://inconsolation.wordpress.com/2013/04/05/fbcmd-i-can-give-you-no-guidance/"  - fbcmd: I can give you no guidance
+
+"https://inconsolation.wordpress.com/2013/11/05/fbless-the-things-i-learn-2/"  - fbless: The things I learn
+
+"https://inconsolation.wordpress.com/2013/03/16/fd-old-yet-new-yet-old-yet/"  - fd: Old, yet new, yet old, yet …
+
+"https://inconsolation.wordpress.com/2015/04/03/fdd-le-catalogue-extraordinaire/"  - fdd: Le catalogue extraordinaire
+
+"https://inconsolation.wordpress.com/2013/11/07/fdisk/"  - fdisk: One that’s not from coreutils
+
+"https://inconsolation.wordpress.com/2013/11/01/fdupes-the-perfect-solution-to-a-duplicate-problem/"  - fdupes: The perfect solution to a duplicate problem
+
+"https://inconsolation.wordpress.com/2013/03/07/fe-an-emacs-style-folding-editor/"  - fe: An emacs-style folding editor
+
+"https://inconsolation.wordpress.com/2013/11/01/festival-and-fortune-not-quite-from-days-past/"  - festival (and fortune): Not quite from days past
+
+"https://inconsolation.wordpress.com/2013/11/10/fetchmail-breaking-it-down-into-steps/"  - fetchmail: Breaking it down into steps
+
+"https://inconsolation.wordpress.com/2013/11/02/figlet-large-print-edition/"  - figlet: Large-print edition
+
+"https://inconsolation.wordpress.com/2013/11/10/file-happy-40th-birthday/"  - file: Happy 40th Birthday!
+
+"https://inconsolation.wordpress.com/2013/03/06/finch-pidgins-little-brother/"  - finch: Pidgin’s little brother
+
+"https://inconsolation.wordpress.com/2013/07/22/find-simply-the-best-tool-out-there/"  - find: Simply the best tool out there
+
+"https://inconsolation.wordpress.com/2013/11/11/findimagedupes-exactly-what-it-says/"  - findimagedupes: Exactly what it says<"https://inconsolation.wordpress.com/2013/11/08/finger-insert-off-color-joke-here/"  - finger: Insert off-color joke here
+
+"https://inconsolation.wordpress.com/2014/09/28/fkmines-minecurses-minefield-and-pynesweeper-mine-all-mine/"  - fkmines, minecurses, minefield and pynesweeper: Mine, all mine
+
+"https://inconsolation.wordpress.com/2014/09/02/fluxcapacitor-now-you-have-time-for-everything/"  - fluxcapacitor: Now you have time for everything
+
+"https://inconsolation.wordpress.com/2013/03/22/fm-a-fast-mover-by-definition/"  - fm: A fast mover, by definition
+
+"https://inconsolation.wordpress.com/2013/11/07/fmt-and-the-difference-is/"  - fmt: And the difference is. …
+
+"https://inconsolation.wordpress.com/2015/01/06/fnteditfs-a-seemingly-rare-beast/"  - fnteditfs: A seemingly rare beast
+
+"https://inconsolation.wordpress.com/2013/11/06/fold-pretty-simple-pretty-cool/"  - fold: Pretty simple, pretty cool
+
+"https://inconsolation.wordpress.com/2013/04/14/fonter-a-classic-with-side-benefits/"  - fonter: A classic, with side benefits
+
+"https://inconsolation.wordpress.com/2013/11/05/foremost-aggressive-data-recovery/"  - foremost: Aggressive data recovery
+
+"https://inconsolation.wordpress.com/2014/09/04/forkstat-catching-the-small-and-the-quick/"  - forkstat: Catching the small and the quick
+
+"https://inconsolation.wordpress.com/2013/11/06/fping-same-idea-but-with-many-targets/"  - fping: Same idea but with many targets
+
+"https://inconsolation.wordpress.com/2013/11/04/free-little-to-say-that-hasnt-been-said/"  - free: Little to say that hasn’t been said
+
+"https://inconsolation.wordpress.com/2013/06/25/freecell-simple-fast-addicting/"  - freecell: Simple, fast, addicting
+
+"https://inconsolation.wordpress.com/2013/06/29/freesweep-i-shall-never-understand/"  - freesweep: I shall never understand
+
+"https://inconsolation.wordpress.com/2013/11/03/freetalk-get-your-jabber-on/"  - freetalk: Get your jabber on
+
+"https://inconsolation.wordpress.com/2013/11/04/frequency-chat-clients-abound/"  - frequency: Chat clients abound
+
+"https://inconsolation.wordpress.com/2015/01/06/fselect-pulled-from-the-brink/"  - fselect: Pulled from the brink
+
+"https://inconsolation.wordpress.com/2013/11/08/fsniper-despite-my-misgivings/"  - fsniper: Despite my misgivings
+
+"https://inconsolation.wordpress.com/2015/01/03/fte-efte-and-fte-an-epic-tale-of-text-editor-discovery/"  - fte, efte and *fte: An epic tale of text editor discovery
+
+"https://inconsolation.wordpress.com/2013/11/08/ftp-the-classic-in-action/"  - ftp: The classic, in action
+
+"https://inconsolation.wordpress.com/2013/11/03/fttps-after-four-years-shock-and-awe/"  - fttps: After four years, shock and awe
+
+"https://inconsolation.wordpress.com/2014/08/05/fzf-more-menu-like-options-with-fuzzy-finding/"  - fzf: More menu-like options, with fuzzy finding
+
+"https://inconsolation.wordpress.com/2014/10/07/galaxis-a-combination-of-puzzle-and-logic/"  - galaxis: A combination ofand logic
+
+"https://inconsolation.wordpress.com/2013/05/15/gcal-more-power-to-you/"  - gcal: More power to you
+
+"https://inconsolation.wordpress.com/2013/03/08/gcalcli-an-interface-to-the-cloud/"  - gcalcli: An interface to the cloud
+
+"https://inconsolation.wordpress.com/2013/11/13/gcp-seemingly-worthy-possibly-flawed/"  - gcp: Seemingly worthy, possibly flawed
+
+"https://inconsolation.wordpress.com/2015/01/11/gdisk-a-familiar-face/"  - gdisk: A familiar face
+
+"https://inconsolation.wordpress.com/2013/07/01/gearhead-saving-the-best-for-last/"  - gearhead: Saving the best for last
+
+"https://inconsolation.wordpress.com/2015/02/21/genstats-quick-statistical-reports/"  - genstats: Quick statistical reports
+
+"https://inconsolation.wordpress.com/2013/11/13/geoiplookup-another-very-simple-tool/"  - geoiplookup: Another very simple tool
+
+"https://inconsolation.wordpress.com/2013/02/27/get-flash-videos-tsia/"  - get-flash-videos: TSIA
+
+"https://inconsolation.wordpress.com/2013/02/04/gi-get-sh-another-nifty-script/"  - gi-get.sh: Another nifty script
+
+"https://inconsolation.wordpress.com/2014/08/21/gif-to-ogv-sh-all-gifs-must-die/"  - gif-to-ogv.sh: All GIFs must die
+
+"https://inconsolation.wordpress.com/2013/11/13/gifsicle-cool-stuff-i-cant-show/"  - gifsicle: Cool stuff I can’t show
+
+"https://inconsolation.wordpress.com/2013/01/14/giftcurs-file-sharing-i-think/"  - giftcurs: File sharing … I think
+
+"https://inconsolation.wordpress.com/2013/11/13/giis-the-benefit-of-the-doubt/"  - giis: The benefit of the doubt
+
+"https://inconsolation.wordpress.com/2014/11/06/gist-so-long-as-i-am-eating-crow/"  - gist: So long as I am eating crow. …
+
+"https://inconsolation.wordpress.com/2013/01/15/glances-points-for-style/"  - glances: Points for style
+
+"https://inconsolation.wordpress.com/2014/07/26/glyrc-a-music-search-for-everything-but-music/"  - glyrc: A music search, for everything but music
+
+"https://inconsolation.wordpress.com/2015/01/31/gmail-attachment-downloader-you-dont-want-to-know/"  - gmail-attachment-downloader: You don’t want to know
+
+"https://inconsolation.wordpress.com/2013/08/09/gnubg-a-better-player-than-i-ever-will-be/"  - gnubg: A better player than I ever will be
+
+"https://inconsolation.wordpress.com/2013/11/15/gnuchess-my-nemesis-returns-to-taunt-me/"  - gnuchess: My nemesis returns to taunt me
+
+"https://inconsolation.wordpress.com/2014/10/21/gnugo-any-excuse-to-avoid-a-thrashing/"  - gnugo: Any excuse to avoid a thrashing
+
+"https://inconsolation.wordpress.com/2013/11/14/gnuit-where-have-you-been-all-my-life/"  - gnuit: Where have you been all my life?
+
+"https://inconsolation.wordpress.com/2013/08/08/gnupg-symmetric-encryption-and-decryption/"  - gnupg: Symmetric encryption and decryption
+
+"https://inconsolation.wordpress.com/2013/11/17/gnuplot-i-swear-this-is-a-coincidence/"  - gnuplot: I swear this is a coincidence
+
+"https://inconsolation.wordpress.com/2015/03/26/gd-yapong-one-bad-one-better/"  - gnupong and yapong: One bad, one … better
+
+"https://inconsolation.wordpress.com/2014/07/21/gnus-as-close-as-i-could-get/"  - gnus: As close as I could get
+
+"https://inconsolation.wordpress.com/2014/10/22/gnushogi-we-know-the-lion-by-his-claw/"  - gnushogi: We know the lion by his claw
+
+"https://inconsolation.wordpress.com/2013/11/14/gnuski-game-time/"  - gnuski: Game time!
+
+"https://inconsolation.wordpress.com/2014/09/22/go-fish-lets-finish-it-off/"  - go-fish: Let’s finish it off
+
+"https://inconsolation.wordpress.com/2015/02/10/go2-the-obvious-name-for-the-tool/"  - go2: The obvious name for the tool
+
+"https://inconsolation.wordpress.com/2013/11/15/goldenpod-again-against-my-better-judgment/"  - goldenpod: Again, against my better judgment
+
+"https://inconsolation.wordpress.com/2015/01/08/gom-ten-years-gone/"  - gom: Ten years gone
+
+"https://inconsolation.wordpress.com/2014/09/22/gomoku-average-on-all-counts/"  - gomoku: Average on all counts
+
+"https://inconsolation.wordpress.com/2015/04/17/goobook-command-line-contacts/"  - goobook: Command-line contacts
+
+"https://inconsolation.wordpress.com/2014/08/06/google-translate-cli-mostly-because-it-works/"  - google-translate-cli: Mostly because it works
+
+"https://inconsolation.wordpress.com/2014/09/06/googlecl-cutting-corners-with-everything-google/"  - googlecl: Cutting corners with everything Google
+
+"https://inconsolation.wordpress.com/2013/11/16/gopher-the-way-things-might-have-been/"  - gopher: The way things might have been
+
+"https://inconsolation.wordpress.com/2014/11/30/gpcslots1-a-portrait-of-the-artist-as-a-young-man/"  - gpcslots1: A portrait of the artist as a young man
+
+"https://inconsolation.wordpress.com/2014/10/19/gpcslots2-in-a-different-direction-altogther/"  - gpcslots2: In a different direction altogther
+
+"https://inconsolation.wordpress.com/2014/09/06/gplayer-get-loud-with-the-cloud/"  - gplayer: Get loud with the cloud
+
+"https://inconsolation.wordpress.com/2013/11/16/gpm-and-you-thought-you-were-mouseless/"  - gpm: And you thought you were mouseless
+
+"https://inconsolation.wordpress.com/2013/11/17/gramofile-lovely-interface-slightly-out-of-date/"  - gramofile: Lovely interface, slightly out-of-date 
+
+"https://inconsolation.wordpress.com/2014/08/23/grc-more-colorizing-for-terminal-output/"  - grc: More colorizing for terminal output
+
+"https://inconsolation.wordpress.com/2013/06/27/greed-alluring-to-some/"  - greed: Alluring to some
+
+"https://inconsolation.wordpress.com/2015/04/21/greg-youre-so-vain/"  - greg: You’re so vain
+
+"https://inconsolation.wordpress.com/2013/11/18/grep-the-time-has-come/"  - grep: The time has come
+
+"https://inconsolation.wordpress.com/2013/08/13/grive-sync-with-google-drive/"  - grive: Sync with Google Drive
+
+"https://inconsolation.wordpress.com/2014/08/06/groff-typesetting-in-any-direction/"  - groff: Typesetting, in any direction
+
+<a hre://inconsolation.wordpress.com/2015/02/25/groove-dl-jumping-the-shark/"  - groove-dl: Jumping the shark
+
+"https://inconsolation.wordpress.com/2013/11/12/groups-as-a-courtesy-i-include-it/"  - groups: As a courtesy, I include it
+
+"https://inconsolation.wordpress.com/2013/08/10/gt5-an-unusual-disk-usage-monitor/"  - gt5: An unusual disk usage monitor
+
+"https://inconsolation.wordpress.com/2014/09/16/gtorrent-not-quite-ready-for-prime-time/"  - gtorrent-ncurses: Not quite ready for prime time
+
+"https://inconsolation.wordpress.com/2013/11/12/gtypist-yes-i-know-im-a-failure/"  - gtypist: Yes, I know I’m a failure
+
+"https://inconsolation.wordpress.com/2015/03/15/hack-of-life-conway-would-be-proud/"  - hack-of-life: Conway would be proud
+
+"https://inconsolation.wordpress.com/2013/11/19/hangman2-by-virtue-of-alphabetical-order/"  - hangman2: By virtue of alphabetical order
+
+"https://inconsolation.wordpress.com/2014/07/24/hangman-wait-a-little-while/"  - hangman: Wait a little while
+
+"https://inconsolation.wordpress.com/2013/11/19/haste-pipe-and-paste-with-haste/"  - haste: Pipe and paste with haste
+
+"https://inconsolation.wordpress.com/2013/11/22/hdlns-its-the-simple-tools-that-impress-most/"  - hdlns: It’s the simple tools that impress most
+
+"https://inconsolation.wordpress.com/2013/11/22/hdparm-out-of-respect-for-times-past/"  - hdparm: Out of respect for times past
+
+"https://inconsolation.wordpress.com/2014/08/04/head-and-tail-flip-a-coin/"  - head and tail: Flip a coin
+
+"https://inconsolation.wordpress.com/2013/11/20/hefur-an-exceptionally-lightweight-tracker/"  - hefur: An exceptionally lightweight tracker
+
+"https://inconsolation.wordpress.com/2013/11/21/heirloom-mailx-perhaps-its-time-for-a-change/"  - heirloom-mailx: Perhaps it’s time for a change
+
+"https://inconsolation.wordpress.com/2013/07/28/herrie-similar-yet-different/"  - herrie: Similar, yet different
+
+"https://inconsolation.wordpress.com/2014/11/05/hexcurse-so-many-things-done-right/"  - hexcurse: So many things done right
+
+"https://inconsolation.wordpress.com/2014/11/15/hexe-in-the-flyweight-competition/"  - hexe: In the flyweight competition
+
+"https://inconsolation.wordpress.com/2013/11/20/hexedit-you-can-guess-what-it-does/"  - hexedit: You can guess what it does
+
+"https://inconsolation.wordpress.com/2013/11/21/hexer-deja-vu-or-should-i-say-64656a61207675/"  - hexer: Deja vu — or should I say, 64:65:6a:61:20:76:75
+
+"https://inconsolation.wordpress.com/2014/08/07/hey-more-anti-aliasing/"  - hey: More anti-aliasing
+
+"https://inconsolation.wordpress.com/2014/09/24/hftirc-a-little-irc-in-c/"  - hftirc: A little IRC in C
+
+"https://inconsolation.wordpress.com/2013/11/23/highlight-converting-code-for-display/"  - highlight: Converting code for display
+
+"https://inconsolation.wordpress.com/2013/11/23/highlighter-picking-out-letters-words-phrases/"  - highlighter: Picking out letters, words, phrases
+
+"https://inconsolation.wordp/2015/02/15/hinversi-casual-and-yet-complete/"  - hinversi: Casual and yet complete
+
+"https://inconsolation.wordpress.com/2014/07/14/histo-the-shape-of-things-to-come/"  - histo: The shape of things to come
+
+"https://inconsolation.wordpress.com/2013/05/21/hnb-quick-clever-and-clean/"  - hnb: Quick, clever and clean
+
+"https://inconsolation.wordpress.com/2015/01/11/horst-not-at-all-colorless-for-your-wireless/"  - horst: Not at all colorless, for your wireless
+
+"https://inconsolation.wordpress.com/2015/03/17/housenka-sh-and-others-snakes-on-the-brain/"  - housenka.sh and others: Snakes on the brain
+
+"https://inconsolation.wordpress.com/2014/07/22/howdoi-because-the-internet-knows-more-than-you/"  - howdoi: Because the Internet knows more than you
+
+"https://inconsolation.wordpress.com/2013/11/24/hoz-speedy-but-with-quirks/"  - hoz: Speedy, but with quirks
+
+"https://inconsolation.wordpress.com/2013/11/24/hping-more-network-novelty/"  - hping: More network novelty
+
+"https://inconsolation.wordpress.com/2014/12/22/ht-high-marks-even-if-its-lost-on-me/"  - ht: High marks, even if it’s lost on me
+
+"https://inconsolation.wordpress.com/2014/09/13/html-xml-utils-a-sweet-suite/"  - html-xml-utils: A sweet suite
+
+"https://inconsolation.wordpress.com/2014/08/12/html2ps-you-thought-it-wasnt-possible/"  - html2ps: You thought it wasn’t possible
+
+"https://inconsolation.wordpress.com/2013/07/18/html2text-and-then-there-were-three/"  - html2text: And then there were three
+
+"https://inconsolation.wordpress.com/2015/02/17/html2wikipedia-converting-back-and-forth/"  - html2wikipedia: Converting back and forth
+
+"https://inconsolation.wordpress.com/2013/11/25/htop-needs-no-introduction/"  - htop: Needs no introduction
+
+"https://inconsolation.wordpress.com/2015/02/18/httping-lots-of-flash-and-dash/"  - httping: Lots of flash and dash
+
+"https://inconsolation.wordpress.com/2014/09/13/httpry-pry-into-your-traffic/"  - httpry: Pry into your traffic
+
+"https://inconsolation.wordpress.com/2014/11/06/httrack-the-website-copier/"  - httrack: The website copier
+
+"https://inconsolation.wordpress.com/2014/08/24/hunspell-a-spellchecker-with-vast-dictionary-support/"  - hunspell: A spellchecker with vast dictionary support
+
+"https://inconsolation.wordpress.com/2013/11/27/hunt-the-god-of-doorways/"  - hunt: The god of doorways
+
+"https://inconsolation.wordpress.com/2013/11/25/hwclock-keeping-time-with-you/"  - hwclock: Keeping time with you
+
+"https://inconsolation.wordpress.com/2015/03/30/hydraslayer-a-mathematical-approach-to-the-roguelike/"  - hydraslayer: A mathematical approach to the roguelike
+
+"https://inconsolation.wordpress.com/2013/11/28/ibmonitor-when-bandwidth-is-precious/"  - ibmonitor: When bandwidth is precious
+
+"https://inconsolation.wordpress.com/2013/02/21/ical2rem-pl-bridging-the-graphical-and-the-textual/"  - ical2rem.pl: Bridging the graphical and the textual
+
+"https://inconsolation.wordpress.com/2015/01/ibility-by-default/"  - icdiff: Visibility by default
+
+"https://inconsolation.wordpress.com/2013/06/16/id3ed-as-close-as-i-may-ever-get/"  - id3ed: As close as I may ever get
+
+"https://inconsolation.wordpress.com/2013/11/28/id3fsd-a-clever-idea-nearly-to-fruition/"  - id3fsd: A clever idea, nearly to fruition
+
+"https://inconsolation.wordpress.com/2015/01/13/id3ren-unfortunately-this-will-be-brief/"  - id3ren: Unfortunately, this will be brief
+
+"https://inconsolation.wordpress.com/2013/11/29/id3tool-quick-tag-control/"  - id3tool: Quick tag control
+
+"https://inconsolation.wordpress.com/2013/11/29/id-riding-the-coattails-of-coreutils/"  - id: Riding the coattails of coreutils
+
+"https://inconsolation.wordpress.com/2013/11/30/identibash-and-identicurse-i-can-give-you-no-guidance/"  - identibash and identicurse: I can give you no guidance
+
+"https://inconsolation.wordpress.com/2013/11/30/ifstat-the-hidden-traffic-monitor/"  - ifstat: The hidden traffic monitor
+
+"https://inconsolation.wordpress.com/2013/12/01/ifstatus-the-semigraphical-network-monitor-part-2/"  - ifstatus: The semigraphical network monitor, part 2
+
+"https://inconsolation.wordpress.com/2013/07/12/iftop-the-fundamental-network-monitor/"  - iftop: The fundamental network monitor
+
+"https://inconsolation.wordpress.com/2014/07/23/iftopcolor-please-do-not-feed-the-bloggers/"  - iftopcolor: Please do not feed the bloggers
+
+"https://inconsolation.wordpress.com/2013/12/01/ii-maybe-on-another-day/"  - ii: Maybe on another day
+
+"https://inconsolation.wordpress.com/2014/11/13/iimage-index-your-images/"  - iimage: Index your images
+
+"https://inconsolation.wordpress.com/2013/01/22/ikog-an-extensive-to-do-list/"  - ikog: An extensive to-do list
+
+"https://inconsolation.wordpress.com/2014/06/09/t-ttytter-twidge-and-more-text-only-twittermania/ilakast-screenshot_160614_20_40_29/"  - ilakast-Screenshot_160614_20_40_29
+
+"https://inconsolation.wordpress.com/2013/12/02/imagemagick-graphics-ungraphically/"  - imagemagick: Graphics, ungraphically
+
+"https://inconsolation.wordpress.com/2013/12/02/imdbmoviefetcher-ill-give-you-three-guesses/"  - imdbmoviefetcher: I’ll give you three guesses
+
+"https://inconsolation.wordpress.com/2014/09/01/img2xterm-dot-by-dot-block-by-block/"  - img2xterm: Dot by dot, block by block
+
+"https://inconsolation.wordpress.com/2014/09/02/imgcurses-best-of-most-worlds/"  - imgcurses: Best of most worlds
+
+"https://inconsolation.wordpress.com/2013/12/03/info-more-information-sometimes/"  - info: More information, sometimes
+
+"https://inconsolation.wordpress.com/2013/12/03/inkscape-yes-this-too-has-a-text-only-mode/"  - inkscape: Yes, this too has a text-only mode
+
+"https://inconsolation.wordpress.com/2014/09/12/inotifywait-inotifywatch-and-incron-a-package-deal/"  - inotifywait, inotifywatch and incron: A package deal
+
+"https://inconsolation.wordpress.com/2013/01/03/inxi-inquiring-minds-want-to-know/"  - inxi: Inquiring minds want to know</a><br"https://inconsolation.wordpress.com/2013/12/04/ionice-its-nice-to-be-nice-to-the-nice/"  - ionice: It’s nice to be nice to the nice
+
+"https://inconsolation.wordpress.com/2013/07/14/iotop-in-out-up-down/"  - iotop: In, out, up, down
+
+"https://inconsolation.wordpress.com/2014/09/01/ipbt-a-better-replay-option/"  - ipbt: A better replay option
+
+"https://inconsolation.wordpress.com/2014/09/12/ipcalc-and-pipcalc-more-than-a-one-letter-difference/"  - ipcalc and pipcalc: More than a one-letter difference
+
+"https://inconsolation.wordpress.com/2013/12/04/iperf-internet-performance-as-luck-would-have-it/"  - iperf: Internet performance, as luck would have it
+
+"https://inconsolation.wordpress.com/2014/12/27/ips-intelligent-process-monitoring/"  - ips: Intelligent process monitoring
+
+"https://inconsolation.wordpress.com/2013/12/06/ipsc-the-nitty-gritty-details/"  - ipsc: The nitty-gritty details
+
+"https://inconsolation.wordpress.com/2013/12/05/iptables-its-better-if-i-dont-explain/"  - iptables: It’s better if I don’t explain
+
+"https://inconsolation.wordpress.com/2013/02/10/iptraf-ng-returning-to-a-classic/"  - iptraf-ng: Returning to a classic
+
+"https://inconsolation.wordpress.com/2013/12/05/iptstate-top-for-iptables/"  - iptstate: Top, for iptables
+
+"https://inconsolation.wordpress.com/2013/12/06/ircii-the-classic-as-advertised/"  - ircII: The classic, as advertised
+
+"https://inconsolation.wordpress.com/2014/10/11/ired-unenthusiastic-as-might-be-expected/"  - ired: Unenthusiastic, as might be expected
+
+"https://inconsolation.wordpress.com/2014/09/07/irmp3-and-irmp3-curses-all-for-naught/"  - irmp3 and irmp3-curses: All for naught
+
+"https://inconsolation.wordpress.com/2013/06/28/irssi-where-you-say-what-you-say/"  - irssi: Where you say what you say
+
+"https://inconsolation.wordpress.com/2013/12/07/ised-compact-power-for-calculating/"  - ised: Compact power for calculating
+
+"https://inconsolation.wordpress.com/2015/01/11/iselect-a-programs-got-to-know-its-limitations/"  - iselect: A program’s got to know its limitations
+
+"https://inconsolation.wordpress.com/2013/12/07/ispell-with-this-yes-you-can/"  - ispell: With this, yes you can
+
+"https://inconsolation.wordpress.com/2014/08/09/isync-because-the-cloud-is-unreliable/"  - isync: Because the cloud is unreliable
+
+"https://inconsolation.wordpress.com/2013/12/08/iwconfig-wireless-configuration/"  - iwconfig: Wireless configuration
+
+"https://inconsolation.wordpress.com/2013/12/08/iwlist-collecting-data/"  - iwlist: Collecting data
+
+"https://inconsolation.wordpress.com/2013/12/09/ix-great-name-good-tool/"  - ix: Great name, good tool
+
+"https://inconsolation.wordpress.com/2013/12/10/j-and-j2-more-fast-directory-switching/"  - j and j2: More fast directory switching
+
+"https://inconsolation.wordpress.com/2013/12/10/jabber-el-emacs-gains-another-level/"  - jabber.el: emacs gains another level
+
+"https://inconsolation.wordpress.com/2013/03/02/jac-from-era/"  - jac: From a bygone era
+
+"https://inconsolation.wordpress.com/2013/03/11/jackmeter-a-peak-meter-for-jack/"  - jackmeter: A peak meter for JACK
+
+"https://inconsolation.wordpress.com/2013/12/11/jailkit-you-must-punish-them-sir/"  - jailkit: You must punish them, sir
+
+"https://inconsolation.wordpress.com/2014/10/12/jdkdrum-limitations-of-the-media/"  - jdkdrum: Limitations of the media
+
+"https://inconsolation.wordpress.com/2013/03/21/jed-an-editor-with-good-behavior/"  - jed: An editor with good behavior
+
+"https://inconsolation.wordpress.com/2013/07/11/jhead-exif-data-again/"  - jhead: exif data, again
+
+"https://inconsolation.wordpress.com/2013/12/11/jn-almost-a-victim-of-seven-years-of-empty-headed-blogging/"  - jn: Almost a victim of seven years of empty-headed blogging
+
+"https://inconsolation.wordpress.com/2013/03/24/jnettop-organized-network-data/"  - jnettop: Organized network data
+
+"https://inconsolation.wordpress.com/2013/12/12/joe-in-praise-of-recursive-acronyms/"  - joe: In praise of recursive acronyms
+
+"https://inconsolation.wordpress.com/2014/08/08/john-again-a-tool-is-just-a-tool/"  - john: Again, a tool is just a tool
+
+"https://inconsolation.wordpress.com/2014/08/22/join-not-everything-is-perfect/"  - join: Not everything is perfect
+
+"https://inconsolation.wordpress.com/2014/12/16/jp2a-jack-be-nimble-jack-be-quick/"  - jp2a: Jack be nimble, Jack be quick
+
+"https://inconsolation.wordpress.com/2014/07/27/jrnl-focus-grasshopper/"  - jrnl: Focus, grasshopper
+
+"https://inconsolation.wordpress.com/2014/12/24/juke-just-a-little-more-than-the-bare-minimum/"  - juke: Just a little more than the bare minimum
+
+"https://inconsolation.wordpress.com/2013/12/12/jupp-joe-with-an-extra-shot-of-caffeine/"  - jupp: joe, with an extra shot of caffeine
+
+"https://inconsolation.wordpress.com/2013/12/14/kbd-so-terribly-important/"  - kbd: So terribly important
+
+"https://inconsolation.wordpress.com/2014/07/25/khal-calendar-of-many-faces/"  - khal: A newcomer enters the ring
+
+"https://inconsolation.wordpress.com/2013/12/15/kibitz-a-favorite-of-backseat-drivers/"  - kibitz: A favorite of backseat drivers
+
+"https://inconsolation.wordpress.com/2014/10/10/kill-for-one-simple-reason/"  - kill: For one simple reason
+
+"https://inconsolation.wordpress.com/2013/12/15/kismet-too-cool-for-the-average-tool/"  - kismet: Too cool for the average tool
+
+"https://inconsolation.wordpress.com/2013/12/14/kkm-for-debian-fans-with-a-wild-streak/"  - kkm: For Debian fans with a wild streak
+
+"https://inconsolation.wordpress.com/2014/11/05/klick-well-that-was-awkward/"  - klick: Well that was awkward
+
+"https://inconsolation.wordpress.com/2013/12/16/knockd-another-security-tool/"  - knockd: Another … “security” tool
+
+"https://inconsolation.wordpress.com/2013/05/16/knocker-does-what-it-says/"  - knocker: Does what it says
+
+"https://inconsolation.wordpress.com/2014/10/26/ksmp3play-simple--but-incomplete/"  - ksmp3play: Simple and direct, but incomplete
+
+"https://inconsolation.wordpress.com/2013/12/19/labrea-a-cunning-name-for-a-sticky-trap/"  - labrea: A cunning name for a sticky trap
+
+"https://inconsolation.wordpress.com/2014/08/13/lame-how-could-i-have-forgotten-this/"  - lame: How could I have forgotten this?
+
+"https://inconsolation.wordpress.com/2015/04/08/lancat-zero-configuration-network-transfer-option/"  - lancat: Zero-configuration network transfer option
+
+"https://inconsolation.wordpress.com/2013/12/19/lastlog-another-brief-lookover/"  - lastlog: Another brief lookover
+
+"https://inconsolation.wordpress.com/2014/08/25/lbdb-looks-can-be-deceiving/"  - lbdb: Looks can be deceiving
+
+"https://inconsolation.wordpress.com/2013/12/20/ldd-a-fairly-straightforward-troubleshooting-tool/"  - ldd: A fairly straightforward troubleshooting tool
+
+"https://inconsolation.wordpress.com/2013/12/21/leave-repeat-after-me-simple-is-best/"  - leave: Repeat after me, simple is best
+
+"https://inconsolation.wordpress.com/2013/12/21/ledger-toward-fantastical-finances/"  - ledger: Toward fantastical finances
+
+"https://inconsolation.wordpress.com/2015/03/08/leo-laid-back-online-learning/"  - leo: Laid-back online learning
+
+"https://inconsolation.wordpress.com/2013/12/18/less-do-more-with-less/"  - less: Do more with less
+
+"https://inconsolation.wordpress.com/2013/12/22/letterize-to-answer-the-burning-question-of-life/"  - letterize: To answer the burning question of life
+
+"https://inconsolation.wordpress.com/2014/08/19/levee-even-smaller-than-the-average-vi/"  - levee: Even smaller than the average vi
+
+"https://inconsolation.wordpress.com/2013/02/25/lexter-perhaps-educational-too/"  - lexter: Perhaps educational, too
+
+"https://inconsolation.wordpress.com/2013/12/22/lfm-mimicking-mc/"  - lfm: Mimicking mc?
+
+"https://inconsolation.wordpress.com/2013/12/23/lft-traceroute-with-potential/"  - lft: Traceroute, with potential
+
+"https://inconsolation.wordpress.com/2013/12/23/lftp-teaching-an-old-dog-to-do-new-tricks/"  - lftp: Teaching an old dog to do new tricks
+
+"https://inconsolation.wordpress.com/2014/01/10/libjpeg-progs-a-quick-flashback-to-the-ls/"  - libjpeg-progs: A quick flashback to the L&#8217;s
+
+"https://inconsolation.wordpress.com/2014/11/04/lienmp3-how-far-weve-come/"  - lienmp3: How far we&#8217;ve come
+
+"https://inconsolation.wordpress.com/2013/12/24/lifelines-a-family-tree-some-assembly-required/"  - lifelines: A family tree, some assembly required
+
+"https://inconsolation.wordpress.com/2013/12/24/lilypond-that-gray-area/"  - lilypond: That gray area
+
+"https://inconsolation.wordpress.com/2014/09/14/linkchecker-relax-your-mouse-clicker-finger/"  - linkchecker: Relax your mouse clicker finger
+
+"https://inconsolation.wordpress.com/2013/12/25/links-and-lynx-do-things-your-way/"  - links and lynx: Do things your way
+
+"https://inconsolation.wordpress.com/2013/12/25/linphone-deserving-of-more-attention/"  - linphone: Deserving of more attention
+
+"https://inconsolation.wordpress.com/2013/01/31/lltag-cleverer-and-cleverer/"  - lltag: Cleverer and cleverer
+
+"https://inconsolation.wordpress.com/2013/12/20/ln-your-magical-shortcut-tool/"  - ln: Your magical shortcut tool
+
+"https://inconsolation.wordpress.com/2013/02/26/lnav-better-log-navigation/"  - lnav: Better log navigation
+
+"https://inconsolation.wordpress.com/2013/12/26/locate-a-small-part-of-a-larger-tool/"  - locate: A small part of a larger tool
+
+"https://inconsolation.wordpress.com/2015/03/03/logintop10-drum-roll-please/"  - logintop10: Drum roll, please &#8230;
+
+"https://inconsolation.wordpress.com/2013/08/15/logtailer-watching-the-logs-in-real-time/"  - logtailer: Watching the logs in real time
+
+"https://inconsolation.wordpress.com/2014/12/24/logtop-kind-of-like-a-top-for-a-logs/"  - logtop: Kind of like a *top &#8230; for a logs
+
+"https://inconsolation.wordpress.com/2014/10/12/lolcat-from-the-ears-to-the-eyes/"  - lolcat: From the ears to the eyes
+
+"https://inconsolation.wordpress.com/2013/12/26/look-a-spellchecker-at-the-command-line/"  - look: A spellchecker at the command line
+
+"https://inconsolation.wordpress.com/2015/01/16/lpe-perhaps-i-am-not-the-target-audience/"  - lpe: Perhaps I am not the target audience
+
+"https://inconsolation.wordpress.com/2013/12/18/lsblk-lshw-lsmod-lspci-hardware-up-close-and-personal/"  - lsblk, lshw, lsmod, lspci: Hardware, up close and personal
+
+"https://inconsolation.wordpress.com/2014/10/03/lsp-think-of-this-as-ls-plus/"  - lsp: Think of this as &#8220;ls, plus&#8221;
+
+"https://inconsolation.wordpress.com/2013/12/27/luksus-step-by-step-encryption/"  - luksus: Step-by-step encryption
+
+"https://inconsolation.wordpress.com/2014/09/14/lumail-you-can-probably-do-better/"  - lumail: You can probably do better
+
+"https://inconsolation.wordpress.com/2014/01/10/lxdvdrip-if-i-only-had-a-dvd-around-here-somewhere/"  - lxdvdrip: If I only had a DVD around here somewhere &#8230;
+
+"https://inconsolation.wordpress.com/2013/05/25/lxsplit-a-file-splitter-for-like-minded-people/"  - lxsplit: A file splitter for like-minded people
+
+"https://inconsolation.wordpress.com/2013/08/07/macchanger-ready-for-the-masquerade/"  - macchanger: Ready for the masquerade
+
+"https://inconsolation.wordpress.com/2014/01/03/mairix-starting-off-rather-weakly/"  - mairix: Starting off rather weakly
+
+"https://inconsolation.wordpress.com/2014/07/24/man-mainly-for-the-manly/"  - man: Man, oh man
+
+"https://inconsolation.wordpress.com/2014/10/16/mancala-ten-days-of-games/"  - mancala: Ten days of games
+
+"https://inconsolation.wordpress.com/2014/09/21/mange-the-program-with-a-delicate-name/"  - mange: The program with a delicate name
+
+"https://inconsolation.wordpress.com/2014/01/03/markdown-a-great-idea-in-action/"  - markdown: A great idea in action
+
+"https://inconsolation.wordpress.com/2013/03/12/masterm-a-classic-recreated/"  - masterm: A classic recreated
+
+"https://inconsolation.wordpress.com/2014/11/24/matanza-whats-the-opposite-of-pretty-from-far-far-from-pretty/"  - matanza: What&#8217;s the opposite of &#8216;pretty from far, far from pretty&#8217;?
+
+"https://inconsolation.wordpress.com/2014/01/04/mathomatic-something-looks-familiar-here/"  - mathomatic: Something looks familiar here
+
+"https://inconsolation.wordpress.com/2014/01/28/maze-py-one-more-just-for-fun/"  - maze.py: One more, just for fun
+
+"https://inconsolation.wordpress.com/2014/01/04/mbw-a-surprising-little-utility/"  - mbw: A surprising little utility
+
+"https://inconsolation.wordpress.com/2014/01/06/mcabber-looking-good-in-principle/"  - mcabber: Looking good, in principle
+
+"https://inconsolation.wordpress.com/2014/01/05/mcdiff-mcedit-mcview-internal-tools-externalized/"  - mcdiff, mcedit mcview: Internal tools, externalized
+
+"https://inconsolation.wordpress.com/2013/05/29/mcdp-just-when-i-thought-i-had-them-all/"  - mcdp: Just when I thought I had them all
+
+"https://inconsolation.wordpress.com/2014/01/06/mcookie-mmm-cookies/"  - mcookie: Mmm, cookies!
+
+"https://inconsolation.wordpress.com/2013/07/25/mcplay-the-sincerest-form-of-flattery/"  - mcplay: The sincerest form of flattery
+
+"https://inconsolation.wordpress.com/2014/01/07/md5sum-md5sum-is-md5sum/"  - md5sum: md5sum is &#8230; md5sum
+
+"https://inconsolation.wordpress.com/2014/11/20/mdp-a-new-challenger-appears/"  - mdp: A new challenger appears
+
+"https://inconsolation.wordpress.com/2014/08/22/mediainfo-there-is-none-higher/"  - mediainfo: There is none higher
+
+"https://inconsolation.wordpress.com/2015/03/16/mediocrity-a-worthy-foray-into-the-genre/"  - mediocrity: A worthy foray into the genre
+
+"https://inconsolation.wordpress.com/2014/11/19/memo-not-bad-just-average-by-comparison/"  - memo: Not bad, just average by comparison
+
+"https://inconsolation.wordpress.com/2014/01/07/mencoder-mplayers-less-famous-cousin/"  - mencoder: mplayer&#8217;s less famous cousin
+
+"https://inconsolation.wordpress.com/2015/01/17/meterec-a-halfhearted-endorsement/"  - meterec: A halfhearted endorsement
+
+"https://inconsolation.wordpress.com/2013/04/30/mg-an-ultralight-emacs-if-you-can-believe-it/"  - mg: An ultralight emacs, if you can believe it
+
+"https://inconsolation.wordpress.com/2014/01/08/micro-snake-and-micro-tetris-two-tiny-games/"  - micro snake and micro tetris: Two tiny games
+
+"https://inconsolation.wordpress.com/2014/01/10/midicomp-translate-your-midi-files/"  - midicomp: Translate your midi files
+
+"https://inconsolation.wordpress.com/2014/01/10/mille-a-game-with-history-twice-over/"  - mille: A game with history, twice over
+
+"https://inconsolation.wordpress.com/2014/01/10/mimms-if-only-i-had-an-mms-link-around-here-somewhere/"  - mimms: If only I had an mms link around here somewhere
+
+"https://inconsolation.wordpress.com/2014/01/10/minder-a-reminder-tool-with-a-touch-of-cron/"  - minder: A reminder tool with a touch of cron
+
+"https://inconsolation.wordpress.com/2015/02/24/mined-long-overdue/"  - mined: Long overdue
+
+"https://inconsolation.wordpress.com/2014/10/20/minesweeper-sh-ordinarily-i-wouldnt-bother/"  - minesweeper.sh: Ordinarily I wouldn&#8217;t bother
+
+"https://inconsolation.wordpress.com/2014/08/26/minime-the-9-8k-text-editor/"  - minime: The 9.8K text editor
+
+"https://inconsolation.wordpress.com/2014/07/16/mining-haze-once-glimpsed-now-in-full-view/"  - mining-haze: Once glimpsed, now in full view
+
+"https://inconsolation.wordpress.com/2014/12/04/miscom-the-reagan-era-psyche-crammed-into-80x24/"  - miscom: The Reagan-era psyche, crammed into 80&#215;24
+
+"https://inconsolation.wordpress.com/2013/07/30/mjs-getting-better-as-time-goes-on/"  - mjs: Getting better as time goes on
+
+"https://inconsolation.wordpress.com/2014/09/21/mkfifo-pipe-panjandrum/"  - mkfifo: Pipe panjandrum
+
+"https://inconsolation.wordpress.com/2014/01/11/mktorrent-the-old-fashioned-way-still-works/"  - mktorrent: The old-fashioned way still works
+
+"https://inconsolation.wordpress.com/2014/01/11/mmv-nifty-but-takes-some-getting-used-to/"  - mmv: Nifty, but takes some getting used to
+
+"https://inconsolation.wordpress.com/2014/08/25/mnemonicode-at-long-last-we-meet/"  - mnemonicode: At long last we meet
+
+"https://inconsolation.wordpress.com/2013/08/04/moc-and-then-there-was-one/"  - moc: And then there was one
+
+"https://inconsolation.wordpress.com/2014/01/12/moe-a-small-step-closer-to-a-word-processor/"  - moe: A small step closer to a word processor
+
+"https://inconsolation.wordpress.com/2014/01/12/moon-buggy-ten-years-old-and-still-jumping/"  - moon-buggy: Ten years old, and still jumping
+
+"https://inconsolation.wordpress.com/2013/08/01/moosic-simpler-style-similar-results/"  - moosic: Simpler style, similar results
+
+"https://inconsolation.wordpress.com/2014/01/13/more-already-shown-to-be-less/"  - more: Already shown to be less
+
+"https://inconsolation.wordpress.com/2014/01/13/moreutils-exactly-what-it-claims-to-be/"  - moreutils: Exactly what it claims to be
+
+"https://inconsolation.wordpress.com/2014/12/19/morsegen-and-morse2ascii-since-were-on-the-subject/"  - morsegen and morse2ascii: Since we&#8217;re on the subject
+
+"https://inconsolation.wordpress.com/2014/01/15/mosh-i-see-the-what-the-where-the-how-but-the-why/"  - mosh: I see the what, the where, the how &#8230; but the why?
+
+"https://inconsolation.wordpress.com/2014/01/14/most-more-than-more-and-less/"  - most: More than more and less
+
+"https://inconsolation.wordpress.com/2014/12/06/motti-any-advice-will-be-appreciated/"  - motti: Any advice will be appreciated
+
+"https://inconsolation.wordpress.com/2014/01/15/movgrab-an-alternative-video-grabber/"  - movgrab: An alternative video grabber
+
+"https://inconsolation.wordpress.com/2014/01/18/mp32ogg-deceptively-simple/"  - mp32ogg: Deceptively simple
+
+"https://inconsolation.wordpress.com/2013/07/26/mp3blaster-a-classic-revisited/"  - mp3blaster: A classic revisited
+
+"https://inconsolation.wordpress.com/2014/01/21/mp3burn-straight-to-video-i-mean-audio/"  - mp3burn: Straight to video &#8212; I mean, audio
+
+"https://inconsolation.wordpress.com/2014/01/17/mp3c-and-so-it-begins/"  - mp3c: And so it begins
+
+"https://inconsolation.wordpress.com/2014/01/17/mp3cd-reverse-direction-or-should-be/"  - mp3cd: Reverse direction, or should be
+
+"https://inconsolation.wordpress.com/2014/01/17/mp3check-probably-a-good-one-to-keep-around/"  - mp3check: Probably a good one to keep around
+
+"https://inconsolation.wordpress.com/2014/01/17/mp3convert-py-a-very-good-mass-converter/"  - mp3convert.py: A very good mass converter
+
+"https://inconsolation.wordpress.com/2014/01/18/mp3gain-the-scientific-term/"  - mp3gain: The scientific term
+
+"https://inconsolation.wordpress.com/2014/01/20/mp3info-the-details-plus-a-little/"  - mp3info: The details, plus a little
+
+"https://inconsolation.wordpress.com/2014/07/21/mp3rename-rename-and-organize-in-one-fell-swoop/"  - mp3rename: Rename and organize, in one fell swoop
+
+"https://inconsolation.wordpress.com/2014/01/22/mp3rename-the-ubiquitous-function-in-its-simplest-form/"  - mp3rename: The ubiquitous function, in its simplest form
+
+"https://inconsolation.wordpress.com/2014/01/22/mp3report-were-not-even-close-to-finished-yet/"  - mp3report: We&#8217;re not even close to finished yet
+
+"https://inconsolation.wordpress.com/2014/01/20/mp3splt-a-rare-animal-indeed/"  - mp3splt: A rare animal indeed
+
+"https://inconsolation.wordpress.com/2014/01/20/mp3unicode-possibly-important/"  - mp3unicode: Possibly important
+
+"https://inconsolation.wordpress.com/2014/01/24/mp3val-a-simple-validation-check/"  - mp3val: A simple validation check
+
+"https://inconsolation.wordpress.com/2014/01/20/mp3wrap-what-has-been-rent-asunder-shall-be-forged-anew/"  - mp3wrap: What has been rent asunder shall be forged anew
+
+"https://inconsolation.wordpress.com/2013/07/31/mpc-a-convenient-interlude/"  - mpc: A convenient interlude
+
+"https://inconsolation.wordpress.com/2014/01/24/mpck-seemingly-misnamed/"  - mpck: Seemingly misnamed
+
+"https://inconsolation.wordpress.com/2015/04/10/mpfc-doing-everything-so-right/"  - mpfc: Doing everything so right
+
+"https://inconsolation.wordpress.com/2013/07/31/mpg123-and-ogg123-two-workhorses/"  - mpg123 and ogg123: Two workhorses
+
+"https://inconsolation.wordpress.com/2014/01/25/mpgtx-slicing-and-dicing-mpegs-of-all-varieties/"  - mpgtx: Slicing and dicing, mpegs of all varieties
+
+"https://inconsolation.wordpress.com/2013/07/29/mplayer-and-alsaplayer-a-text-only-twofer/"  - mplayer and alsaplayer: A text-only twofer
+
+"https://inconsolation.wordpress.com/2014/01/14/mplayer-at-the-framebuffer-or-without/"  - mplayer: At the framebuffer, or without
+
+"https://inconsolation.wordpress.com/2014/09/04/mps-youtube-all-in-one-search-download-and-play/"  - mps-youtube: All-in-one search, download and play
+
+"https://inconsolation.wordpress.com/2014/12/28/mps-not-unlike-its-brother/"  - mps: Not unlike its brother
+
+"https://inconsolation.wordpress.com/2014/07/23/mpstat-quickdraw-processor-statistics/"  - mpstat: Quickdraw processor statistics
+
+"https://inconsolation.wordpress.com/2013/05/22/mrzoom-not-really-for-the-underpowered/"  - mrzoom: Not really for the underpowered
+
+"https://inconsolation.wordpress.com/2014/11/12/msdl-ripping-the-format-of-the-evil-one/"  - msdl: Ripping the format of the Evil One
+
+"https://inconsolation.wordpress.com/2013/01/21/mtr-the-unassuming-network-tool/"  - mtr: The unassuming network tool
+
+"https://inconsolation.wordpress.com/2014/01/26/mulk-as-in-the-incredible-mulk/"  - mulk: As in, the incredible mulk
+
+"https://inconsolation.wordpress.com/2015/01/17/multimail-a-rubberstamp-endorsement/"  - multimail: A rubberstamp endorsement
+
+"https://inconsolation.wordpress.com/2013/01/07/multitail-making-logs-fun/"  - multitail: Making logs fun
+
+"https://inconsolation.wordpress.com/2014/11/01/musiql-perhaps-the-obvious-answer-to-music-management/"  - musiql: Perhaps the obvious answer to music management
+
+"https://inconsolation.wordpress.com/2013/08/04/mussort-a-unique-music-utility/"  - mussort: A unique music utility
+
+"https://inconsolation.wordpress.com/2014/01/26/mutella-looking-for-signs-of-life/"  - mutella: Looking for signs of life
+
+"https://inconsolation.wordpress.com/2014/01/27/mutt-miracle-of-miracles/"  - mutt: Miracle of miracles
+
+"https://inconsolation.wordpress.com/2014/10/27/muzikq-with-some-small-improvements/"  - muzikq: With some small improvements
+
+"https://inconsolation.wordpress.com/2014/01/27/mybashburn-much-the-same-animal/"  - mybashburn: Much the same animal
+
+"https://inconsolation.wordpress.com/2013/06/13/myman-still-a-magnificent-achievement/"  - myman: Still a magnificent achievement
+
+"https://inconsolation.wordpress.com/2014/01/29/naim-not-quite-due-diligence/"  - naim: Not quite due diligence
+
+"https://inconsolation.wordpress.com/2014/01/29/nano-were-number-three-we-try-harder/"  - nano: We&#8217;re number three, we try harder
+
+"https://inconsolation.wordpress.com/2015/02/02/nap-and-nap-take-a-nap-or-two/"  - nap and nap: Take a nap or two
+
+"https://inconsolation.wordpress.com/2014/01/30/nast-a-feeling-of-incompleteness/"  - nast: A feeling of incompleteness
+
+"https://inconsolation.wordpress.com/2014/01/30/nbtscan-so-polite-and-helpful-and-still-i-am-clueless/"  - nbtscan: So polite and helpful &#8230; and still I am clueless
+
+"https://inconsolation.wordpress.com/2014/09/09/nbwmon-an-ncurses-bandwidth-monitor-of-course/"  - nbwmon: An ncurses bandwidth monitor, of course
+
+"https://inconsolation.wordpress.com/2014/11/07/ncdc-direct-connect-in-ncurses/"  - ncdc: Direct connect in ncurses
+
+"https://inconsolation.wordpress.com/2015/04/19/ncdt-an-interesting-evolution/"  - ncdt: An interesting evolution
+
+"https://inconsolation.wordpress.com/2014/01/31/ncdu-you-need-this-tool/"  - ncdu: You need this tool
+
+"https://inconsolation.wordpress.com/2014/01/31/ncftp-as-the-alphabet-goes-so-go-ftp-clients/"  - ncftp: As the alphabet goes, so go FTP clients
+
+"https://inconsolation.wordpress.com/2014/02/01/ncmatrix-the-original-with-a-twist/"  - ncmatrix: The original, with a twist
+
+"https://inconsolation.wordpress.com/2014/11/07/ncmpcpp-once-more-for-the-tag-editor/"  - ncmpcpp: Once more, for the tag editor
+
+"https://inconsolation.wordpress.com/2013/01/06/ncmpcpp-the-thing-with-the-vertical-lines/"  - ncmpcpp: The thing with the vertical lines
+
+"https://inconsolation.wordpress.com/2013/08/02/ncmpy-almost-lost-glad-to-have-found/"  - ncmpy: Reports of its death are greatly exaggerated
+
+"https://inconsolation.wordpress.com/2013/05/17/ncp-possibly-the-easiest-yet/"  - ncp: Possibly the easiest yet
+
+"https://inconsolation.wordpress.com/2014/09/03/ncurses-examples-hidden-gems/"  - ncurses-examples: Hidden gems
+
+"https://inconsolation.wordpress.com/2013/02/02/ncurses-life-enjoy-the-show/"  - ncurses-life: Enjoy the show
+
+"https://inconsolation.wordpress.com/2014/09/29/ncursesoflife-manipulate-the-show/"  - ncursesoflife: Manipulate the show
+
+"https://inconsolation.wordpress.com/2013/07/27/ncxmms2-similar-style-different-daemon/"  - ncxmms2: Similar style, different daemon
+
+"https://inconsolation.wordpress.com/2015/04/28/ndn-and-memories-of-the-past/"  - ndn: And memories of the past
+
+"https://inconsolation.wordpress.com/2014/02/01/ne-a-serious-challenger-to-the-throne/"  - ne: A serious challenger to the throne
+
+"https://inconsolation.wordpress.com/2014/11/03/neercs-compiz-at-the-console/"  - neercs: Compiz at the console
+
+"https://inconsolation.wordpress.com/2014/02/02/nemesis-way-way-out-of-my-depth/"  - nemesis: Way, way out of my depth
+
+"https://inconsolation.wordpress.com/2014/02/02/net-acct-or-is-nacctd-either-way-network-accounting/"  - net-acct: Or is nacctd? Either way, network accounting
+
+"https://inconsolation.wordpress.com/2015/03/22/net-o-grama-an-ancient-idea-done-very-well/"  - net-o-grama: An ancient idea, done very well
+
+"https://inconsolation.wordpress.com/2014/02/06/net-tools-a-pack-with-some-punch/"  - net-tools: A pack with some punch
+
+"https://inconsolation.wordpress.com/2014/02/03/netcat-every-other-tool-combined-in-one/"  - netcat: Every other tool, combined in one
+
+"https://inconsolation.wordpress.com/2014/02/03/netctl-one-for-the-archers/"  - netctl: One for the Archers
+
+"https://inconsolation.wordpress.com/2013/02/28/nethack-needs-no-introduction/"  - nethack: Needs no introduction
+
+"https://inconsolation.wordpress.com/2014/02/04/nethogs-network-load-by-process/"  - nethogs: Network load, by process
+
+"https://inconsolation.wordpress.com/2014/02/04/netmask-does-exactly-that-i-guess/"  - netmask: Does &#8230; exactly that, I guess
+
+"https://inconsolation.wordpress.com/2014/02/05/netrik-almost-the-ultralight-est/"  - netrik: Almost the ultralight-est
+
+"https://inconsolation.wordpress.com/2014/02/05/netsed-does-for-the-net-what-sed-does-for/"  - netsed: Does for the &#8216;net what sed does for &#8230; 
+
+"https://inconsolation.wordpress.com/2014/02/06/netselect-the-ping-tool-you-always-wanted/"  - netselect: The ping tool you always wanted
+
+"https://inconsolation.wordpress.com/2014/11/24/netships-youll-need-a-friend-for-this-one/"  - netships: You&#8217;ll need a friend for this one
+
+"https://inconsolation.wordpress.com/2015/01/25/netsniff-ng-more-than-i-bargained-for/"  - netsniff-ng: More than I bargained for
+
+"https://inconsolation.wordpress.com/2014/02/06/netstat-power-concedes-nothing/"  - netstat: Power concedes nothing
+
+"https://inconsolation.wordpress.com/2014/02/06/nettoe-the-fundamental-challege-reappears/"  - nettoe: The fundamental challenge reappears
+
+"https://inconsolation.wordpress.com/2013/01/26/netwatch-more-nifty-networking/"  - netwatch: More nifty networking
+
+"https://inconsolation.wordpress.com/2014/02/07/netwox-a-set-of-220-unwieldy-tools/"  - netwox: A set of 220+ (unwieldy) tools
+
+"https://inconsolation.wordpress.com/2013/04/17/newsbeuter-a-simple-and-clean-news-reader/"  - newsbeuter: A simple and clean news reader
+
+"https://inconsolation.wordpress.com/2014/02/08/nffm-shot-with-a-diamond-bullet/"  - nffm: Shot with a diamond bullet
+
+"https://inconsolation.wordpress.com/2015/02/01/nget-sometimes-a-hammer-is-just-a-hammer/"  - nget: Sometimes a hammer is just a hammer
+
+"https://inconsolation.wordpress.com/2014/11/15/ngincat-four-lines-of-bash-plus-netcat/"  - ngincat: Four lines of bash, plus netcat
+
+"https://inconsolation.wordpress.com/2014/10/03/ngp-find-it-and-edit-it-in-one-deft-motion/"  - ngp: Find it and edit it, in one deft motion
+
+"https://inconsolation.wordpress.com/2014/02/08/ngrep-does-for-the-net-what-grep-does-for/"  - ngrep: Does for the &#8216;net what grep does for &#8230;
+
+"https://inconsolation.wordpress.com/2014/11/25/nibbles-considerably-less-taxing-mentally/"  - nibbles: Considerably less taxing, mentally
+
+"https://inconsolation.wordpress.com/2014/02/09/nice-its-nice-to-be-nice-to-the-nice-again/"  - nice: It&#8217;s nice to be nice to the nice again
+
+"https://inconsolation.wordpress.com/2014/02/09/nikto-web-server-testing-in-brief/"  - nikto: Web server testing in brief
+
+"https://inconsolation.wordpress.com/2014/02/10/ninvaders-combat-in-your-console/"  - ninvaders: Combat in your console
+
+"https://inconsolation.wordpress.com/2014/09/26/nl-line-numbering-in-a-variety-of-ways/"  - nl: Line numbering, in a variety of ways
+
+"https://inconsolation.wordpress.com/2013/01/27/nload-visual-and-console-safe/"  - nload: Visual, and console-safe
+
+"https://inconsolation.wordpress.com/2014/02/10/nmap-the-grand-meister-network-tool/"  - nmap: The grand meister network tool
+
+"https://inconsolation.wordpress.com/2014/07/19/nmon-a-monitor-for-everything/"  - nmon: A monitor for everything
+
+"https://inconsolation.wordpress.com/2014/08/12/nn-success-this-time/"  - nn: Success this time
+
+"https://inconsolation.wordpress.com/2015/01/17/nodau-take-note/"  - nodau: Take note
+
+"https://inconsolation.wordpress.com/2013/06/14/normalize-three-quick-tasks-in-one-tool/"  - normalize: Three quick tasks, in one tool
+
+"https://inconsolation.wordpress.com/2015/02/23/note-a-noteworthy-application/"  - note: A noteworthy application
+
+"https://inconsolation.wordpress.com/2015/02/22/notifyme-simple-small-and-clever/"  - notifyme: Simple, small and clever
+
+"https://inconsolation.wordpress.com/2014/10/15/notmuch-not-much-is-relative/"  - notmuch: &#8220;Not much&#8221; is relative
+
+"https://inconsolation.wordpress.com/2014/10/20/npush-more-sokoban-than-boulder-dash/"  - npush: More Sokoban than Boulder Dash
+
+"https://inconsolation.wordpress.com/2014/02/11/nrss-reaching-back-through-the-years/"  - nrss: Reaching back through the years
+
+"https://inconsolation.wordpress.com/2013/06/01/nsnake-in-june-there-shall-be-games/"  - nsnake: In June, there shall be games
+
+"https://inconsolation.wordpress.com/2013/01/25/nsudoku-an-obvious-choice/"  - nsudoku: An obvious choice
+
+"https://inconsolation.wordpress.com/2015/03/31/nsuds-a-text-based-tour-de-force/"  - nsuds: A text-based tour-de-force
+
+"https://inconsolation.wordpress.com/2014/02/11/ntop-with-special-guest-star-yeahconsole/"  - ntop: With special guest star yeahconsole
+
+"https://inconsolation.wordpress.com/2014/02/12/ntp-including-my-favorite-ntpdate/"  - ntp: Including my favorite, ntpdate
+
+"https://inconsolation.wordpress.com/2014/02/12/num-utils-this-and-that-for-numbers/"  - num-utils: This and that, for numbers
+
+"https://inconsolation.wordpress.com/2014/11/08/number-what-computers-were-made-for/"  - number: What computers were made for
+
+"https://inconsolation.wordpress.com/2014/10/04/numfmt-saving-you-a-trip-to-google/"  - numfmt: Saving you a trip to Google
+
+"https://inconsolation.wordpress.com/2014/12/20/nwipe-great-trepidation-and-fierce-consternation/"  - nwipe: Great trepidation and fierce consternation
+
+"https://inconsolation.wordpress.com/2014/12/13/nzbget-heretofore-unbeknownst-to-me/"  - nzbget: Heretofore unbeknownst to me
+
+"https://inconsolation.wordpress.com/2014/02/15/o3read-and-odt2txt-converters-by-the-numbers/"  - o3read and odt2txt: Converters, by the numbers
+
+"https://inconsolation.wordpress.com/2014/02/17/octave-barely-scratching-the-surface/"  - octave: Barely scratching the surface
+
+"https://inconsolation.wordpress.com/2014/02/17/od-not-overdose-nor-olive-drab/"  - od: Not &#8220;overdose&#8221; nor &#8220;olive drab&#8221;
+
+"https://inconsolation.wordpress.com/2014/02/17/offlineimap-with-visible-potential/"  - offlineimap: With visible potential
+
+"https://inconsolation.wordpress.com/2015/03/18/okiworld-host-to-host-turn-based-text-strategy/"  - okiworld: Host-to-host turn-based text strategy
+
+"https://inconsolation.wordpress.com/2015/04/27/ol-one-last-editor-and-outliner/"  - ol: One last editor and outliner
+
+"https://inconsolation.wordpress.com/2014/11/30/oldrunner-aiming-for-pixel-perfect/"  - oldrunner: Aiming for pixel-perfect
+
+"https://inconsolation.wordpress.com/2014/02/17/oleo-no-joy-in-mudville/"  - oleo: No joy in Mudville
+
+"https://inconsolation.wordpress.com/2014/02/18/olive-a-totally-sweet-newsreader-is-right/"  - olive: A &#8220;totally sweet&#8221; newsreader is right
+
+"https://inconsolation.wordpress.com/2014/10/24/omega-a-poke-at-the-genre-rendered-in-ascii/"  - omega: A poke at the genre, rendered in ASCII
+
+"https://inconsolation.wordpress.com/2014/09/19/one-another-attempt-at-unification/"  - one: Another attempt at unification
+
+"https://inconsolation.wordpress.com/2014/02/18/oping-and-even-better-noping/"  - oping: And even better, noping
+
+"https://inconsolation.wordpress.com/2013/07/28/orpheus-an-appealing-arrangement/"  - orpheus: An appealing arrangement
+
+"https://inconsolation.wordpress.com/2014/02/19/orpie-or-should-i-say-orpie/"  - orpie: Or should I say, &#8220;Orpie!&#8221;
+
+"https://inconsolation.wordpress.com/2014/02/19/otp-not-as-simple-as-it-looks/"  - otp: Not as simple as it looks
+
+"https://inconsolation.wordpress.com/2014/12/09/ox3d-tic-tac-toe-tough/"  - ox3d: Tic-tac-toe-tough
+
+"https://inconsolation.wordpress.com/2013/02/07/p0f-an-enigmatic-network-tool/"  - p0f: An enigmatic network tool
+
+"https://inconsolation.wordpress.com/2013/05/04/packit-displaying-my-ignorance-in-pretty-lists/"  - packit: Displaying my ignorance, in pretty lists
+
+"https://inconsolation.wordpress.com/2014/09/30/pacman4console-the-classic-and-some-madness/"  - pacman4console: The classic, and some madness
+
+"https://inconsolation.wordpress.com/2013/03/04/pal-by-contrast-a-step-up/"  - pal: By contrast, a step up
+
+"https://inconsolation.wordpress.com/2014/02/21/pandoc-let-the-games-begin/"  - pandoc: Let the games begin
+
+"https://inconsolation.wordpress.com/2014/02/21/par-after-pandoc-par-for-the-course/"  - par: After pandoc, par for the course
+
+"https://inconsolation.wordpress.com/2014/02/22/parallel-working-along-the-same-lines/"  - parallel: Working along the same lines
+
+"https://inconsolation.wordpress.com/2014/02/22/parted-the-forgotten-partition-tool/"  - parted: The forgotten partition tool
+
+"https://inconsolation.wordpress.com/2014/02/23/pass-my-favorite-password-manager/"  - pass: My favorite password manager
+
+"https://inconsolation.wordpress.com/2014/02/23/paste-i-would-vote-for-a-different-name/"  - paste: I would vote for a different name
+
+"https://inconsolation.wordpress.com/2014/10/02/paste-what-i-thought-join-would-be/"  - paste: What I thought join would be
+
+"https://inconsolation.wordpress.com/2014/02/24/pastebinit-as-in-pastebin-it/"  - pastebinit: As in &#8220;pastebin it!&#8221;
+
+"https://inconsolation.wordpress.com/2014/02/24/patch-piecing-together-what-i-should-say/"  - patch: Piecing together what I should say
+
+"https://inconsolation.wordpress.com/2015/04/07/patool-multilingual/"  - patool: Multilingual
+
+"https://inconsolation.wordpress.com/2014/02/25/pavuk-so-very-very-close/"  - pavuk: So very, very close
+
+"https://inconsolation.wordpress.com/2014/02/25/pbzip2-the-luxury-of-multiprocessing/"  - pbzip2: The luxury of multiprocessing
+
+"https://inconsolation.wordpress.com/2014/02/26/pcal-nifty-calendars-at-a-moments-notice/"  - pcal: Nifty calendars, at a moment&#8217;s notice
+
+"https://inconsolation.wordpress.com/2014/02/28/pdf-the-splat-meaning-whatever-you-want/"  - pdf*: The splat meaning, &#8220;Whatever you want&#8221;
+
+"https://inconsolation.wordpress.com/2014/02/28/pdftk-all-the-others-mixed-together-and-then-some/"  - pdftk: All the others mixed together, and then some
+
+"https://inconsolation.wordpress.com/2014/02/26/pdmenu-the-bane-of-geek-showoffs/"  - pdmenu: The bane of geek showoffs
+
+"https://inconsolation.wordpress.com/2015/03/01/peat-pete-and-repeat-are-sitting-on-a-fence/"  - peat: Pete and Repeat are sitting on a fence. &#8230;
+
+"https://inconsolation.wordpress.com/2014/08/19/peerflix-straight-to-video/"  - peerflix: Straight to video
+
+"https://inconsolation.wordpress.com/2014/02/27/pente-another-historical-rendition/"  - pente: Another historical rendition
+
+"https://inconsolation.wordpress.com/2014/08/05/percol-more-menu-like-options-plus-searching-and-color/"  - percol: More menu-like options, plus searching and color
+
+"https://inconsolation.wordpress.com/2014/02/27/perltidy-picking-up-the-loose-ends/"  - perltidy: Picking up the loose ends
+
+"https://inconsolation.wordpress.com/2014/03/01/petris-a-little-weak-as-tetris-games-go/"  - petris: A little weak, as Tetris games go
+
+"https://inconsolation.wordpress.com/2013/01/08/peyote-tunes-for-the-terminal/"  - peyote: Tunes for the terminal
+
+"https://inconsolation.wordpress.com/2014/10/07/pg-a-little-underfeatured-a-little-overweight/"  - pg: A little underfeatured, a little overweight
+
+"https://inconsolation.wordpress.com/2014/03/01/phantasia-old-school-role-playing/"  - phantasia: Old-school role playing
+
+"https://inconsolation.wordpress.com/2014/03/02/photorec-taught-me-something-new-today/"  - photorec: Taught me something new today
+
+"https://inconsolation.wordpress.com/2014/03/18/pi-a-request-from-the-audience/"  - pi: A request from the audience
+
+"https://inconsolation.wordpress.com/2013/05/08/pianobar-no-guidance-here-either/"  - pianobar: No guidance here either
+
+"https://inconsolation.wordpress.com/2014/03/02/pico-its-in-there-too-its-just-also-hiding/"  - pico: It&#8217;s in there too, it&#8217;s just also hiding
+
+"https://inconsolation.wordpress.com/2014/03/03/pig-relish-the-small-things-in-life/"  - pig: Relish the small things in life
+
+"https://inconsolation.wordpress.com/2014/03/03/pigz-equality-among-parallelized-compression-tools/"  - pigz: Equality among parallelized compression tools
+
+"https://inconsolation.wordpress.com/2013/05/02/pilot-its-in-there-its-just-hiding/"  - pilot: It&#8217;s in there, it&#8217;s just hiding
+
+"https://inconsolation.wordpress.com/2014/03/03/pinfo-a-new-viewpoint-is-always-welcome/"  - pinfo: A new viewpoint is always welcome
+
+"https://inconsolation.wordpress.com/2014/03/04/ping-everybody-wants-to-be-the-ping/"  - ping: Everybody wants to be the ping
+
+"https://inconsolation.wordpress.com/2013/05/06/pip-a-tool-to-save-for-later/"  - pip: A tool to save for later
+
+"https://inconsolation.wordpress.com/2013/02/01/pipes-sh-a-little-bit-of-fun/"  - pipes.sh: A little bit of fun
+
+"https://inconsolation.wordpress.com/2014/08/08/pirate-get-a-tool-is-just-a-tool/"  - pirate-get: A tool is just a tool
+
+"https://inconsolation.wordpress.com/2014/11/08/pjsua-looks-good-sounds-well/"  - pjsua: Looks good, sounds &#8230; well &#8230;
+
+"https://inconsolation.wordpress.com/2014/03/04/pkgfile-and-pacman-for-archers-only/"  - pkgfile: And pacman, for Archers only
+
+"https://inconsolation.wordpress.com/2013/01/23/pktstat-when-you-want-details/"  - pktstat: When you want details
+
+"https://inconsolation.wordpress.com/2014/03/05/playshell-a-very-pleasant-surprise/"  - playshell: A very pleasant surprise
+
+"https://inconsolation.wordpress.com/2014/03/05/pmidi-if-a-tree-falls-in-the-woods/"  - pmidi: If a tree falls in the woods
+
+"https://inconsolation.wordpress.com/2013/08/03/pms-finally-an-enjoyable-mpd-client/"  - pms: Finally, an enjoyable mpd client
+
+"https://inconsolation.wordpress.com/2014/03/07/pnscan-a-parallel-network-scanner/"  - pnscan: A parallel network scanner
+
+"https://inconsolation.wordpress.com/2014/08/23/podbeuter-the-hidden-podcast-tool/"  - podbeuter: The hidden podcast tool
+
+"https://inconsolation.wordpress.com/2015/04/20/podcastxdl-one-shot-downloads-for-your-ears/"  - podcastxdl: One-shot downloads for your ears
+
+"https://inconsolation.wordpress.com/2014/03/07/podget-getting-the-goods-for-you/"  - podget: Getting the goods for you
+
+"https://inconsolation.wordpress.com/2014/03/08/podracer-not-quite-the-man-podget-was/"  - podracer: Not quite the man podget was
+
+"https://inconsolation.wordpress.com/2014/03/08/polygen-good-clean-grammatical-fun/"  - polygen: Good clean grammatical fun
+
+"https://inconsolation.wordpress.com/2014/03/11/pom-another-nifty-gimmick/"  - pom: Another nifty gimmick
+
+"https://inconsolation.wordpress.com/2014/03/09/popd-and-pushd-the-original-fast-directory-switching/"  - popd and pushd: The original fast directory switching
+
+"https://inconsolation.wordpress.com/2013/05/07/pork-going-the-extra-mile/"  - pork: Going the extra mile
+
+"https://inconsolation.wordpress.com/2014/03/09/portsentry-guarding-against-incoming-traffic/"  - portsentry: Guarding against incoming traffic
+
+"https://inconsolation.wordpress.com/2013/01/12/powertop-not-just-a-pretty-name/"  - powertop: Not just a pretty name
+
+"https://inconsolation.wordpress.com/2014/03/10/pppstatus-by-virtue-of-past-performances/"  - pppstatus: By virtue of past performances
+
+"https://inconsolation.wordpress.com/2014/03/11/ppt-bcd-and-morse-dit-dit-daw-daw/"  - ppt, bcd and morse: Dit dit, daw daw
+
+"https://inconsolation.wordpress.com/2015/02/04/presage-oh-you-think-youre-sooo-smart/"  - presage: Oh, you think you&#8217;re sooo smart
+
+"https://inconsolation.wordpress.com/2014/12/30/prettyping-sh-an-irrefutably-prettier-ping/"  - prettyping.sh: An irrefutably prettier ping
+
+"https://inconsolation.wordpress.com/2014/03/10/primes-ready-for-primes-time/"  - primes: Ready for primes time!
+
+"https://inconsolation.wordpress.com/2014/03/12/prips-print-ranges-of-ip-addresses/"  - prips: Print ranges of IP addresses 
+
+"https://inconsolation.wordpress.com/2014/03/12/privoxy-i-feel-obligated-to-mention-it/"  - privoxy: I feel obligated to mention it
+
+"https://inconsolation.wordpress.com/2014/08/29/procinfo-and-friends-become-one-with-your-hardware/"  - procinfo and friends: Become one with your hardware
+
+"https://inconsolation.wordpress.com/2014/03/14/procmail-may-i-refer-you-to-someone-more-knowledgeable/"  - procmail: May I refer you to someone more knowledgeable?
+
+"https://inconsolation.wordpress.com/2014/03/14/profanity-an-xmpp-client-for-the-console-irssi-style/"  - profanity: An XMPP client for the console, irssi-style
+
+"https://inconsolation.wordpress.com/2014/03/15/proxychains-sorry-to-be-of-so-little-help/"  - proxychains: Sorry to be of so little help
+
+"https://inconsolation.wordpress.com/2014/03/16/ps-the-splat-meaning-whatever-you-want/"  - ps*: The splat meaning, â€œWhatever you wantâ€
+
+"https://inconsolation.wordpress.com/2014/03/15/ps2ascii-and-ps2pdf-in-two-directions/"  - ps2ascii and ps2pdf: In two directions
+
+"https://inconsolation.wordpress.com/2014/08/14/ps-that-other-process-tool/"  - ps: That other process tool
+
+"https://inconsolation.wordpress.com/2014/10/26/pscpug-nothing-to-do-with-pugs/"  - pscpug: Nothing to do with pugs
+
+"https://inconsolation.wordpress.com/2014/03/17/pssh-still-more-parallelized-tools/"  - pssh: Still more parallelized tools
+
+"https://inconsolation.wordpress.com/2013/02/15/pstree-simple-yet-effective/"  - pstree: Simple yet effective
+
+"https://inconsolation.wordpress.com/2014/03/17/puf-waiting-for-its-moment-to-shine/"  - puf: Waiting for its moment to shine
+
+"https://inconsolation.wordpress.com/2014/03/18/punch-getting-past-my-prejudices/"  - punch: Getting past my prejudices
+
+"https://inconsolation.wordpress.com/2014/11/21/pup-playing-fetch-with-html/"  - pup: Playing fetch with HTML
+
+"https://inconsolation.wordpress.com/2014/03/18/pure-ftpd-adventures-in-the-service-sector/"  - pure-ftpd: Adventures in the service sector
+
+"https://inconsolation.wordpress.com/2014/03/19/pv-why-wont-you-talk-to-me/"  - pv: Why won&#8217;t you talk to me?
+
+"https://inconsolation.wordpress.com/2014/03/19/pwcrypt-on-the-fly-password-encryption/"  - pwcrypt: On-the-fly password encryption
+
+"https://inconsolation.wordpress.com/2014/03/21/pwgen-making-it-up-as-you-go/"  - pwgen: Making it up as you go
+
+"https://inconsolation.wordpress.com/2014/03/21/pwsafe-simpler-password-management/"  - pwsafe: Simpler password management
+
+"https://inconsolation.wordpress.com/2014/03/21/pydf-disk-space-in-color/"  - pydf: Disk space, in color
+
+"https://inconsolation.wordpress.com/2014/03/21/pygments-because-everyone-loves-color/"  - pygments: Because everyone loves color
+
+"https://inconsolation.wordpress.com/2015/04/05/pyncp-quick-and-easy-network-transfer/"  - pyncp: Quick and easy network transfer
+
+"https://inconsolation.wordpress.com/2013/07/25/pyradio-now-thats-different/"  - pyradio: Now that&#8217;s different
+
+"https://inconsolation.wordpress.com/2015/03/28/pyro-and-pacman-for-python-python-at-play/"  - pyro and pacman-for-python: Piggybacking python
+
+"https://inconsolation.wordpress.com/2013/02/18/pysize-somewhat-unusual-somewhat-unstable/"  - pysize: Somewhat unusual, somewhat unstable
+
+"https://inconsolation.wordpress.com/2014/03/23/qalc-qalculates-text-only-version/"  - qalc: qalculate!&#8217;s text only version
+
+"https://inconsolation.wordpress.com/2014/03/23/qnub-djsl-and-others-something-new-to-look-at/"  - qnub, djsl and others: Something new to look at
+
+"https://inconsolation.wordpress.com/2014/03/24/qodem-i-was-so-very-wrong/"  - qodem: I was so very wrong
+
+"https://inconsolation.wordpress.com/2014/03/24/qpdf-still-more-pdf-wizardry/"  - qpdf: Still more PDF wizardry
+
+"https://inconsolation.wordpress.com/2014/10/14/qplay-more-music-in-the-code-of-c/"  - qplay: More music, in the code of C
+
+"https://inconsolation.wordpress.com/2014/12/12/qrq-how-little-i-really-know/"  - qrq: How little I really know
+
+"https://inconsolation.wordpress.com/2014/03/25/queso-use-tcp-packets-to-guess-oses/"  - queso: Use TCP packets to guess OSes
+
+"https://inconsolation.wordpress.com/2014/03/25/quiz-a-most-irritating-teacher/"  - quiz: A most irritating teacher
+
+"https://inconsolation.wordpress.com/2013/04/04/quote-stock-info-at-the-cli/"  - quote: Stock info at the cli
+
+"https://inconsolation.wordpress.com/2014/07/18/quvi-build-your-own-video-downloader/"  - quvi: Build your own video downloader
+
+"https://inconsolation.wordpress.com/2014/03/27/r-might-as-well-start-at-the-beginning/"  - r: Might as well start at the beginning
+
+"https://inconsolation.wordpress.com/2014/03/27/raggle-yesteryears-newsreader/"  - raggle: Yesteryear&#8217;s newsreader
+
+"https://inconsolation.wordpress.com/2014/03/28/rain-an-old-school-screensaver/"  - rain: An old-school screensaver
+
+"https://inconsolation.wordpress.com/2014/03/28/rainbow-color-filtering-in-a-different-way/"  - rainbow: Color filtering in a different way
+
+"https://inconsolation.wordpress.com/2014/03/29/ranger-the-day-has-come/"  - ranger: The day has come
+
+"https://inconsolation.wordpress.com/2014/03/29/rawdog-trim-away-the-useless-bits/"  - rawdog: Trim away the useless bits
+
+"https://inconsolation.wordpress.com/2014/03/30/rblcheck-another-anti-spam-weapon/"  - rblcheck: Another anti-spam weapon
+
+"https://inconsolation.wordpress.com/2014/03/30/rcconf-enjoying-the-nostalgia/"  - rcconf: Enjoying the nostalgia
+
+"https://inconsolation.wordpress.com/2014/03/31/rdfind-echolocation/"  - rdfind: Echolocation
+
+"https://inconsolation.wordpress.com/2014/04/01/rdiff-backup-mirrored-with-increments/"  - rdiff-backup: Mirrored, with increments
+
+"https://inconsolation.wordpress.com/2014/03/31/rdiffdir-a-succinct-sync/"  - rdiffdir: A succinct sync
+
+"https://inconsolation.wordpress.com/2014/04/01/rdup-still-more-backup-options/"  - rdup: Still more backup options
+
+"https://inconsolation.wordpress.com/2014/11/20/realpath-its-the-real-thing/"  - realpath: It&#8217;s the real thing
+
+"https://inconsolation.wordpress.com/2014/08/30/recap-everything-about-everything-from-everything-prepacked/"  - recap: Everything about everything from everything, prepacked
+
+"https://inconsolation.wordpress.com/2014/04/13/reflector-one-more-for-archers/"  - reflector: One more for Archers
+
+"https://inconsolation.wordpress.com/2015/02/09/regexprogram-add-to-your-education/"  - regexProgram: Add to your education
+
+"https://inconsolation.wordpress.com/2014/04/02/regionset-this-i-can-attest-to/"  - regionset: This I can attest to
+
+"https://inconsolation.wordpress.com/2014/04/02/rename-pl-many-paths-to-the-same-destination/"  - rename.pl: Many paths to the same destination
+
+"https://inconsolation.wordpress.com/2014/09/26/rename-the-built-in-filename-sifting-tool/"  - rename: The built-in filename sifting tool
+
+"https://inconsolation.wordpress.com/2013/06/30/renameutils-underappreciated-tools/"  - renameutils: Underappreciated tools
+
+"https://inconsolation.wordpress.com/2014/04/03/reptyr-pull-the-rug-out-from-under-your-tty/"  - reptyr: Pull the rug out from under your tty
+
+"https://inconsolation.wordpress.com/2014/04/03/retawq-ultralight-browsing/"  - retawq: Ultralight browsing
+
+"https://inconsolation.wordpress.com/2014/04/04/rev-skcik-rof-tsuj/"  - rev: skcik rof tsuJ
+
+"https://inconsolation.wordpress.com/2013/06/20/rexima-another-happy-error/"  - rexima: Another happy error
+
+"https://inconsolation.wordpress.com/2015/04/25/rfc-and-httpdoc-two-terminal-references/"  - rfc and httpdoc: Two terminal references
+
+"https://inconsolation.wordpress.com/2014/04/04/rhapsody-a-menu-driven-interface-for-irc/"  - rhapsody: A menu-driven interface for IRC
+
+"https://inconsolation.wordpress.com/2014/04/05/rig-the-random-identity-generator/"  - rig: The random identity generator
+
+"https://inconsolation.wordpress.com/2014/04/06/ripit-for-precise-exacting-cd-conversions/"  - ripit: For precise, exacting CD conversions
+
+"https://inconsolation.wordpress.com/2015/04/23/rmlint-the-potential-to-purge/"  - rmlint: The potential to purge
+
+"https://inconsolation.wordpress.com/2014/04/06/rntools-an-unexpected-find/"  - rntools: An unexpected find
+
+"https://inconsolation.wordpress.com/2014/11/22/robohack-the-only-legitimate-use-of-a-computer/"  - robohack: The only legitimate use of a computer
+
+"https://inconsolation.wordpress.com/2014/12/05/robotfindskitten-okay-okay-here-it-is/"  - robotfindskitten: Okay, okay &#8230; here it is
+
+"https://inconsolation.wordpress.com/2014/04/07/robots-destroy-him-my-robots/"  - robots: Destroy him, my robots
+
+"https://inconsolation.wordpress.com/2014/11/29/roflbalt-ascii-action-at-its-finest/"  - roflbalt: ASCII action, at its finest
+
+"https://inconsolation.wordpress.com/2014/09/30/rogue-and-hack-the-emu-scored-an-excellent-hit/"  - rogue and hack: The emu scored an excellent hit
+
+"https://inconsolation.wordpress.com/2014/11/01/rolo-shrugging-off-a-decade-of-dormancy/"  - rolo: Shrugging off a decade of dormancy
+
+"https://inconsolation.wordpress.com/2014/04/07/rot13-not-just-greasy-kids-stuff/"  - rot13: Not just greasy kid&#8217;s stuff
+
+"https://inconsolation.wordpress.com/2014/04/08/route-clean-and-pretty-routing-info/"  - route: Clean and pretty routing info
+
+"https://inconsolation.wordpress.com/2014/04/08/rss2email-almost-plain-to-see/"  - rss2email: Almost plain to see
+
+"https://inconsolation.wordpress.com/2014/04/09/rsstail-one-of-two-possible-reactions/"  - rsstail: One of two possible reactions
+
+"https://inconsolation.wordpress.com/2014/04/09/rst2pdf-and-all-its-kin/"  - rst2pdf: And all its kin
+
+"https://inconsolation.wordpress.com/2014/04/12/rsync-needs-no-introduction/"  - rsync: Needs no introduction
+
+"https://inconsolation.wordpress.com/2014/08/20/rtcwake-and-the-ghetto-alarm-clock-wake-up-on-time/"  - rtcwake and the ghetto alarm clock: Wake up on time
+
+"https://inconsolation.wordpress.com/2014/04/12/rtorrent-needs-no-introduction-again/"  - rtorrent: Needs no introduction &#8230; again
+
+"https://inconsolation.wordpress.com/2015/04/15/rtv-arr-tee-vee/"  - rtv: Arr tee vee
+
+"https://inconsolation.wordpress.com/2014/04/13/rubyripper-the-options-continue-to-multiply/"  - rubyripper: The options continue to multiply
+
+"https://inconsolation.wordpress.com/2014/04/15/safecopy-if-only-i-needed-something-safely-copied/"  - safecopy: If only I needed something safely copied
+
+"https://inconsolation.wordpress.com/2013/05/09/saidar-a-simple-and-clean-system-monitor/"  - saidar: A simple and clean system monitor
+
+"https://inconsolation.wordpress.com/2014/04/15/sail-ship-to-ship-combat-in-amazing-detail/"  - sail: Ship-to-ship combat, in amazing detail
+
+"https://inconsolation.wordpress.com/2014/05/07/sandy-an-extremely-svelte-editor/"  - sandy: An extremely svelte editor
+
+"https://inconsolation.wordpress.com/2014/04/16/sar-one-small-part-of-a-larger-suite/"  - sar: One small part of a larger suite
+
+"https://inconsolation.wordpress.com/2014/04/16/saydate-and-saytime-hear-for-yourself/"  - saydate and saytime: Hear for yourself
+
+"https://inconsolation.wordpress.com/2013/06/22/sc-old-as-the-hills/"  - sc: Old as the hills
+
+"https://inconsolation.wordpress.com/2014/04/17/scalpel-file-extraction-and-recovery/"  - scalpel: File extraction and recovery
+
+"https://inconsolation.wordpress.com/2014/04/18/scanlogd-nothing-to-see-here/"  - scanlogd: Nothing to see here
+
+"https://inconsolation.wordpress.com/2014/04/18/scapy-if-you-cant-dazzle-them-with-brilliance/"  - scapy: If you can&#8217;t dazzle them with brilliance
+
+"https://inconsolation.wordpress.com/2015/01/31/scim-bringing-spreadsheets-back-to-the-present/"  - scim: Bringing spreadsheets back to the present
+
+"https://inconsolation.wordpress.com/2013/01/05/scp-simple-is-best/"  - scp: Simple is best
+
+"https://inconsolation.wordpress.com/2015/03/10/scrap-go-forth-and-scavenge-aggressively/"  - scrap: Go forth, and scavenge aggressively
+
+"https://inconsolation.wordpress.com/2014/04/19/screen-the-granddaddy-of-terminal-multiplexers/"  - screen: The granddaddy of terminal multiplexers
+
+"https://inconsolation.wordpress.com/2014/09/10/screenfetch-because-all-the-cool-kids-are-doing-it/"  - screenfetch: Because all the cool kids are doing it
+
+"https://inconsolation.wordpress.com/2014/04/19/screenify-a-tetchy-little-tool/"  - screenify: A tetchy little tool
+
+"https://inconsolation.wordpress.com/2014/11/29/scribble-shall-we-play-a-game/"  - scribble: Shall we play a game?
+
+"https://inconsolation.wordpress.com/2014/05/07/script-that-terminal-session-recorder-you-always-wanted/"  - script: That terminal session recorder you always wanted
+
+"https://inconsolation.wordpress.com/2014/04/20/scrollz-fast-friendly-and-light/"  - scrollz: Fast, friendly and light
+
+"https://inconsolation.wordpress.com/2014/04/20/sdcv-local-lookup-some-assembly-required/"  - sdcv: Local lookup, some assembly required
+
+"https://inconsolation.wordpress.com/2014/04/21/sed-i-wouldnt-dream-of-explaining-it/"  - sed: I wouldn&#8217;t dream of explaining it
+
+"https://inconsolation.wordpress.com/2014/04/21/sendip-packets-and-their-contents/"  - sendip: Packets and their contents
+
+"https://inconsolation.wordpress.com/2014/04/22/sentaku-more-menu-like-options-for-the-cli/"  - sentaku: More menu-like options for the cli
+
+"https://inconsolation.wordpress.com/2014/08/26/seq-count-up-count-down/"  - seq: Count up, count down
+
+"https://inconsolation.wordpress.com/2014/04/22/ses-emacs-strikes-again/"  - ses: emacs strikes again
+
+"https://inconsolation.wordpress.com/2013/07/23/setterm-some-minor-magic/"  - setterm: Some minor magic
+
+"https://inconsolation.wordpress.com/2014/04/23/sh-todo-a-simplistic-to-do-manager/"  - sh-todo: A simplistic to-do manager
+
+"https://inconsolation.wordpress.com/2014/09/18/sha-with-sha1pass-and-shasum-sha-sha-sha/"  - sha* (with sha1pass and shasum): Sha-sha-sha
+
+"https://inconsolation.wordpress.com/2014/10/29/shed-a-simple-hex-editor/"  - shed: A simple hex editor
+
+"https://inconsolation.wordpress.com/2014/04/23/shell-fm-i-can-give-you-no-guidance/"  - shell.fm: I can give you no guidance
+
+"https://inconsolation.wordpress.com/2014/07/17/shellcheck-i-should-probably-keep-this-around/"  - shellcheck: I should probably keep this around
+
+"https://inconsolation.wordpress.com/2014/09/29/ship_game-keeping-with-the-recent-theme/"  - ship_game: Keeping with the recent theme
+
+"https://inconsolation.wordpress.com/2015/04/18/shpaint-for-the-toulouse-lautrec-of-the-terminal/"  - shpaint: For the Toulouse-Lautrec of the terminal
+
+"https://inconsolation.wordpress.com/2013/07/23/shred-a-power-for-good-or-evil/"  - shred: A power for good or evil
+
+"https://inconsolation.wordpress.com/2013/05/19/shuf-random-yet-intelligible/"  - shuf: Random yet intelligible
+
+"https://inconsolation.wordpress.com/2014/04/24/shush-deserves-a-better-attempt-than-mine/"  - shush: Deserves a better attempt than mine
+
+"https://inconsolation.wordpress.com/2014/04/24/sic-thusly-was-it-written/"  - sic: Thusly was it written
+
+"https://inconsolation.wordpress.com/2014/04/25/siege-hammer-away-at-your-server-of-choice/"  - siege: Hammer away at your server of choice
+
+"https://inconsolation.wordpress.com/2015/01/18/siggen-much-to-see-much-to-hear/"  - siggen: Much to see, much to hear
+
+"https://inconsolation.wordpress.com/2014/04/25/simpleburner-of-dubious-ability/"  - simpleburner: Of dubious ability
+
+"https://inconsolation.wordpress.com/2015/04/26/since-since-you-last-checked/"  - since: Since you last checked
+
+"https://inconsolation.wordpress.com/2014/04/26/sipcalc-first-prips-now-sipcalc/"  - sipcalc: First prips, now sipcalc
+
+"https://inconsolation.wordpress.com/2014/04/26/siphon-and-siphon-for-simple-network-transfers/"  - siphon (and &#8216;Siphon): For simple network transfers
+
+"https://inconsolation.wordpress.com/2014/04/27/ski-weird-turn-based-winter-sports-strategy/"  - ski: Weird turn-based winter sports strategy 
+
+"https://inconsolation.wordpress.com/2014/04/30/sl-the-other-sl/"  - sl: The other sl
+
+"https://inconsolation.wordpress.com/2014/04/27/sl-yes-you-knew-this-was-coming/"  - sl: Yes, you knew this was coming
+
+"https://inconsolation.wordpress.com/2014/10/30/slap-intuitive-and-colorful/"  - slap: Intuitive and colorful
+
+"https://inconsolation.wordpress.com/2014/04/28/slashem-nethack-with-certain-embellishments/"  - slash&#8217;em: Nethack, with certain embellishments
+
+"https://inconsolation.wordpress.com/2014/04/28/slimrat-a-slim-chance-it-still-works/"  - slimrat: A slim chance it still works
+
+"https://inconsolation.wordpress.com/2014/04/29/slocate-all-the-makings-of-an-intercontinental-grudge-match/"  - slocate: All the makings of an intercontinental grudge match
+
+"https://inconsolation.wordpress.com/2014/04/29/sloccount-and-sloc2html-py-because-size-does-matter/"  - sloccount and sloc2html.py: Because size does matter
+
+"https://inconsolation.wordpress.com/2014/04/30/slrn-a-lovely-creature-once-configured/"  - slrn: A lovely creature &#8230; once configured
+
+"https://inconsolation.wordpress.com/2014/05/01/slsc-out-of-a-sense-of-duty/"  - slsc: Out of a sense of duty
+
+"https://inconsolation.wordpress.com/2014/09/23/slsc-resurrected-at-long-last/"  - slsc: Resurrected at long last
+
+"https://inconsolation.wordpress.com/2014/05/01/slurm-within-one-standard-deviation/"  - slurm: Within one standard deviation
+
+"https://inconsolation.wordpress.com/2014/05/02/smartmontools-a-hard-drives-best-friend/"  - smartmontools: A hard drive&#8217;s best friend
+
+"https://inconsolation.wordpress.com/2014/12/13/smbc-dont-take-my-word-for-it/"  - smbc: Don&#8217;t take my word for it
+
+"https://inconsolation.wordpress.com/2014/05/02/snake-before-there-was-snake-there-was-snake/"  - snake: Before there was snake, there was snake
+
+"https://inconsolation.wordpress.com/2013/06/06/snakes-keeping-with-the-theme/"  - snakes: Keeping with the theme
+
+"https://inconsolation.wordpress.com/2014/12/14/snb-in-promising-directions/"  - snb: In promising directions
+
+"https://inconsolation.wordpress.com/2014/08/24/sncli-for-cloud-based-to-do-lists-and-more/"  - sncli: For cloud-based to-do lists, and more
+
+"https://inconsolation.wordpress.com/2014/05/03/sniffit-makes-sense-to-me/"  - sniffit: Makes sense to me
+
+"https://inconsolation.wordpress.com/2013/01/10/snow-sh-snow-py-more-weather-for-you/"  - snow.sh, snow.py: More weather for you
+
+"https://inconsolation.wordpress.com/2013/06/08/snownews-simple-and-straightforward/"  - snownews: Simple and straightforward
+
+"https://inconsolation.wordpress.com/2014/05/03/sntop-a-simple-network-kind-of-top/"  - sntop: A simple, network kind of top
+
+"https://inconsolation.wordpress.com/2014/05/04/socat-you-want-it-socats-got-it/"  - socat: You want it? socat&#8217;s got it
+
+"https://inconsolation.wordpress.com/2014/05/05/soma-cli-an-alternative-solution/"  - soma.cli: An alternative solution
+
+"https://inconsolation.wordpress.com/2014/05/04/soma-done-perfectly-in-so-many-ways/"  - soma: Done perfectly, in so many ways
+
+"https://inconsolation.wordpress.com/2014/12/14/sonar-py-sounds-from-the-deep/"  - sonar.py: Sounds from the deep
+
+"https://inconsolation.wordpress.com/2014/05/05/sort-deserves-better-attention/"  - sort: Deserves better attention
+
+"https://inconsolation.wordpress.com/2014/09/03/soundcloud2000-a-quick-listen/"  - soundcloud2000: A quick listen
+
+"https://inconsolation.wordpress.com/2014/05/07/spark-itty-bitty-graphs-for-your-terminal-emulator/"  - spark: Itty bitty graphs for your terminal emulator
+
+"https://inconsolation.wordpress.com/2013/01/11/speedometer-an-eye-on-your-network/"  - speedometer: An eye on your network
+
+"https://inconsolation.wordpress.com/2014/12/10/speedpad-the-advanced-typing-tutor/"  - speedpad: The advanced typing tutor
+
+"https://inconsolation.wordpress.com/2014/05/07/speedtest-cli-not-the-answers-i-wanted/"  - speedtest-cli: Not the answers I wanted
+
+"https://inconsolation.wordpress.com/2015/02/12/spew-for-testing-purposes/"  - spew: For testing purposes
+
+"https://inconsolation.wordpress.com/2014/05/08/split-and-the-curse-of-the-asinine-defaults/"  - split: And the curse of the asinine defaults
+
+"https://inconsolation.wordpress.com/2014/05/08/splitvt-under-the-most-dire-of-circumstances/"  - splitvt: Under the most dire of circumstances
+
+"https://inconsolation.wordpress.com/2014/05/08/sqlite3-i-wont-begin-to-try-and-explain/"  - sqlite3: I won&#8217;t begin to try and explain
+
+"https://inconsolation.wordpress.com/2014/05/09/ss-a-quick-dump-of-socket-statistics/"  - ss: A quick dump of socket statistics
+
+"https://inconsolation.wordpress.com/2014/05/09/ssconvert-an-awful-lot-of-baggage/"  - ssconvert: An awful lot of baggage
+
+"https://inconsolation.wordpress.com/2015/02/16/ssh-chat-and-a-question-for-which-i-have-no-answer/"  - ssh-chat: And a question for which I have no answer
+
+"https://inconsolation.wordpress.com/2014/11/18/sshrc-piggyback-your-rc-across-ssh/"  - sshrc: Piggyback your rc across ssh
+
+"https://inconsolation.wordpress.com/2014/05/10/st-and-st-one-for-numbers-one-for-numbers-and-letters/"  - st and st: One for numbers, one for &#8230; numbers and letters?
+
+"https://inconsolation.wordpress.com/2014/11/13/stag-a-good-find-and-a-good-tool/"  - stag: A good find, and a good tool
+
+"https://inconsolation.wordpress.com/2014/05/10/starchart-in-case-you-get-lost/"  - starchart: In case you get lost
+
+"https://inconsolation.wordpress.com/2014/09/28/stardork-has-all-the-right-ingredients/"  - stardork: Has all the right ingredients
+
+"https://inconsolation.wordpress.com/2014/10/27/stat-simple-file-information-and-more/"  - stat: Simple file information, and more
+
+"https://inconsolation.wordpress.com/2013/04/16/stats-pl-voices-from-the-dead/"  - stats.pl: Voices from the dead
+
+"https://inconsolation.wordpress.com/2014/05/11/steghide-naughty-naughty/"  - steghide: Naughty, naughty
+
+"https://inconsolation.wordpress.com/2014/10/13/stftp-the-simple-terminal-ftp-client/"  - stftp: The simple terminal FTP client
+
+"https://inconsolation.wordpress.com/2014/11/09/stow-not-just-for-package-management-any-more/"  - stow: Not just for package management any more
+
+"https://inconsolation.wordpress.com/2014/10/29/streamripper-keeping-local-copies/"  - streamripper: Keeping local copies
+
+"https://inconsolation.wordpress.com/2014/05/11/stty-adjust-the-intricate-details/"  - stty: Adjust the intricate details
+
+"https://inconsolation.wordpress.com/2014/09/17/style-similar-idea-different-direction/"  - style: Similar idea, different direction
+
+"https://inconsolation.wordpress.com/2014/05/12/stymulator-every-little-thing-it-does-is-magic/"  - stymulator: Every little thing it does is magic
+
+"https://inconsolation.wordpress.com/2014/10/22/sudognu-sort-of-a-game-sort-of-a-game-generator/"  - sudognu: Sort of a game, sort of a game generator
+
+"https://inconsolation.wordpress.com/2014/12/06/sumeria-those-were-the-days-my-friend/"  - sumeria: Those were the days, my friend
+
+"https://inconsolation.wordpress.com/2014/05/12/sup-my-pet-procrastination/"  - sup: My pet procrastination
+
+"https://inconsolation.wordpress.com/2014/05/13/surfraw-yeah-brilliant/"  - surfraw: Yeah, brilliant
+
+"https://inconsolation.wordpress.com/2014/05/13/surl-no-not-surly-just-surl/"  - surl: No, not &#8220;surly.&#8221; Just surl
+
+"https://inconsolation.wordpress.com/2014/10/08/sysdig-information-overload/"  - sysdig: Information overload
+
+"https://inconsolation.wordpress.com/2014/05/14/sysv-rc-conf-going-going-gone/"  - sysv-rc-conf: Going, going, gone
+
+"https://inconsolation.wordpress.com/2014/06/09/t-ttytter-twidge-and-more-text-only-twittermania/"  - t, ttytter, twidge and more: Text-only Twittermania
+
+"https://inconsolation.wordpress.com/2014/05/19/t-the-shortest-possible-route/"  - t: The shortest possible route 
+
+"https://inconsolation.wordpress.com/2014/05/16/tabview-csv-files-have-never-been-cooler/"  - tabview: csv files have never been cooler
+
+"https://inconsolation.wordpress.com/2014/05/16/tac-not-tic-or-toe-either/"  - tac: Not tic- or -toe either
+
+"https://inconsolation.wordpress.com/2014/12/10/tagfs-xtagfs-dhtfs-and-more-tag-youre-it/"  - tagfs, xtagfs, dhtfs and more: Tag, you&#8217;re it
+
+"https://inconsolation.wordpress.com/2014/11/19/tagsistant-tagging-with-a-different-approach/"  - tagsistant: Tagging with a different approach
+
+"https://inconsolation.wordpress.com/2013/03/13/taipan-a-trading-game-with-history/"  - taipan: A trading game with history
+
+"https://inconsolation.wordpress.com/2015/02/28/talkfilters-all-that-computing-power-and-this-is-what-you-come-up-with/"  - talkfilters: All that computing power, and this is what you come up with?
+
+"https://inconsolation.wordpress.com/2015/01/22/tapecalc-without-the-expensive-paper-roll/"  - tapecalc: Without the expensive paper roll
+
+"https://inconsolation.wordpress.com/2014/05/17/tarman-a-fullscreen-archive-navigator/"  - tarman: A fullscreen archive navigator
+
+"https://inconsolation.wordpress.com/2014/05/17/taskcmd-let-slip-the-dogs-of-command-line-task-organizers/"  - taskcmd: Let slip the dogs of &#8230; command line task organizers
+
+"https://inconsolation.wordpress.com/2014/05/19/tasknc-these-arent-the-droids-youre-looking-for/"  - tasknc: These aren&#8217;t the droids you&#8217;re looking for
+
+"https://inconsolation.wordpress.com/2014/05/20/taskopen-new-ground-for-taskwarrior/"  - taskopen: New ground for taskwarrior
+
+"https://inconsolation.wordpress.com/2014/05/18/taskwarrior-send-in-the-next-victim/"  - taskwarrior: Send in the next victim
+
+"https://inconsolation.wordpress.com/2013/06/18/tbclock-probably-the-best-binary-clock/"  - tbclock: Probably the best binary clock
+
+"https://inconsolation.wordpress.com/2014/05/18/tcat-just-quickly-because-its-fun/"  - tcat: Just quickly, because it&#8217;s fun
+
+"https://inconsolation.wordpress.com/2014/05/20/tcpdump-raw-data-at-will/"  - tcpdump: Raw data at will
+
+"https://inconsolation.wordpress.com/2014/05/21/tcpflow-that-tool-youve-been-looking-for/"  - tcpflow: That tool you&#8217;ve been looking for
+
+"https://inconsolation.wordpress.com/2014/05/21/tcpick-a-different-take-on-reading-network-data/"  - tcpick: A different take on reading network data
+
+"https://inconsolation.wordpress.com/2014/05/22/tcpkill-and-tcpnice-lets-be-fair-for-once/"  - tcpkill and tcpnice: Let&#8217;s be fair for once
+
+"https://inconsolation.wordpress.com/2014/05/22/tcpreen-its-that-time-again/"  - tcpreen: It&#8217;s that time again
+
+"https://inconsolation.wordpress.com/2014/05/23/tcpspy-another-casualty-of-the-times/"  - tcpspy: Another casualty of the times?
+
+"https://inconsolation.wordpress.com/2014/05/23/tcptrack-last-but-definitely-not-least/"  - tcptrack: Last but definitely not least
+
+"https://inconsolation.wordpress.com/2014/05/24/tdl-a-task-organizer-in-its-own-right/"  - tdl: A task organizer in its own right
+
+"https://inconsolation.wordpress.com/2014/05/24/tdu-and-dugroup-i-can-think-of-no-better-title/"  - tdu (and dugroup): I can think of no better title
+
+"https://inconsolation.wordpress.com/2014/05/25/teachgammon-short-post-long-tutorial/"  - teachgammon: Short post, long tutorial
+
+"https://inconsolation.wordpress.com/2014/05/25/teapot-said-the-hatter-with-a-sigh-its-always-tea-time/"  - teapot: Said the hatter with a sigh, &#8216;It&#8217;s always tea-time. &#8230;&#8217;
+
+"https://inconsolation.wordpress.com/2014/05/26/tee-more-magic-from-coreutils/"  - tee: More magic from coreutils
+
+"https://inconsolation.wordpress.com/2014/05/26/telnet-the-fundamental-tool-for-entertainment/"  - telnet: The fundamental tool for entertainment
+
+"https://inconsolation.wordpress.com/2014/06/07/termrec-ttyrec-tty2gif-and-others-pretty-as-a-picture/"  - termrec, ttyrec, tty2gif and others: Pretty as a picture
+
+"https://inconsolation.wordpress.com/2014/05/27/termsaver-and-terminal-screensaver-peas-in-a-pod/"  - termsaver and terminal-screensaver: Peas in a pod
+
+"https://inconsolation.wordpress.com/2014/05/27/tetris-bsd-guess-where-this-comes-from/"  - tetris-bsd: Guess where this comes from
+
+"https://inconsolation.wordpress.com/2014/10/23/tetrix-only-satisfactory-by-comparison/"  - tetrix: Only satisfactory, by comparison
+
+"https://inconsolation.wordpress.com/2014/11/27/text-text-revolution-you-can-see-where-this-is-going/"  - text-text-revolution: You can see where this is going
+
+"https://inconsolation.wordpress.com/2014/10/01/textadept-adept-is-apt/"  - textadept: &#8220;Adept&#8221; is apt
+
+"https://inconsolation.wordpress.com/2014/05/28/textdraw-for-the-caravaggio-of-the-console/"  - textdraw: For the Caravaggio of the console
+
+"https://inconsolation.wordpress.com/2013/03/29/textmaze-lets-call-it-a-game/"  - textmaze: Let&#8217;s call it a game
+
+"https://inconsolation.wordpress.com/2015/04/16/textprint-visually-impressive-in-only-18k/"  - textprint: Visually impressive, in only 18K
+
+"https://inconsolation.wordpress.com/2014/05/28/tgn-the-traffic-generator/"  - tgn: The traffic generator
+
+"https://inconsolation.wordpress.com/2014/05/29/thc-hydra-a-network-logon-cracker/"  - thc-hydra: A network logon cracker
+
+"https://inconsolation.wordpress.com/2014/10/31/the_silver_searcher-intergalactic-searcher-smackdown/"  - the_silver_searcher: Intergalactic searcher smackdown
+
+"https://inconsolation.wordpress.com/2015/03/20/tic-tac-tic-tac-turmoil/"  - tic-tac*: Tic tac turmoil
+
+"https://inconsolation.wordpress.com/2014/05/29/ticker-a-different-ticker-this-time/"  - ticker: A different ticker this time
+
+"https://inconsolation.wordpress.com/2013/05/13/ticker-glitter-for-your-pre-pentium-iii/"  - ticker: Glitter for your pre-Pentium III
+
+"https://inconsolation.wordpress.com/2014/05/30/tidyhtml-erasing-your-coding-sins/"  - tidyhtml: Erasing your coding sins
+
+"https://inconsolation.wordpress.com/2014/05/30/tig-the-dream-application/"  - tig: The dream application
+
+"https://inconsolation.wordpress.com/2014/05/31/time-time-and-times-too-much-time-on-my-hands/"  - time, time and times: Too much time on my hands
+
+"https://inconsolation.wordpress.com/2014/05/31/timebook-and-timetrap-tracking-your-every-effort/"  - timebook and timetrap: Tracking your every effort
+
+"https://inconsolation.wordpress.com/2014/06/01/timidity-miracle-of-miracles-again/"  - timidity++: Miracle of miracles, again
+
+"https://inconsolation.wordpress.com/2014/06/01/tin-perhaps-a-simpler-newsreader-option/"  - tin: Perhaps a simpler newsreader option
+
+"https://inconsolation.wordpress.com/2014/06/02/tina-a-funky-little-data-arrangement-tool/"  - tina: A funky little data arrangement tool
+
+"https://inconsolation.wordpress.com/2014/06/02/tint-a-fast-paced-colorful-tetris/"  - tint: A fast-paced, colorful Tetris
+
+"https://inconsolation.wordpress.com/2013/05/11/tintin-your-time-is-now-in-jeopardy/"  - tintin: Your time is now in jeopardy
+
+"https://inconsolation.wordpress.com/2015/01/26/tinyfugue-rime-of-the-ancient-adventurer/"  - tinyfugue: Rime of the ancient adventurer
+
+"https://inconsolation.wordpress.com/2014/06/03/tinyirc-a-contender-in-the-ultralight-division/"  - tinyirc: A contender in the ultralight division
+
+"https://inconsolation.wordpress.com/2015/01/23/tlf-im-so-superficial-sometimes/"  - tlf: I&#8217;m so superficial sometimes
+
+"https://inconsolation.wordpress.com/2013/01/28/tload-a-hidden-gadget/"  - tload: A hidden gadget
+
+"https://inconsolation.wordpress.com/2014/09/08/tmenu-just-one-step-away/"  - tmenu: Just one step away
+
+"https://inconsolation.wordpress.com/2014/10/28/tmsu-guten-tag/"  - tmsu: Guten Tag!
+
+"https://inconsolation.wordpress.com/2014/06/03/tnftp-the-bsd-counterpart/"  - tnftp: The *BSD counterpart 
+
+"https://inconsolation.wordpress.com/2014/06/04/tnote-an-application-of-note/"  - tnote: An application of note
+
+"https://inconsolation.wordpress.com/2014/11/10/toast-challenging-my-spongy-pink-organic-brain/"  - toast: Challenging my spongy pink organic brain
+
+"https://inconsolation.wordpress.com/2014/06/04/todo-c-a-task-organizer-with-a-sense-of-style/"  - todo.c: A task organizer with a sense of style
+
+"https://inconsolation.wordpress.com/2014/06/05/todo-txt-famous-or-infamous-you-decide/"  - todo.txt: Famous or infamous, you decide
+
+"https://inconsolation.wordpress.com/2014/06/05/tofu-working-the-stack/"  - tofu: Working the stack
+
+"https://inconsolation.wordpress.com/2014/06/06/toilet-now-with-color/"  - toilet: Now with color!
+
+"https://inconsolation.wordpress.com/2014/10/25/tome-an-epic-in-three-or-four-books/"  - tome: An epic in three or four books
+
+"https://inconsolation.wordpress.com/2013/02/23/top-the-cool-tool-you-didnt-know-you-had/"  - top: The cool tool you didn&#8217;t know you had
+
+"https://inconsolation.wordpress.com/2015/02/08/tornado-solving-neighborly-disputes/"  - tornado: Solving neighborly disputes
+
+"https://inconsolation.wordpress.com/2014/06/06/torrentinfo-torrent-information-of-course/"  - torrentinfo: Torrent information, of course 
+
+"https://inconsolation.wordpress.com/2014/06/07/tpp-pulling-it-all-together/"  - tpp: Pulling it all together
+
+"https://inconsolation.wordpress.com/2013/04/27/tr-with-a-sprinkle-of-devurandom-and-head/"  - tr: With a sprinkle of /dev/urandom and head
+
+"https://inconsolation.wordpress.com/2013/02/03/traceproto-tracepath-and-tcptraceroute-triplets/"  - traceproto, tracepath and tcptraceroute: Triplets
+
+"https://inconsolation.wordpress.com/2014/06/08/traceroute-where-youre-going-and-where-youve-been/"  - traceroute: Where you&#8217;re going and where you&#8217;ve been
+
+"https://inconsolation.wordpress.com/2013/02/14/trafshow-information-and-simplicity/"  - trafshow: Information and simplicity
+
+"https://inconsolation.wordpress.com/2014/06/08/transmission-cli-add-this-to-the-list/"  - transmission-cli: Add this to the list
+
+"https://inconsolation.wordpress.com/2014/06/09/trash-cli-would-you-like-a-safety-net-with-that/"  - trash-cli: Would you like a safety net with that?
+
+"https://inconsolation.wordpress.com/2015/04/13/tree-two-and-a-half-years-later/"  - tree: Two and a half years later. &#8230;
+
+"https://inconsolation.wordpress.com/2015/02/27/trek73-the-best-part-is-the-site-that-hosts-it/"  - trek73: The best part is the site that hosts it
+
+"https://inconsolation.wordpress.com/2014/06/10/trek-the-game-that-influenced-a-million-others/"  - trek: The game that influenced a million others
+
+"https://inconsolation.wordpress.com/2014/06/10/trickle-bandwidth-shaping-i-think/"  - trickle: Bandwidth shaping &#8230; I think
+
+"https://inconsolation.wordpress.com/2014/06/11/trn-in-spite-of-my-best-efforts/"  - trn: In spite of my best efforts
+
+"https://inconsolation.wordpress.com/2014/09/16/truncate-arbitrarily-chopping-things-off/"  - truncate: Arbitrarily chopping things off
+
+"https://inconsolation.wordpress.com/2014/09/08/tty-clock-taken-for-granted-for-far-too-long/"  - tty-clock: Taken for granted, for far too long
+
+"https://inconsolation.wordpress.com/2014/06/11/ttyload-choosy-text-only-geeks-choose-ttyload/"  - ttyload: Choosy text-only geeks choose ttyload
+
+"https://inconsolation.wordpress.com/2014/09/15/ttysolitaire-your-reward-for-sticking-around-so-long/"  - ttysolitaire: Your reward for sticking around so long
+
+"https://inconsolation.wordpress.com/2014/06/13/tudu-the-hnb-killer/"  - tudu: The hnb-killer
+
+"https://inconsolation.wordpress.com/2013/04/07/turses-again-no-guidance/"  - turses: Again, no guidance
+
+"https://inconsolation.wordpress.com/2014/11/14/tuxrip-if-i-only-had-a-dvd-around-here-somewhere/"  - tuxrip: If I only had a DVD around here somewhere â€¦
+
+"https://inconsolation.wordpress.com/2014/11/18/tweak-the-word-processor-of-hex-editors/"  - tweak: The word processor of hex editors
+
+"https://inconsolation.wordpress.com/2014/06/12/txt2-a-few-conversion-tools/"  - txt2*: A few conversion tools
+
+"https://inconsolation.wordpress.com/2014/06/12/txt2regex-a-regex-newbies-best-friend/"  - txt2regex: A regex newbie&#8217;s best friend
+
+"https://inconsolation.wordpress.com/2013/04/23/typespeed-what-good-is-a-text-editor-if-youre-a-lousy-typist/"  - typespeed: What good is a text editor, if you&#8217;re a lousy typist?
+
+"https://inconsolation.wordpress.com/2015/03/21/tzar-a-work-forever-in-progress/"  - tzar: A work forever in progress
+
+"https://inconsolation.wordpress.com/2014/06/14/uname-just-a-simple-little-tool/"  - uname: Just a simple little tool
+
+"https://inconsolation.wordpress.com/2014/06/14/uncsv-so-much-easier-than-search-and-replace/"  - uncsv: So much easier than search-and-replace
+
+"https://inconsolation.wordpress.com/2015/04/24/undistract-me-quashing-your-adhd/"  - undistract-me: Quashing your ADHD
+
+"https://inconsolation.wordpress.com/2015/01/28/unhtml-peeling-away-the-layers/"  - unhtml: Peeling away the layers
+
+"https://inconsolation.wordpress.com/2014/06/15/uniq-the-unique-solution/"  - uniq: The unique solution
+
+"https://inconsolation.wordpress.com/2014/06/15/unison-an-alternative-to-rsync/"  - unison: An alternative to rsync
+
+"https://inconsolation.wordpress.com/2014/06/16/units-arithmetic-acrobatics/"  - units: Arithmetic acrobatics
+
+"https://inconsolation.wordpress.com/2014/10/24/unnethack-improving-the-improvement/"  - unnethack: Improving the improvement
+
+"https://inconsolation.wordpress.com/2014/06/16/unp-boring-is-not-always-a-bad-thing/"  - unp: Boring is not always a bad thing
+
+"https://inconsolation.wordpress.com/2014/06/17/uppity-not-the-last-nor-the-least-pastebin-ish-upload-tool/"  - uppity: Not the last, nor the least, pastebin-ish upload tool
+
+"https://inconsolation.wordpress.com/2015/01/21/urlscan-and-urlview-with-the-assist/"  - urlscan and urlview: With the assist
+
+"https://inconsolation.wordpress.com/2014/06/18/v-re-edit-files-quickly-with-vim/"  - v: Re-edit files quickly with vim
+
+"https://inconsolation.wordpress.com/2014/09/18/vadorz-a-brief-interlude-to-save-the-earth/"  - vadorz: A brief interlude to save the Earth
+
+"https://inconsolation.wordpress.com/2014/06/18/vbackup-a-little-archive-wizardry-for-debian-fans/"  - vbackup: A little archive wizardry, for Debian fans
+
+"https://inconsolation.wordpress.com/2014/12/16/vbindiff-red-and-blue/"  - vbindiff: Red and blue
+
+"https://inconsolation.wordpress.com/2014/10/01/vche-serious-as-it-gets/"  - vche: Serious as it gets
+
+"https://inconsolation.wordpress.com/2014/06/19/vdir-consult-your-doctor-before-beginning-this-or-any-other-exercise-program/"  - vdir: Consult your doctor before beginning this, or any other exercise program
+
+"https://inconsolation.wordpress.com/2014/11/10/vee-tempting-to-say-the-least/"  - vee: Tempting, to say the least
+
+"https://inconsolation.wordpress.com/2013/03/05/vfu-more-space-for-details/"  - vfu: More space for details
+
+"https://inconsolation.wordpress.com/2014/06/19/vi-and-ex-as-required-by-law-or-custom/"  - vi and ex: As required by law or custom
+
+"https://inconsolation.wordpress.com/2013/03/30/vifm-the-name-should-tell-you-everything/"  - vifm: The name should tell you everything
+
+"https://inconsolation.wordpress.com/2015/01/29/vile-that-child-is-an-abomination/"  - vile: That child is an abomination!
+
+"https://inconsolation.wordpress.com/2013/03/31/vilistextum-stripping-out-the-code/"  - vilistextum: Stripping out the code
+
+"https://inconsolation.wordpress.com/2014/06/20/vim-dont-start-celebrating-just-yet/"  - vim: Don&#8217;t start celebrating just yet
+
+"https://inconsolation.wordpress.com/2013/08/02/vimpc-another-vi-ish-music-player/"  - vimpc: Another vi-ish music player
+
+"https://inconsolation.wordpress.com/2014/06/20/vimwiki-the-reason-in-due-season/"  - vimwiki: The reason, in due season
+
+"https://inconsolation.wordpress.com/2014/06/21/vit-that-full-screen-interface-i-promised/"  - vit: That full-screen interface I promised
+
+"https://inconsolation.wordpress.com/2013/06/21/vitetris-pick-of-the-litter/"  - vitetris: Pick of the litter
+
+"https://inconsolation.wordpress.com/2013/01/20/vitunes-vi-fans-rejoice/"  - vitunes: vi fans, rejoice!
+
+"https://inconsolation.wordpress.com/2014/06/21/vlock-the-simplest-screensaver-i-know/"  - vlock: The simplest screensaver I know
+
+"https://inconsolation.wordpress.com/2013/05/23/vnstat-network-logging-over-time/"  - vnstat: Network logging over time
+
+"https://inconsolation.wordpress.com/2014/06/22/vtclock-yes-one-more-console-clock-cant-hurt/"  - vtclock: Yes, one more console clock can&#8217;t hurt
+
+"https://inconsolation.wordpress.com/2014/06/22/vux-playing-the-odds-against-all-odds/"  - vux: Playing the odds, against all odds
+
+"https://inconsolation.wordpress.com/2013/02/24/w2do-what-to-do-at-the-cli/"  - w2do: What to do, at the cli
+
+"https://inconsolation.wordpress.com/2013/04/01/w3m-this-is-not-an-april-fools-joke/"  - w3m: This is not an April Fools joke
+
+"https://inconsolation.wordpress.com/2014/06/23/w-plus-a-little-rant/"  - w: Plus a little rant
+
+"https://inconsolation.wordpress.com/2014/06/23/wajig-unite-the-clans-unite-us/"  - wajig: Unite the clans!
+
+"https://inconsolation.wordpress.com/2014/06/24/wanderlust-emacs-plus-e-mail-equals-emailcs/"  - wanderlust: emacs plus e-mail equals &#8230; emailcs?
+
+"https://inconsolation.wordpress.com/2014/09/20/warcarrier-looks-good-almost-works/"  - warcarrier: Looks good, almost works
+
+"https://inconsolation.wordpress.com/2014/06/24/watchfile-sh-perhaps-the-best-thus-far/"  - watchfile.sh: Perhaps the best thus far
+
+"https://inconsolation.wordpress.com/2013/01/01/wavemon-a-proper-wireless-tool/"  - wavemon: A proper wireless tool
+
+"https://inconsolation.wordpress.com/2014/06/25/wc-is-there-anything-it-cant-count/"  - wc: Is there anything it can&#8217;t count?!
+
+"https://inconsolation.wordpress.com/2014/06/25/wcalc-a-calculator-with-a-conventional-appeal/"  - wcalc: A calculator with a conventional appeal
+
+"https://inconsolation.wordpress.com/2014/07/28/wdiff-cwdiff-and-dwdiff-since-i-mentioned-it/"  - wdiff, cwdiff and dwdiff: Since I mentioned it. &#8230;
+
+"https://inconsolation.wordpress.com/2014/06/26/weather-weathercli-and-weatherman-whither-the-weather/"  - weather, weathercli and weatherman: Whither the weather?
+
+"https://inconsolation.wordpress.com/2013/03/28/weatherspect-edutainment-i-suppose/"  - weatherspect: Edutainment, I suppose
+
+"https://inconsolation.wordpress.com/2014/06/26/weechat-word-of-mouth-testimonials/"  - weechat: Word-of-mouth testimonials
+
+"https://inconsolation.wordpress.com/2014/06/27/wendy-under-wendys-watchful-eye/"  - wendy: Under wendy&#8217;s watchful eye
+
+"https://inconsolation.wordpress.com/2014/06/27/wget-and-that-which-wget-begot/"  - wget: And that which wget begot
+
+"https://inconsolation.wordpress.com/2014/06/28/wgetpaste-a-healthy-collection-of-features/"  - wgetpaste: A healthy collection of features
+
+"https://inconsolation.wordpress.com/2014/06/28/whatis-whereis-and-which-in-moments-of-indecision/"  - whatis, whereis and which: In moments of indecision
+
+"https://inconsolation.wordpress.com/2014/06/29/when-a-sleeper-hit-for-the-median-demographic/"  - when: A sleeper hit for the median demographic
+
+"https://inconsolation.wordpress.com/2014/06/29/whisper-on-the-right-track-not-yet-at-full-speed/"  - whistle: On the right track, not yet at full speed
+
+"https://inconsolation.wordpress.com/2014/06/30/who-and-whoami-two-more-quick-five-ws/"  - who and whoami: Two more quick Five Ws
+
+"https://inconsolation.wordpress.com/2014/06/30/whohas-a-good-idea-in-theory/"  - whohas: A good idea, in theory
+
+"https://inconsolation.wordpress.com/2014/06/30/whois-accuracy-brevity-clarity/"  - whois: Accuracy, brevity, clarity
+
+"https://inconsolation.wordpress.com/2015/01/20/whowatch-dont-just-take-my-word-for-it/"  - whowatch: Don&#8217;t just take my word for it
+
+"https://inconsolation.wordpress.com/2013/01/04/wicd-curses-get-yourself-connected/"  - wicd-curses: Get yourself connected
+
+"https://inconsolation.wordpress.com/2014/11/16/wifite-why-fight-it/"  - wifite: Why fight it
+
+"https://inconsolation.wordpress.com/2015/01/25/wiggle-a-little-room-for-wiggle/"  - wiggle: A little room for wiggle
+
+"https://inconsolation.wordpress.com/2014/12/29/wiki-stream-less-than-six-degrees-of-separation/"  - wiki-stream: Less than six degrees of separation
+
+"https://inconsolation.wordpress.com/2014/12/29/wikicurses-information-in-brief/"  - wikicurses: Information, in brief
+
+"https://inconsolation.wordpress.com/2014/11/11/wikipedia2text-looking-well-preserved-thanks-to-debian/"  - wikipedia2text: Looking well-preserved, thanks to Debian
+
+"https://inconsolation.wordpress.com/2014/07/01/wkhtmltopdf-and-wkhtmltoimage-the-clever-twins/"  - wkhtmltopdf and wkhtmltoimage: The clever twins
+
+"https://inconsolation.wordpress.com/2013/04/18/woof-the-simple-single-file-server/"  - woof: The simple single file server
+
+"https://inconsolation.wordpress.com/2013/03/09/wordgrinder-same-as-it-ever-was/"  - wordgrinder: Same as it ever was
+
+"https://inconsolation.wordpress.com/2014/12/03/wordsearch-echoes-of-primary-school/"  - wordsearch: Echoes of primary school
+
+"https://inconsolation.wordpress.com/2013/05/31/workbone-i-happily-announce-that-i-was-wrong/"  - workbone: I happily announce that I was wrong
+
+"https://inconsolation.wordpress.com/2014/07/01/worklog-work-on-work-done-work-sum-work-today/"  - worklog: Work on, work done, work sum, work today
+
+"https://inconsolation.wordpress.com/2014/07/02/worm-worms-wtf-and-wump-bsd-games-takes-over/"  - worm, worms, wtf and wump: bsd-games takes over
+
+"https://inconsolation.wordpress.com/2015/01/19/wpe-and-we-someones-been-reading-my-mind/"  - wpe and we: Someone&#8217;s been reading my mind
+
+"https://inconsolation.wordpress.com/2014/07/02/wput-the-same-just-in-reverse/"  - wput: The same, just in reverse
+
+"https://inconsolation.wordpress.com/2014/07/03/wtime-the-laconic-task-tracker/"  - wtime: The laconic task tracker
+
+"https://inconsolation.wordpress.com/2014/07/03/wv-from-word-to-whatever/"  - wv: From Word to whatever
+
+"https://inconsolation.wordpress.com/2013/03/15/wyrd-a-face-for-remind/"  - wyrd: Putting a face on remind
+
+"https://inconsolation.wordpress.com/2015/04/22/x_x-the-dead-guy-cli/"  - x_x: The Dead Guy CLI
+
+"https://inconsolation.wordpress.com/2014/07/04/xargs-obviously-first/"  - xargs: Obviously first
+
+"https://inconsolation.wordpress.com/2014/07/04/xaric-the-simple-client-with-pretty-colors/"  - xaric: The simple client with pretty colors
+
+"https://inconsolation.wordpress.com/2013/07/27/xcplay-a-more-immediate-interface/"  - xcplay: A more immediate interface
+
+"https://inconsolation.wordpress.com/2015/02/14/xcv-taking-the-long-way-around/"  - xcv: Taking the long way around
+
+"https://inconsolation.wordpress.com/2014/07/05/xidel-taking-away-the-pain-of-xml/"  - xidel: Taking away the pain of XML
+
+"https://inconsolation.wordpress.com/2014/07/05/xlhtml-and-ppthtml-not-only-word-needs-converting/"  - xlhtml and ppthtml: Not only Word needs converting
+
+"https://inconsolation.wordpress.com/2014/07/06/xmlstarlet-a-superstar-for-xml/"  - xmlstarlet: A superstar for XML 
+
+"https://inconsolation.wordpress.com/2013/02/08/xorcurses-in-the-classic-puzzle-style/"  - xorcurses: In the classic puzzle style
+
+"https://inconsolation.wordpress.com/2014/07/06/xprobe2-whats-it-running-probably/"  - xprobe2: What&#8217;s it running &#8230; probably?
+
+"https://inconsolation.wordpress.com/2014/12/12/xrestop-the-irony-is-palpable/"  - xrestop: The irony is palpable
+
+"https://inconsolation.wordpress.com/2013/02/17/yacpi-maybe-more-useful-to-you-than-me/"  - yacpi: Maybe more useful to you than me
+
+"https://inconsolation.wordpress.com/2013/02/13/yagtd-for-getting-things-done/"  - yagtd: For getting things done
+
+"https://inconsolation.wordpress.com/2014/07/07/yahoo-group-grabber-the-winter-of-our-discontent/"  - yahoo-group-grabber: The winter of our discontent
+
+"https://inconsolation.wordpress.com/2014/09/27/yaourt-in-the-interest-of-parity/"  - yaourt: In the interest of parity
+
+"https://inconsolation.wordpress.com/2014/07/07/yapet-oh-what-a-difference-three-years-makes/"  - yapet: Oh, what a difference three years makes
+
+"https://inconsolation.wordpress.com/2014/07/08/yaydl-yougrabber-and-youtube-viewer-batting-333/"  - yaydl, yougrabber and youtube-viewer: Batting 333
+
+"https://inconsolation.wordpress.com/2014/07/08/yersinia-points-awarded-for-style/"  - yersinia: Points awarded for style
+
+"https://inconsolation.wordpress.com/2014/07/09/yetris-get-those-thumbs-ready/"  - yetris: Get those thumbs ready
+
+"https://inconsolation.wordpress.com/2014/10/05/yfklog-a-text-only-ham-radio-log/"  - yfklog: A text-only ham radio log
+
+"https://inconsolation.wordpress.com/2013/05/20/yokadi-a-task-database-of-sorts/"  - yokadi: A task database, of sorts
+
+"https://inconsolation.wordpress.com/2013/01/30/youtube-dl-a-starting-point/"  - youtube-dl: A starting point
+
+"https://inconsolation.wordpress.com/2014/07/09/ysm-at-the-end-of-the-day/"  - ysm: At the end of the day
+
+"https://inconsolation.wordpress.com/2013/01/17/ytree-a-slightly-different-file-manager/"  - ytree: A slightly different file manager
+
+"https://inconsolation.wordpress.com/2014/12/02/yuxtapa-a-good-old-fashioned-ascii-deathmatch/"  - yuxtapa: A good, old-fashioned ASCII deathmatch
+
+"https://inconsolation.wordpress.com/2014/10/09/yzis-taking-cues-from-vim/"  - yzis: Taking cues from vim
+
+"https://inconsolation.wordpress.com/2014/07/10/z-and-z-a-tale-of-two-zs/"  - z and z: A tale of two z&#8217;s
+
+"https://inconsolation.wordpress.com/2015/03/27/z-day-a-slightly-different-perspective-on-slaughtering-zombies/"  - z-day: A slightly different perspective on slaughtering zombies
+
+"https://inconsolation.wordpress.com/2014/11/28/zapm-cyberroguelike-part-1/"  - zapm: Cyberroguelike, part 1
+
+"https://inconsolation.wordpress.com/2013/03/10/zerofree-an-odd-little-utility/"  - zerofree: An odd little utility
+
+"https://inconsolation.wordpress.com/2014/07/10/zile-a-lighter-cleaner-emacs/"  - zile: A lighter, cleaner emacs
+
+"https://inconsolation.wordpress.com/2014/12/02/zis-so-very-close-to-perfect/"  - zis: So very close to perfect
+
+"https://inconsolation.wordpress.com/2014/07/11/zivot-still-not-the-great-game-of-life/"  - zivot: Still not the great game of &#8216;Life
+
+"https://inconsolation.wordpress.com/2013/06/03/znake-deja-vu-and-yet-not/"  - znake: Deja vu, and yet not
+
+"https://inconsolation.wordpress.com/2014/12/01/zombies-theres-always-room-for-one-more-ascii-zombie-game/"  - zombies!: There&#8217;s always room for one more ASCII zombie game
+
+"https://inconsolation.wordpress.com/2014/07/11/zonecheck-check-your-zone-friend/"  - zonecheck: Check your zone, friend
+
+"https://inconsolation.wordpress.com/2015/04/11/zscroll-pure-flair/"  - zscroll: Pure flair
+
+"https://inconsolation.wordpress.com/2013/06/19/ztrack-a-primitive-3d-racing-game/"  - ztrack: A primitive 3D racing game
+

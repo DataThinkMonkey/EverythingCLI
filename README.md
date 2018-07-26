@@ -97,17 +97,12 @@ Added the following CLI applications:
 
 Converted website to markdown for github.
 
-## Branches
-
-* Markdown - Used for converting content from html to md for github.
-* Development - To be used for significant changes and layout.
-* Hotfixes - Quick fixes, usually to links, minor formatting, adding or updating a few items to list. 
-
 
 # Todo
 
-  * A lot of clean up and re-organization.
   * Review [SAL website](http://sai.msu.su/sal/) and apps from that site to this project. Possibly create new Science.md category.
+  * Review list of CLI apps from To_be_reviewed.txt and categorize.
+  * Categorize and list apps found on the [ttygames](https://ttygames.wordpress.com/) site.
   * Research implementation of Bib Tex for bibliography and add to Education.md.
   * Have at least one significant GUI app for each task.
   * Remove/replace abandoned or legacy apps.
