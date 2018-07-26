@@ -11,9 +11,19 @@ Please submit pull requests or submit an issue for any changes. The list of GUI
 apps is not meant to be complete, but only serve as a reference when looking
 for a possible replacement by the CLI app. 
 
-[Menu](menu.md)
+# [Menu](menu.md)
 
 ## Updates
+
+2018-07-25
+
+Added
+
+* New category Organization/Time Tracking.
+* Time tracking apps timebook and timetrap to Organization/Time Tracking.
+* goodreadsh (Goodreads website) to Internet/Informational.
+
+---
 
 2018-07-16
 

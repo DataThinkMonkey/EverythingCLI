@@ -135,4 +135,14 @@ CLI
   * [KED password manager](http://kedpm.sourceforge.net/screenshots.html)
   * [pwsafe](http://nsd.dyndns.org/pwsafe/)
 
+### Time Tracking
+
+GUI
+
+* [timecamp](https://www.timecamp.com/)
+
+CLI
+
+  * [timebook](https://bitbucket.org/trevor/timebook/wiki/Home)
+  * [timetrap](https://github.com/samg/timetrap)
 
