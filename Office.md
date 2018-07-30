@@ -232,4 +232,4 @@ GUI
 
 CLI
 
-* [GeekNote](https://github.com/zhoubear/open-paperless) (EverNote)
+* [GeekNote](https://github.com/VitaliyRodnenko/geeknote) (EverNote)
