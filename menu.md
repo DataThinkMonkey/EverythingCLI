@@ -50,7 +50,7 @@
 
 ## [Administration](Administration.md)
 
-[Printing](Administration.md#printing) | [Backup and Archieving](Administration.md#backup-and-archieving) | [Partition Formatting](Administration.md#partition-formatting) | [Package Management](Administration.md#package-management) | [Package Lookup](Administration.md#package-lookup) | [Firewalls](Administration.md#firewalls) | [Service Management](Administration.md#service-management) | [Process Management](Administration.md#process-management) | [Network Administration](Administration.md#network-administration) | [Data Recovery](Administration.md#data-recovery) | [System Clean up](Administration.md#system-clean-up)
+[Printing](Administration.md#printing) | [Backup and Archieving](Administration.md#backup-and-archieving) | [Partition Formatting](Administration.md#partition-formatting) | [Package Management](Administration.md#package-management) | [Package Lookup](Administration.md#package-lookup) | [Firewalls](Administration.md#firewalls) | [Service Management](Administration.md#service-management) | [Process Management](Administration.md#process-management) | [Network Administration](Administration.md#network-administration) | [Data Recovery](Administration.md#data-recovery) | [System Clean up](Administration.md#system-clean-up) | [Monitoring](Administration.md#monitoring)
 
 ## [Educational](Education.md)
 

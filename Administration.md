@@ -130,4 +130,10 @@ CLI
   * [fdupes](http://premium.caribe.net/~adrian2/programs/fdupes.html) (finds duplicates)
   * [findimagedupes](http://www.jhnc.org/findimagedupes/)
 
+### Monitoring
 
+GUI
+
+CLI
+
+* [s-tui](https://amanusk.github.io/s-tui/#simple-installation)

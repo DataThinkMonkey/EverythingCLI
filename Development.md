@@ -68,6 +68,7 @@ GUI
 
 CLI
 
+  * [lazygit](https://github.com/jesseduffield/lazygit)(Git Client)
   * [bzr](http://bazaar.canonical.com/en/)
   * [CVS](http://www.nongnu.org/cvs/)
   * [git](https://git-scm.com/)

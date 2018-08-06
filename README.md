@@ -15,6 +15,19 @@ for a possible replacement by the CLI app.
 
 ## Updates
 
+2018-08-06
+
+Added
+
+* Merged Organization.md with Office.md.
+* New category in Administration/Monitoring.
+* s-tui system monitoring tool UI in Administration/Monitoring.
+* Taskbook task manager Office/to-do lists.
+* note-keeper note taking tool in Office/Note Taking. 
+* lazygit git client with UI in Development/Version Tracking.
+
+---
+
 2018-07-25
 
 Added
